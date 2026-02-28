@@ -1,21 +1,39 @@
-# prompt-radar
+# Prompt Radar
 
-Track prompt updates across multiple AI tools using **multi-source evidence**, normalization, deduplication, and confidence scoring.
+Track prompt/system-instruction evolution across major AI tools with **multi-source evidence**, **version hashes**, and **change timelines**.
 
-## Why this is better than static prompt dumps
+> Goal: make prompt tracking production-usable, not just a static text dump.
 
-Single-source trackers break when one source disappears, changes format, or goes stale.
+---
 
-`prompt-radar` improves reliability by:
+## What this project does
 
-- collecting from **multiple source types** (docs, GitHub content/search hints, gists)
-- normalizing noisy text before comparing versions
-- deduplicating equivalent content with stable SHA-256 hashes
-- scoring confidence per source and selecting the best candidate
-- preserving a per-tool timeline for historical change tracking
-- using fallback behavior when sources fail (no data-loss on transient outages)
+Prompt Radar continuously watches prompt-related sources for multiple tools (Claude Code, Kiro, Codex, Antigravity, Gemini CLI, Kimi, GLM, Doubao), then:
+
+1. collects candidate prompt texts from multiple sources,
+2. normalizes + deduplicates content,
+3. computes stable content hashes,
+4. scores candidates by source confidence,
+5. selects the best current candidate per tool,
+6. records historical changes over time.
+
+---
+
+## Why Prompt Radar exists
+
+Most prompt repos are snapshots. They are useful, but often have one or more issues:
+- single-source dependency,
+- unclear update provenance,
+- no deterministic change history,
+- no confidence ranking when sources disagree.
+
+Prompt Radar is built to solve those gaps with a repeatable pipeline.
+
+---
 
 ## Tracked tools
+
+Configured in `config/sources.json`:
 
 - Claude Code
 - Kiro
@@ -26,36 +44,52 @@ Single-source trackers break when one source disappears, changes format, or goes
 - GLM
 - Doubao
 
-Configured in `config/sources.json`.
+You can add new tools by adding source definitions in the same config.
+
+---
+
+## How it works (pipeline)
+
+### 1) Source collection
+Collects from heterogeneous public sources (e.g., GitHub raw files, repos, gists, docs links).
+
+### 2) Normalization
+Converts text into a stable normalized form to reduce noise from formatting-only changes.
+
+### 3) Deduplication
+Uses SHA-256 hash to remove semantically identical candidates.
+
+### 4) Confidence scoring
+Each candidate gets a deterministic confidence score based on:
+- source type reliability,
+- source weight from config,
+- basic quality signal (content completeness/length).
+
+### 5) Selection
+Highest-confidence candidate is selected as the current snapshot for that tool.
+
+### 6) Change detection
+If selected hash differs from last run, a change event is emitted and history is appended.
+
+### 7) Fallback safety
+If all sources fail in one run, previous snapshot is retained and failure diagnostics are written.
+
+---
 
 ## Data outputs
 
-- `data/current.json` – latest selected candidate/evidence per tool
-- `data/history.json` – append-only timeline of detected changes per tool
-- `data/changes-latest.json` – changes detected in the latest run
+- `data/current.json`  
+  Latest selected candidate + metadata per tool.
 
-## Methodology
+- `data/history.json`  
+  Append-only timeline of detected prompt changes.
 
-1. Fetch all configured sources for each tool.
-2. Convert to normalized plain text and remove unstable noise.
-3. Compute `contentHash = sha256(normalizedContent)`.
-4. Deduplicate by hash.
-5. Score each candidate with a weighted confidence model:
-   - source-type reliability
-   - source weight from config
-   - minimum quality signal from content length
-6. Select top-confidence candidate.
-7. Compare top candidate hash with previous snapshot to detect changes.
-8. If all sources fail, keep prior candidate as fallback and record failures.
+- `data/changes-latest.json`  
+  Delta report for the most recent run.
 
-## CLI
+---
 
-```bash
-npm run update
-npm run report
-```
-
-## Local validation
+## Quick start
 
 ```bash
 npm ci
@@ -63,16 +97,63 @@ npm run update
 npm run report
 ```
 
-## GitHub Action automation
+### Commands
+
+- `npm run update` → run collector + selector + change detector
+- `npm run report` → print human-readable summary of latest changes
+
+---
+
+## Automation
 
 Workflow: `.github/workflows/update.yml`
 
-- Runs every 4 hours via cron
-- Runs `npm ci` + `npm run update` + `npm run report`
-- Auto-commits updated `data/*.json` if changed
+- cron: every 4 hours
+- steps: `npm ci` → `npm run update` → `npm run report`
+- if `data/*.json` changes: auto-commit to `main`
 
-## Notes
+---
 
-- No secrets are required.
-- Source endpoints can evolve; update `config/sources.json` as needed.
-- The confidence score is heuristic but deterministic and auditable.
+## Repository structure
+
+```text
+config/
+  sources.json          # tool/source registry and weights
+src/
+  ...                   # collectors, normalizers, scoring, diff logic
+scripts/
+  ...                   # runner/report scripts
+data/
+  current.json
+  history.json
+  changes-latest.json
+```
+
+---
+
+## Limitations
+
+- Public-source only (no private endpoints).
+- Some providers do not publish canonical prompts consistently.
+- Confidence score is heuristic (deterministic), not ground-truth certainty.
+
+---
+
+## Roadmap
+
+- [ ] per-tool source health dashboard
+- [ ] semantic diff (not only hash diff)
+- [ ] web status badge (`last update`, `changed tools count`)
+- [ ] signed release snapshots for auditability
+- [ ] optional webhook notifications on high-confidence changes
+
+---
+
+## Contributing
+
+If you know stronger sources for any tracked tool, open a PR to `config/sources.json` with:
+- source URL,
+- source type,
+- rationale for confidence weight.
+
+High-quality source curation is the core leverage of this project.
