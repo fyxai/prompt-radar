@@ -1,0 +1,84 @@
+{
+  "tools": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "aliases": ["claude code", "claude-code"],
+      "sources": [
+        { "type": "github_file", "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/system-prompt.md", "weight": 1.0 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=claude+code+system+prompt&type=code", "weight": 0.45 },
+        { "type": "doc", "url": "https://docs.anthropic.com/en/docs/claude-code", "weight": 0.7 }
+      ]
+    },
+    {
+      "id": "kiro",
+      "name": "Kiro",
+      "aliases": ["kiro"],
+      "sources": [
+        { "type": "doc", "url": "https://kiro.dev/docs", "weight": 0.75 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=kiro+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=kiro+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "codex",
+      "name": "Codex",
+      "aliases": ["codex", "openai codex"],
+      "sources": [
+        { "type": "doc", "url": "https://platform.openai.com/docs", "weight": 0.85 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=codex+system+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=codex+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "antigravity",
+      "name": "Antigravity",
+      "aliases": ["antigravity"],
+      "sources": [
+        { "type": "doc", "url": "https://antigravity.ai", "weight": 0.65 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=antigravity+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=antigravity+ai+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "gemini-cli",
+      "name": "Gemini CLI",
+      "aliases": ["gemini cli", "gemini-cli"],
+      "sources": [
+        { "type": "doc", "url": "https://ai.google.dev/gemini-api/docs", "weight": 0.85 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=gemini+cli+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=gemini+cli+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "aliases": ["kimi", "moonshot kimi"],
+      "sources": [
+        { "type": "doc", "url": "https://platform.moonshot.ai/docs", "weight": 0.75 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=kimi+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=kimi+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "glm",
+      "name": "GLM",
+      "aliases": ["glm", "chatglm"],
+      "sources": [
+        { "type": "doc", "url": "https://open.bigmodel.cn/dev/api", "weight": 0.75 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=chatglm+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=chatglm+prompt", "weight": 0.35 }
+      ]
+    },
+    {
+      "id": "doubao",
+      "name": "Doubao",
+      "aliases": ["doubao", "volcengine doubao"],
+      "sources": [
+        { "type": "doc", "url": "https://www.volcengine.com/docs/82379", "weight": 0.75 },
+        { "type": "github_search_hint", "url": "https://github.com/search?q=doubao+prompt&type=code", "weight": 0.45 },
+        { "type": "gist", "url": "https://gist.github.com/search?q=doubao+prompt", "weight": 0.35 }
+      ]
+    }
+  ]
+}

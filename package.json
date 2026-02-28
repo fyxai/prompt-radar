@@ -1,0 +1,15 @@
+{
+  "name": "prompt-radar",
+  "version": "1.0.0",
+  "description": "Track prompt updates across multiple AI tools from multiple sources with confidence scoring and change timelines.",
+  "type": "module",
+  "private": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "update": "node src/update.js",
+    "report": "node src/report.js"
+  },
+  "license": "MIT"
+}

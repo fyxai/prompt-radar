@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-02-28T08:34:51.353Z",
+  "tools": {
+    "claude-code": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": null,
+        "newHash": "d4b08649b1ffa8fc2e0699a070f2e09b4651965c2501a76338f85141571ef388",
+        "confidence": 0.804,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+      }
+    ],
+    "kiro": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": null,
+        "newHash": "8a2e1dedb43bed74ffdee4716e215f889a0ee6e3b275b800b896ac46f78b1b28",
+        "confidence": 0.794,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Powers Autonomous agent Enterprise Pricing Docs Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kir…"
+      }
+    ],
+    "codex": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": null,
+        "newHash": "7a868ef3966ee2ace62584f79e7a67ffaa2eb1f74d9a3b36c6c6a1f03e7c2b46",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=codex+system+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      }
+    ],
+    "antigravity": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": null,
+        "newHash": "6eae1724e8dab7dc98c6de0ed85c93d477caf5f7dd3f14c98eb09f922e37f4f0",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      }
+    ],
+    "gemini-cli": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": null,
+        "newHash": "5d38c5fa712c56b303bdda75bea2f95a295cc3bc8a55a36b5c7dd28d32ab6689",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      }
+    ],
+    "kimi": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": null,
+        "newHash": "97c74e9a09cd92cad5fd8786465ce8cdd032badf8eba204d62453fcc109632ac",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=kimi+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      }
+    ],
+    "glm": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": null,
+        "newHash": "6a3561319c063ef53dbfddb929297264a445bb035a96aad9702ee7955f357334",
+        "confidence": 0.76,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "智谱AI开放平台 We're sorry but 智谱AI开放平台 doesn't work properly without JavaScript enabled. Please enable it to continue."
+      }
+    ],
+    "doubao": [
+      {
+        "detectedAt": "2026-02-28T08:34:51.353Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": null,
+        "newHash": "c50fb5449b1253a6061f8d40050396102f7baf2da3441bf05a753ea6443aa774",
+        "confidence": 0.797,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "火山方舟大模型服务平台-火山引擎 You need to enable JavaScript to run this app. 文档中心 简体 文档 备案 控制台 登录 立即注册 火山方舟大模型服务平台 文档指南 API参考 资源 火山方舟大模型服务平台 火山方舟大模型服务平台 文档指南 请输入 开始使用 产品简介 快速入门 模型列表 模型价格 模型调用 文…"
+      }
+    ]
+  }
+}
