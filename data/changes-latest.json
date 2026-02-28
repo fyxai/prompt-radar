@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-02-28T16:51:08.041Z",
+  "generatedAt": "2026-02-28T20:48:28.060Z",
   "changes": [
     {
-      "detectedAt": "2026-02-28T16:51:08.041Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "c50fb5449b1253a6061f8d40050396102f7baf2da3441bf05a753ea6443aa774",
-      "newHash": "e4e68d8f9a30ad8ea63a74a92dcb64439f156796d84c78ae3b06897b6f89525f",
-      "confidence": 0.797,
+      "detectedAt": "2026-02-28T20:48:28.060Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "d4b08649b1ffa8fc2e0699a070f2e09b4651965c2501a76338f85141571ef388",
+      "newHash": "927fcf813c8a4457c18f19b343d3e9dc829d3f407a30a7ff2bb8a94e947704a8",
+      "confidence": 0.805,
       "source": {
         "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
       },
-      "preview": "火山方舟大模型服务平台-火山引擎 You need to enable JavaScript to run this app. 文档中心 简体 文档 备案 控制台 登录 立即注册 火山方舟大模型服务平台 文档指南 API参考 资源 火山方舟大模型服务平台 火山方舟大模型服务平台 文档指南 请输入 开始使用 产品简介 快速入门 模型列表 模型价格 模型调用 文…"
+      "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+    },
+    {
+      "detectedAt": "2026-02-28T20:48:28.060Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "5d38c5fa712c56b303bdda75bea2f95a295cc3bc8a55a36b5c7dd28d32ab6689",
+      "newHash": "6fca1551780b3b792af19de97b607b602dbc851b80718a51d6c652c50bbf8ca1",
+      "confidence": 0.835,
+      "source": {
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
+      },
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 기본 콘텐츠로 건너뛰기 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt T…"
     }
   ]
 }
