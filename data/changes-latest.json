@@ -1,47 +1,19 @@
 {
-  "generatedAt": "2026-03-16T19:36:18.121Z",
+  "generatedAt": "2026-03-16T21:55:52.298Z",
   "changes": [
     {
-      "detectedAt": "2026-03-16T19:36:18.121Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "7a868ef3966ee2ace62584f79e7a67ffaa2eb1f74d9a3b36c6c6a1f03e7c2b46",
-      "newHash": "f176fe416192333062038716bab842ef60414d9234cc60ff765447f0a39cd9aa",
-      "confidence": 0.546,
+      "detectedAt": "2026-03-16T21:55:52.298Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "1e79e1cd80dbf054073aca52d0a3a30c21731fb09c6d08a35aa4d7f9a8422188",
+      "newHash": "9b02ba2fb74679f973de37ba65fef39c30f9ae8cc20d34e41afb1cc3ae75a0e5",
+      "confidence": 0.834,
       "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=codex+system+prompt&type=code",
-        "weight": 0.45
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
       },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
-    },
-    {
-      "detectedAt": "2026-03-16T19:36:18.121Z",
-      "toolId": "antigravity",
-      "toolName": "Antigravity",
-      "previousHash": "6eae1724e8dab7dc98c6de0ed85c93d477caf5f7dd3f14c98eb09f922e37f4f0",
-      "newHash": "c4622e2d31d944d5b4e62956ce4132d8c162b2c2579cf88936895d4471cdbe8b",
-      "confidence": 0.546,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=antigravity+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
-    },
-    {
-      "detectedAt": "2026-03-16T19:36:18.121Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "97c74e9a09cd92cad5fd8786465ce8cdd032badf8eba204d62453fcc109632ac",
-      "newHash": "c1da68b2b71cf2600215275f871c6323cadd578fe6d1c0bcffa5377833419713",
-      "confidence": 0.546,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=kimi+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 跳至主要內容 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe …"
     }
   ]
 }
