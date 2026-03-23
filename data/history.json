@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T18:10:16.496Z",
+  "generatedAt": "2026-03-23T21:51:05.964Z",
   "tools": {
     "claude-code": [
       {
@@ -120,6 +120,20 @@
         "toolName": "Claude Code",
         "previousHash": "407b4f508f07a4577b1a00719b16597a25d394f0d9103608ef9d54c70ac37122",
         "newHash": "3b26d022c1aa155b750a660dec76163f96702966d14aaf56b406ed80e9341398",
+        "confidence": 0.806,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+      },
+      {
+        "detectedAt": "2026-03-23T21:51:05.964Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "3b26d022c1aa155b750a660dec76163f96702966d14aaf56b406ed80e9341398",
+        "newHash": "7356a043ea822a709af78788f0d6a40927c4c7b76612ca7017309936320556fe",
         "confidence": 0.806,
         "source": {
           "type": "doc",
@@ -1479,6 +1493,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-03-23T21:51:05.964Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "0730a33f1d88f53ae521e3801b2eccb358b7dd55a913c74d5482d081e2528f21",
+        "newHash": "3b5340e2618e27c44e053ba37b2a535212ed6b6881da79484448f68501aab78b",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 跳至主要內容 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe …"
       }
     ],
     "kimi": [
