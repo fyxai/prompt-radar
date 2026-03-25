@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T05:15:55.346Z",
+  "generatedAt": "2026-03-25T10:34:16.646Z",
   "tools": {
     "claude-code": [
       {
@@ -1842,6 +1842,20 @@
         "toolName": "Doubao",
         "previousHash": "6199ca8384e5fbb3241b81e78c2bf5c4407619e9766ba8169a15332d9af41094",
         "newHash": "404872d018ced494c2e751c561e08241488cd9aee1c7c826a51ae1644997e2dd",
+        "confidence": 0.797,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "火山方舟-火山引擎 You need to enable JavaScript to run this app. 文档中心 简体 文档 备案 控制台 登录 立即注册 火山方舟 文档指南 API参考 资源 火山方舟 火山方舟 文档指南 请输入 开始使用 产品简介 快速入门 模型列表 模型价格 模型调用 文本生成 多模态理解 图片理解 视频理解 文档理解 视频生…"
+      },
+      {
+        "detectedAt": "2026-03-25T10:34:16.646Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "404872d018ced494c2e751c561e08241488cd9aee1c7c826a51ae1644997e2dd",
+        "newHash": "612afd765b51f9750ac0f6a710e9fd69e4c63d5e43d464c481dbb5fdf5634df0",
         "confidence": 0.797,
         "source": {
           "type": "doc",
