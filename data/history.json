@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T05:51:00.664Z",
+  "generatedAt": "2026-03-26T10:38:59.524Z",
   "tools": {
     "claude-code": [
       {
@@ -1698,6 +1698,20 @@
         "toolName": "Kimi",
         "previousHash": "f4282d69f29ac72936c902f9446c48d7b925af1df6cca9e16be0b6996ca6bae7",
         "newHash": "a72ad174ff4160289005505eaa82910736fa8a5ac4f8f6db8ac593ff78d1cb31",
+        "confidence": 0.8,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Welcome to Kimi API Docs - Kimi API Platform 🎉 New kimi k2.5 Multi-modal Model released! Now supports multimodal understanding and processing. Contact Sales Blog Docs Playground C…"
+      },
+      {
+        "detectedAt": "2026-03-26T10:38:59.524Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "a72ad174ff4160289005505eaa82910736fa8a5ac4f8f6db8ac593ff78d1cb31",
+        "newHash": "21457e014f8795a04e832df675f449d40f1f0fa14ae5ecd8078bffd410cda1f0",
         "confidence": 0.8,
         "source": {
           "type": "doc",
