@@ -1,26 +1,40 @@
 {
-  "generatedAt": "2026-04-02T05:27:14.505Z",
+  "generatedAt": "2026-04-02T08:43:56.119Z",
   "changes": [
     {
-      "detectedAt": "2026-04-02T05:27:14.505Z",
+      "detectedAt": "2026-04-02T08:43:56.119Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "e35856d9135f860ba4e4b7c4f7059ae8acce39e2356825beec0de2bb08bfef48",
-      "newHash": "32df474d38f0ef7f988a6d9704608050b14975264a8be134927568e22774abe9",
-      "confidence": 0.839,
+      "previousHash": "32df474d38f0ef7f988a6d9704608050b14975264a8be134927568e22774abe9",
+      "newHash": "970246b89b5d5d36f88d14427e85901331d68d1d7d2f371568b54879d378efeb",
+      "confidence": 0.841,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
     },
     {
-      "detectedAt": "2026-04-02T05:27:14.505Z",
+      "detectedAt": "2026-04-02T08:43:56.119Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "d5a01ad90984f7a6b9fa37a141e98afea6b9ab5231ff1dd59b4ec6024fd5dbc8",
+      "newHash": "ab3710853c9d0f285d423b2a38960482140d03df93b4bf21c8941c54e3a8f9f9",
+      "confidence": 0.798,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Skip to main content 智谱AI开放文档 home page Search... ⌘ K 控制台 价格 财务 API Key 个人中心 Search... Navigation 开始使用 平台介绍 使用指南 API 文档 场景示例 编码套餐 更新日志 条款与协议 常见问题 开始使用 平台介绍 模型概览 快速开…"
+    },
+    {
+      "detectedAt": "2026-04-02T08:43:56.119Z",
       "toolId": "doubao",
       "toolName": "Doubao",
-      "previousHash": "11135d8d30242acb54f16ae904650c723cfd31a4c9ec8c8e90c21a503b2c4064",
-      "newHash": "67e5b06680e7aabd36480ec5170a2103aaa218b8fbab953d636ac9f6790e07b9",
+      "previousHash": "67e5b06680e7aabd36480ec5170a2103aaa218b8fbab953d636ac9f6790e07b9",
+      "newHash": "5fad61a7c185413cf32ce0d14791f61c414e87f5473ff9b0cb863693ed5df3bd",
       "confidence": 0.797,
       "source": {
         "type": "doc",
