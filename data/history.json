@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T01:11:54.973Z",
+  "generatedAt": "2026-04-04T05:17:08.962Z",
   "tools": {
     "claude-code": [
       {
@@ -204,6 +204,20 @@
         "toolName": "Claude Code",
         "previousHash": "1d6af964f6c772a49413617c60d6f4aca98988ba483e41dad5c234b021ad4056",
         "newHash": "4499b1fc817153c5c01d83722d5f7439fac6017d2fc6b0ffe5388ab96c7706a9",
+        "confidence": 0.806,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+      },
+      {
+        "detectedAt": "2026-04-04T05:17:08.962Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "4499b1fc817153c5c01d83722d5f7439fac6017d2fc6b0ffe5388ab96c7706a9",
+        "newHash": "2cde87d3fb377b20bd282f51610909465d9bd2017897edd4bc2112db1253de62",
         "confidence": 0.806,
         "source": {
           "type": "doc",
@@ -2249,6 +2263,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ana içeriğe atla / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Viê…"
+      },
+      {
+        "detectedAt": "2026-04-04T05:17:08.962Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "b2f567af1e64f42561cabccabcb3ed7aa2626d94872d1169bcdf46af39061362",
+        "newHash": "32df474d38f0ef7f988a6d9704608050b14975264a8be134927568e22774abe9",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
