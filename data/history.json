@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T01:24:32.994Z",
+  "generatedAt": "2026-04-17T05:57:40.426Z",
   "tools": {
     "claude-code": [
       {
@@ -3341,6 +3341,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      },
+      {
+        "detectedAt": "2026-04-17T05:57:40.426Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "780fe8f70179d2fde9fa034450c377dadfc032e3d6ea903372a35cffad7916e5",
+        "newHash": "6f90905de5d66e2bed92deb70ab217723095f9a5da8d2aa5ac402d76aed6fadb",
+        "confidence": 0.841,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
       }
     ],
     "kimi": [
@@ -3942,6 +3956,20 @@
         "toolName": "Doubao",
         "previousHash": "bc5b5e7475f9c3316e5635d1d37524d1a4e2fab5b98e51a4b65d2e046bf9803a",
         "newHash": "e785d2ee65e53aeb96922fb38d41c01ec2a6a86be5f508385c1ff2a5897de6bd",
+        "confidence": 0.797,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "火山方舟-火山引擎 You need to enable JavaScript to run this app. 文档中心 简体 文档 备案 控制台 火山方舟 文档指南 API参考 资源 火山方舟 火山方舟 文档指南 请输入 开始使用 产品简介 快速入门 模型列表 模型价格 模型调用 文本生成 多模态理解 图片理解 视频理解 文档理解 视频生成 Seedan…"
+      },
+      {
+        "detectedAt": "2026-04-17T05:57:40.426Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "e785d2ee65e53aeb96922fb38d41c01ec2a6a86be5f508385c1ff2a5897de6bd",
+        "newHash": "fe76390008c9ca82da290164d5c7980927d0326e9f0329cfe2e3a5d6eaed8cc4",
         "confidence": 0.797,
         "source": {
           "type": "doc",
