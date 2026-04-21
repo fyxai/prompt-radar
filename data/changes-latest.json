@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-04-20T20:35:01.672Z",
+  "generatedAt": "2026-04-21T01:24:24.750Z",
   "changes": [
     {
-      "detectedAt": "2026-04-20T20:35:01.672Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "d0032adeaa7f58af1162dcee283027f7dbd370cc1a2a641deb6ace14c971512f",
-      "newHash": "0b5bd2fab314f7654fbb7c295dbcbf1c5636f213cc223b3c9ca5dfc67f73a135",
-      "confidence": 0.806,
-      "source": {
-        "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
-      },
-      "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
-    },
-    {
-      "detectedAt": "2026-04-20T20:35:01.672Z",
+      "detectedAt": "2026-04-21T01:24:24.750Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "c64976faff7b8f8403e75a00e3f87b2d6c5350d5abc2d2240d91fe9d875dc7a5",
-      "newHash": "787aa45f906f5e3590db42a9798a40ff54511b5e0cd5f934551fa9275a1e6ba2",
-      "confidence": 0.841,
+      "previousHash": "787aa45f906f5e3590db42a9798a40ff54511b5e0cd5f934551fa9275a1e6ba2",
+      "newHash": "c64976faff7b8f8403e75a00e3f87b2d6c5350d5abc2d2240d91fe9d875dc7a5",
+      "confidence": 0.839,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-04-21T01:24:24.750Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "393377dbfc82de8abc5de5a2ef4c53a97e231936fdba9a489cf6518859370122",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
