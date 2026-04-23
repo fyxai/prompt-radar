@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T01:28:08.240Z",
+  "generatedAt": "2026-04-23T05:58:51.819Z",
   "tools": {
     "claude-code": [
       {
@@ -330,6 +330,20 @@
         "toolName": "Claude Code",
         "previousHash": "d0032adeaa7f58af1162dcee283027f7dbd370cc1a2a641deb6ace14c971512f",
         "newHash": "0b5bd2fab314f7654fbb7c295dbcbf1c5636f213cc223b3c9ca5dfc67f73a135",
+        "confidence": 0.806,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+      },
+      {
+        "detectedAt": "2026-04-23T05:58:51.819Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "0b5bd2fab314f7654fbb7c295dbcbf1c5636f213cc223b3c9ca5dfc67f73a135",
+        "newHash": "38d72b4ae98af92830474e1de7575aeb41f4406f2abd2e280a26acf26431e297",
         "confidence": 0.806,
         "source": {
           "type": "doc",
