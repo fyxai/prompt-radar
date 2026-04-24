@@ -1,4 +1,33 @@
 {
-  "generatedAt": "2026-04-23T20:42:25.112Z",
-  "changes": []
+  "generatedAt": "2026-04-24T01:27:13.501Z",
+  "changes": [
+    {
+      "detectedAt": "2026-04-24T01:27:13.501Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "ebc4483807d9acb52f0816167ad1ce9a9474258c175af824722ec9bd4b371497",
+      "newHash": "8716600914d9e6535f1ac0e68d773f7af738ef00345ac0a64cb11c9a63d9836e",
+      "confidence": 0.794,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Powers Autonomous agent Enterprise Pricing Docs Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kir…"
+    },
+    {
+      "detectedAt": "2026-04-24T01:27:13.501Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "466171275c313eeeb5f8dfce4c7197773f3ac14e86d0d7d57defca8e78db4637",
+      "newHash": "7c64e853df49b2b66e5d1bef79a7c0ea70569fb584e95bc0f26eeb5e69c49010",
+      "confidence": 0.839,
+      "source": {
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
+      },
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers ข้ามไปที่เนื้อหาหลัก / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    }
+  ]
 }
