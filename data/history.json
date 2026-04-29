@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:58:06.345Z",
+  "generatedAt": "2026-04-29T01:54:44.966Z",
   "tools": {
     "claude-code": [
       {
@@ -358,6 +358,20 @@
         "toolName": "Claude Code",
         "previousHash": "38d72b4ae98af92830474e1de7575aeb41f4406f2abd2e280a26acf26431e297",
         "newHash": "c6848ec542db66f163ebfdb5d288c6b316676b4224fd61ba28d54023bd59ec8c",
+        "confidence": 0.807,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Claude Code overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on…"
+      },
+      {
+        "detectedAt": "2026-04-29T01:54:44.966Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "c6848ec542db66f163ebfdb5d288c6b316676b4224fd61ba28d54023bd59ec8c",
+        "newHash": "2c79ae3c784d884b1fc3a790f4be91564c349772a869fc4eb65d9c38da97852e",
         "confidence": 0.807,
         "source": {
           "type": "doc",
@@ -4323,6 +4337,20 @@
           "weight": 0.75
         },
         "preview": "Welcome to Kimi API Docs - Kimi API Platform Skip to main content 🎉 Kimi K2.6 has been released with improved long-context coding stability. Top-up bonus event in progress 🔗 Kimi…"
+      },
+      {
+        "detectedAt": "2026-04-29T01:54:44.966Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "503382b4d1d547c04a0d30d5658f7a73e99e1f117bc1ff378cbdd35e0b92721c",
+        "newHash": "633a66fa72d6d4e899a9134181f8a8b084e4b33273b68f58d2d6e07ec1a76bf4",
+        "confidence": 0.791,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Welcome to Kimi API Docs - Kimi API Platform Skip to main content 🎉 Kimi K2.6 has been released with improved long-context coding stability. Top-up bonus event in progress 🔗 Kimi…"
       }
     ],
     "glm": [
@@ -4445,6 +4473,20 @@
         "previousHash": "a7ea51ec8269212db346bd859413b5c2ca7ee087e49a452f3f85ad42593880e2",
         "newHash": "af4d31bd6449250e22d4c3383f25bea7ebaa88313e7466bf975106e1f8e8dc34",
         "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Skip to main content 智谱AI开放文档 home page Search... ⌘ K 控制台 价格 财务 API Key 个人中心 Search... Navigation 开始使用 平台介绍 使用指南 API 文档 场景示例 编码套餐 更新日志 条款与协议 常见问题 开始使用 平台介绍 模型概览 快速开…"
+      },
+      {
+        "detectedAt": "2026-04-29T01:54:44.966Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "af4d31bd6449250e22d4c3383f25bea7ebaa88313e7466bf975106e1f8e8dc34",
+        "newHash": "89e9ebb8d6b36e446faed44ebd4253058f5b91b4db9f389478f15d344939e1bb",
+        "confidence": 0.799,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",
