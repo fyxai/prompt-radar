@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T20:49:09.056Z",
+  "generatedAt": "2026-05-01T01:55:41.647Z",
   "tools": {
     "claude-code": [
       {
@@ -525,6 +525,20 @@
           "weight": 0.35
         },
         "preview": "Search · antigravity ai prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refre…"
+      },
+      {
+        "detectedAt": "2026-05-01T01:55:41.647Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "30b1fdcd18e2859212eb702c07f00c597d9118e654e75dbdea8e6d8da6634993",
+        "newHash": "c4622e2d31d944d5b4e62956ce4132d8c162b2c2579cf88936895d4471cdbe8b",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
       }
     ],
     "gemini-cli": [
@@ -4471,6 +4485,20 @@
         "previousHash": "503382b4d1d547c04a0d30d5658f7a73e99e1f117bc1ff378cbdd35e0b92721c",
         "newHash": "633a66fa72d6d4e899a9134181f8a8b084e4b33273b68f58d2d6e07ec1a76bf4",
         "confidence": 0.791,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Welcome to Kimi API Docs - Kimi API Platform Skip to main content 🎉 Kimi K2.6 has been released with improved long-context coding stability. Top-up bonus event in progress 🔗 Kimi…"
+      },
+      {
+        "detectedAt": "2026-05-01T01:55:41.647Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "633a66fa72d6d4e899a9134181f8a8b084e4b33273b68f58d2d6e07ec1a76bf4",
+        "newHash": "715520b2c039f831a99238c1049b3281e9fa5a38e742206dd069de9a6abc1592",
+        "confidence": 0.79,
         "source": {
           "type": "doc",
           "url": "https://platform.moonshot.ai/docs",
