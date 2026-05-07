@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T17:39:55.003Z",
+  "generatedAt": "2026-05-07T20:56:18.792Z",
   "tools": {
     "claude-code": [
       {
@@ -458,6 +458,20 @@
         "toolName": "Kiro",
         "previousHash": "67308b0916bce7fbac3598c55d6a28c6b0d714e2c28453a1e608f60cfeaa3a65",
         "newHash": "05b3ebe1789b73d7b2ff0ef326408f2635eb31be9e4a0f7ff9b0d16bf6ece367",
+        "confidence": 0.793,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Web Powers Enterprise Pricing Docs Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kiro CLI Web Pow…"
+      },
+      {
+        "detectedAt": "2026-05-07T20:56:18.792Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "05b3ebe1789b73d7b2ff0ef326408f2635eb31be9e4a0f7ff9b0d16bf6ece367",
+        "newHash": "2379231a9ff097a71714845bff8c1254f7e2d5a6a049b3938912a679ffeed31a",
         "confidence": 0.793,
         "source": {
           "type": "doc",
@@ -4783,6 +4797,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 기본 콘텐츠로 건너뛰기 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt T…"
+      },
+      {
+        "detectedAt": "2026-05-07T20:56:18.792Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "75c10dff624b83158a36ea0c4286688f561cc0ab9ad384c74415efeec852b2ea",
+        "newHash": "8f898a3f0f89e6d47f9a705b1a000953c2507e8ba4d74e4c66504641397c87ad",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Bra…"
       }
     ],
     "kimi": [
