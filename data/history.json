@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T09:03:49.752Z",
+  "generatedAt": "2026-05-08T13:05:58.771Z",
   "tools": {
     "claude-code": [
       {
@@ -4832,6 +4832,20 @@
         "toolName": "Gemini CLI",
         "previousHash": "c1488c15dfb17957aaf21a97f8f38131917f42d2b87a777e6822e9cca9021252",
         "newHash": "8f898a3f0f89e6d47f9a705b1a000953c2507e8ba4d74e4c66504641397c87ad",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Bra…"
+      },
+      {
+        "detectedAt": "2026-05-08T13:05:58.771Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "8f898a3f0f89e6d47f9a705b1a000953c2507e8ba4d74e4c66504641397c87ad",
+        "newHash": "8fc222bf1ccff6edbb124b8cd56071e5553c0a7e765a678a088ab32f6933456b",
         "confidence": 0.839,
         "source": {
           "type": "doc",
