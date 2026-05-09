@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-05-09T16:39:40.488Z",
+  "generatedAt": "2026-05-09T20:33:37.860Z",
   "changes": [
     {
-      "detectedAt": "2026-05-09T16:39:40.488Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "2d8c31d97db9d7a7a638be9dfdecb3bd47db6483bc18b703df63e8a77c755f0c",
-      "newHash": "4317e9f27f7167be98815304cc2fc3de17a14007031e09498b0bb9915764d795",
-      "confidence": 0.839,
+      "detectedAt": "2026-05-09T20:33:37.860Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "e3d4ae680104727068d8cc74a5645697a8ff3b654719a0f5ff7b2531a3559f3e",
+      "newHash": "721f323a3810a02d25f78b117186b82f3244b7248031d59e4885ca2a02d6b33a",
+      "confidence": 0.506,
       "source": {
-        "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
+        "type": "gist",
+        "url": "https://gist.github.com/search?q=codex+prompt",
+        "weight": 0.35
       },
-      "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Bra…"
+      "preview": "Search · codex prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your s…"
+    },
+    {
+      "detectedAt": "2026-05-09T20:33:37.860Z",
+      "toolId": "antigravity",
+      "toolName": "Antigravity",
+      "previousHash": "bb0178c6fb28fd475b8974b1fd069e6b262cd924f268ba7c7c7f3b0b046a92b3",
+      "newHash": "da8391c8c33bb28e58f18b6a1f268c8c87c0bc48bddbb5284e2c7df0beb00db5",
+      "confidence": 0.503,
+      "source": {
+        "type": "gist",
+        "url": "https://gist.github.com/search?q=antigravity+ai+prompt",
+        "weight": 0.35
+      },
+      "preview": "Search · antigravity ai prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refre…"
     }
   ]
 }
