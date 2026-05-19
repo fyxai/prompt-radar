@@ -1,4 +1,33 @@
 {
-  "generatedAt": "2026-05-19T14:33:20.874Z",
-  "changes": []
+  "generatedAt": "2026-05-19T17:55:46.650Z",
+  "changes": [
+    {
+      "detectedAt": "2026-05-19T17:55:46.650Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "738513dcc9db2be4e7e87eaa314b21fe9be93606bd5dd6f535e05f415aadc3dc",
+      "newHash": "107235f4d793ea639377cdbcd915fcf56baf37e9a769690589c0a3419f66edbd",
+      "confidence": 0.807,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Claude Developer Platform Claude Code on the Web Claude Code on the Web Sea…"
+    },
+    {
+      "detectedAt": "2026-05-19T17:55:46.650Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "a1047dd8a7a39d13f7d79574f4fc3aff9bf1fd4629e4a59f5547800eb9bfdb48",
+      "newHash": "482390bc89d18a3c03e85e034b6c7afcc119e39b57d8705fb03ce2bb6943e3ab",
+      "confidence": 0.841,
+      "source": {
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
+      },
+      "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Portugu…"
+    }
+  ]
 }
