@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-05-19T21:10:14.144Z",
+  "generatedAt": "2026-05-20T02:07:36.937Z",
   "changes": [
     {
-      "detectedAt": "2026-05-19T21:10:14.144Z",
+      "detectedAt": "2026-05-20T02:07:36.937Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "2379231a9ff097a71714845bff8c1254f7e2d5a6a049b3938912a679ffeed31a",
+      "newHash": "f65cc1f3163b958c430f8fecf040532b7d50bc913aea73bd43c6de3990600358",
+      "confidence": 0.793,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Web Powers Enterprise Pricing Docs Community Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kiro C…"
+    },
+    {
+      "detectedAt": "2026-05-20T02:07:36.937Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "482390bc89d18a3c03e85e034b6c7afcc119e39b57d8705fb03ce2bb6943e3ab",
-      "newHash": "c5ffd1967cd625fb84d65f934ab05d91dc092b413a2cb45548d81ae31e34f07d",
-      "confidence": 0.841,
+      "previousHash": "c5ffd1967cd625fb84d65f934ab05d91dc092b413a2cb45548d81ae31e34f07d",
+      "newHash": "dbe405ab90f24691f050f49f8225610029d70270aa7a128044920c10921976f5",
+      "confidence": 0.836,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Portugu…"
+      "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
     }
   ]
 }
