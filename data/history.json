@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:24:45.478Z",
+  "generatedAt": "2026-05-28T18:28:39.788Z",
   "tools": {
     "claude-code": [
       {
@@ -556,6 +556,20 @@
         "toolName": "Kiro",
         "previousHash": "2379231a9ff097a71714845bff8c1254f7e2d5a6a049b3938912a679ffeed31a",
         "newHash": "f65cc1f3163b958c430f8fecf040532b7d50bc913aea73bd43c6de3990600358",
+        "confidence": 0.793,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Web Powers Enterprise Pricing Docs Community Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kiro C…"
+      },
+      {
+        "detectedAt": "2026-05-28T18:28:39.788Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "f65cc1f3163b958c430f8fecf040532b7d50bc913aea73bd43c6de3990600358",
+        "newHash": "2d218a787fbc01c61210ae34a4247325d8ae5da8ba24df5c7ad94069ee0be787",
         "confidence": 0.793,
         "source": {
           "type": "doc",
@@ -6211,6 +6225,20 @@
           "weight": 0.85
         },
         "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Bra…"
+      },
+      {
+        "detectedAt": "2026-05-28T18:28:39.788Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "bf77b77cdebbeeee96997d3433b4c651958241f378c4da5a801471a840025efb",
+        "newHash": "519fea579793d19f65099dc45e14118218c67248e36c69c47df601ef70047947",
+        "confidence": 0.841,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini generateContent API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Portu…"
       }
     ],
     "kimi": [
