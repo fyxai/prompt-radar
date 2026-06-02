@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T15:56:20.065Z",
+  "generatedAt": "2026-06-02T19:36:28.815Z",
   "tools": {
     "claude-code": [
       {
@@ -691,6 +691,20 @@
           "weight": 0.85
         },
         "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      },
+      {
+        "detectedAt": "2026-06-02T19:36:28.815Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "7d8e6d3a1e25c02b59444fc1ffb6fdc6776c60f32d4e1f2ae80a144e0df4df81",
+        "newHash": "d1b85d798e4243022b0ad4f22ba6ba2955faa0f9cf926959e3245070f78b83bd",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
       }
     ],
     "antigravity": [
@@ -812,6 +826,20 @@
         "toolName": "Antigravity",
         "previousHash": "da8391c8c33bb28e58f18b6a1f268c8c87c0bc48bddbb5284e2c7df0beb00db5",
         "newHash": "bb0178c6fb28fd475b8974b1fd069e6b262cd924f268ba7c7c7f3b0b046a92b3",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      },
+      {
+        "detectedAt": "2026-06-02T19:36:28.815Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "bb0178c6fb28fd475b8974b1fd069e6b262cd924f268ba7c7c7f3b0b046a92b3",
+        "newHash": "d48338f9ff0cd542222014608d40b8171b8679b466c57fda293ec636bc35c16b",
         "confidence": 0.546,
         "source": {
           "type": "github_search_hint",
@@ -6547,6 +6575,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-06-02T19:36:28.815Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "424833f959af09c34e36f9bd2eae1128de3a652428618f6515e41bf96aa1bf9b",
+        "newHash": "b982209c1ca3a7ab4e72314b5278f4b24541de26bf4d4a589e1886be748b4827",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
       }
     ],
     "kimi": [
