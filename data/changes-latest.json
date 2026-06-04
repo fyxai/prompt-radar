@@ -1,89 +1,19 @@
 {
-  "generatedAt": "2026-06-03T22:22:24.497Z",
+  "generatedAt": "2026-06-04T02:36:28.380Z",
   "changes": [
     {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "aeb05d56a1ff4c9afe4e89e62b3a9294f09e90f4415e9814db84bb3d89482449",
-      "newHash": "a5332ea3925dc792fd99fb8cb1e5632e7ddf123f245c76a94f5503d99e8be35d",
-      "confidence": 0.807,
-      "source": {
-        "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
-      },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
+      "detectedAt": "2026-06-04T02:36:28.380Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "2d218a787fbc01c61210ae34a4247325d8ae5da8ba24df5c7ad94069ee0be787",
-      "newHash": "b62c45d4074aaa49f6e9217091539a36e8c4d15a45f2fb12d43ae427b12b262f",
-      "confidence": 0.546,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=kiro+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
-    },
-    {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "d1b85d798e4243022b0ad4f22ba6ba2955faa0f9cf926959e3245070f78b83bd",
-      "newHash": "aecd1d7ff1783daf61cc25605e2b0ef7fbb10951e4410e574a2891ea9a012e6d",
-      "confidence": 0.847,
+      "previousHash": "b62c45d4074aaa49f6e9217091539a36e8c4d15a45f2fb12d43ae427b12b262f",
+      "newHash": "2d218a787fbc01c61210ae34a4247325d8ae5da8ba24df5c7ad94069ee0be787",
+      "confidence": 0.793,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
-    },
-    {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "d4de5a0c2bdae198264ab782f2feb59d7eb3d574afb919a02592745feb7db75c",
-      "newHash": "424833f959af09c34e36f9bd2eae1128de3a652428618f6515e41bf96aa1bf9b",
-      "confidence": 0.84,
-      "source": {
-        "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
-      },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
-    },
-    {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "a86b2af60e3eb41974d8e9c39d920078d22baec121f11d1a5d4f256f00a67a3a",
-      "newHash": "8ada288bd0096e28813a0c616d9fda5ba192ff18768fa9a93f7e28b7ea096aad",
-      "confidence": 0.789,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
+        "url": "https://kiro.dev/docs",
         "weight": 0.75
       },
-      "preview": "Welcome to Kimi API Docs - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before expl…"
-    },
-    {
-      "detectedAt": "2026-06-03T22:22:24.497Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "89e9ebb8d6b36e446faed44ebd4253058f5b91b4db9f389478f15d344939e1bb",
-      "newHash": "6448caa93f31a22683f82f58fa5cb10a00f6d49572bf2f1c8c0ce3acb16e334a",
-      "confidence": 0.799,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Web Powers Enterprise Pricing Docs Community Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kiro C…"
     }
   ]
 }
