@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:17:16.847Z",
+  "generatedAt": "2026-06-08T21:42:05.054Z",
   "tools": {
     "claude-code": [
       {
@@ -838,6 +838,20 @@
         "toolName": "Codex",
         "previousHash": "4723e6b52441405b920b69fa1a0c526bd8a7a78305ac6d08deb810982b652106",
         "newHash": "53e4fc4dbb333b53cdc0646bad5bcf6d88fcaad25afa09bfc55bcb964f545668",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      },
+      {
+        "detectedAt": "2026-06-08T21:42:05.054Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "53e4fc4dbb333b53cdc0646bad5bcf6d88fcaad25afa09bfc55bcb964f545668",
+        "newHash": "9c29173d924a0f15ec69f37dd1f4bae1b5b8f05f6ef6397794cb6b177c60a9a6",
         "confidence": 0.847,
         "source": {
           "type": "doc",
@@ -7093,6 +7107,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      },
+      {
+        "detectedAt": "2026-06-08T21:42:05.054Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "c1142a3d34238b12fb6a9f239634ede9150217f9804755e2d48493a3f33056ae",
+        "newHash": "76a87c73cd0cd17bfd0fcdd0b30818c90f54ca42910695ef7d6ef137654bffcb",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers ข้ามไปที่เนื้อหาหลัก / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
