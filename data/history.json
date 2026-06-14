@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T13:25:37.887Z",
+  "generatedAt": "2026-06-14T17:07:24.532Z",
   "tools": {
     "claude-code": [
       {
@@ -787,6 +787,20 @@
           "weight": 0.45
         },
         "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      },
+      {
+        "detectedAt": "2026-06-14T17:07:24.532Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "b62c45d4074aaa49f6e9217091539a36e8c4d15a45f2fb12d43ae427b12b262f",
+        "newHash": "2d218a787fbc01c61210ae34a4247325d8ae5da8ba24df5c7ad94069ee0be787",
+        "confidence": 0.793,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Get started - IDE - Docs - Kiro Loading image... CLI Web Powers Enterprise Pricing Docs Community Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Kiro C…"
       }
     ],
     "codex": [
@@ -964,6 +978,20 @@
         "toolName": "Codex",
         "previousHash": "9c29173d924a0f15ec69f37dd1f4bae1b5b8f05f6ef6397794cb6b177c60a9a6",
         "newHash": "b7feddcee09500d141aed36d36b2d014e1f7a5fd8e5fbf5c20212427eda6cec2",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      },
+      {
+        "detectedAt": "2026-06-14T17:07:24.532Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "b7feddcee09500d141aed36d36b2d014e1f7a5fd8e5fbf5c20212427eda6cec2",
+        "newHash": "b13d216fa22a8ff97439849983c1d6cfe1082aeb52f734a17f53f6805810f592",
         "confidence": 0.847,
         "source": {
           "type": "doc",
