@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T09:50:27.244Z",
+  "generatedAt": "2026-06-15T16:52:55.197Z",
   "tools": {
     "claude-code": [
       {
@@ -7611,6 +7611,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers التخطّي إلى المحتوى الرئيسي / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      },
+      {
+        "detectedAt": "2026-06-15T16:52:55.197Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "e3a6450cbf63dddcbfc58911b57aacb5144479cdeafbfc56c4e5dc20512de7df",
+        "newHash": "b51d334edbe608da60800e017e0ab63183162cc0046225e70f4c215a790dfdb3",
+        "confidence": 0.842,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
       }
     ],
     "kimi": [
@@ -7831,6 +7845,20 @@
         "previousHash": "8ada288bd0096e28813a0c616d9fda5ba192ff18768fa9a93f7e28b7ea096aad",
         "newHash": "ad219ab95610540ca38fef549e3ca3d01b8d6ff88c801f126dc99b703ae2effb",
         "confidence": 0.79,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Welcome to Kimi API Docs - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before expl…"
+      },
+      {
+        "detectedAt": "2026-06-15T16:52:55.197Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "ad219ab95610540ca38fef549e3ca3d01b8d6ff88c801f126dc99b703ae2effb",
+        "newHash": "689a1fffc84894b02d7ce89dcd6b8b151e4dfb248fee00c21378ecaba7647aba",
+        "confidence": 0.791,
         "source": {
           "type": "doc",
           "url": "https://platform.moonshot.ai/docs",
