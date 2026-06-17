@@ -1,33 +1,47 @@
 {
-  "generatedAt": "2026-06-17T18:07:43.176Z",
+  "generatedAt": "2026-06-17T21:51:44.910Z",
   "changes": [
     {
-      "detectedAt": "2026-06-17T18:07:43.176Z",
+      "detectedAt": "2026-06-17T21:51:44.910Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "f371210b4201d73b22cf227e73defa457e211fc9ef490c130dc17802d6f559b3",
-      "newHash": "bf9fb8b9062d7609c92173c44c55fe452ceceff5815ef94b2b616c5a8da5874a",
-      "confidence": 0.546,
+      "previousHash": "bf9fb8b9062d7609c92173c44c55fe452ceceff5815ef94b2b616c5a8da5874a",
+      "newHash": "f371210b4201d73b22cf227e73defa457e211fc9ef490c130dc17802d6f559b3",
+      "confidence": 0.807,
       "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=claude+code+system+prompt&type=code",
-        "weight": 0.45
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
       },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-06-17T18:07:43.176Z",
+      "detectedAt": "2026-06-17T21:51:44.910Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "b13d216fa22a8ff97439849983c1d6cfe1082aeb52f734a17f53f6805810f592",
+      "newHash": "f5c6328804f2d9a6f35950566067454a4476ddddb66f87616c85ba982fa65c0d",
+      "confidence": 0.847,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+    },
+    {
+      "detectedAt": "2026-06-17T21:51:44.910Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "52a649eb816e7a7c4c6b728173ebac5add370d8be747fc3f44d796a26a1a4b21",
-      "newHash": "228e3d7b6ddd373c48e86f85dabf12cf548296585a830cd54279528bd6635266",
-      "confidence": 0.837,
+      "previousHash": "228e3d7b6ddd373c48e86f85dabf12cf548296585a830cd54279528bd6635266",
+      "newHash": "52a649eb816e7a7c4c6b728173ebac5add370d8be747fc3f44d796a26a1a4b21",
+      "confidence": 0.84,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     }
   ]
 }
