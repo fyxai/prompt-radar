@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-06-17T14:47:44.434Z",
+  "generatedAt": "2026-06-17T18:07:43.176Z",
   "changes": [
     {
-      "detectedAt": "2026-06-17T14:47:44.434Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "3106a8bac86523956bdf18877626dc1d6725259ea8d3724ce921be7449ea758c",
-      "newHash": "ae5e99d26784b9919d0556d4f128a86c5c119fda71048bbfa75e29c768154163",
-      "confidence": 0.793,
+      "detectedAt": "2026-06-17T18:07:43.176Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "f371210b4201d73b22cf227e73defa457e211fc9ef490c130dc17802d6f559b3",
+      "newHash": "bf9fb8b9062d7609c92173c44c55fe452ceceff5815ef94b2b616c5a8da5874a",
+      "confidence": 0.546,
       "source": {
-        "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "type": "github_search_hint",
+        "url": "https://github.com/search?q=claude+code+system+prompt&type=code",
+        "weight": 0.45
       },
-      "preview": "Get started - IDE - Docs - Kiro Loading image... CLI IDE Web Mobile Enterprise Pricing Docs Community Resources SIGN IN DOWNLOADS Loading image... Loading image... Product About Ki…"
+      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
     },
     {
-      "detectedAt": "2026-06-17T14:47:44.434Z",
+      "detectedAt": "2026-06-17T18:07:43.176Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "b51d334edbe608da60800e017e0ab63183162cc0046225e70f4c215a790dfdb3",
-      "newHash": "52a649eb816e7a7c4c6b728173ebac5add370d8be747fc3f44d796a26a1a4b21",
-      "confidence": 0.84,
+      "previousHash": "52a649eb816e7a7c4c6b728173ebac5add370d8be747fc3f44d796a26a1a4b21",
+      "newHash": "228e3d7b6ddd373c48e86f85dabf12cf548296585a830cd54279528bd6635266",
+      "confidence": 0.837,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt…"
     }
   ]
 }
