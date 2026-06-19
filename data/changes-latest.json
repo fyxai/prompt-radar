@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-06-19T02:51:17.013Z",
+  "generatedAt": "2026-06-19T08:57:21.289Z",
   "changes": [
     {
-      "detectedAt": "2026-06-19T02:51:17.013Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "a02684c3f920f3b7cabf4ddf182311a64cafbafee5ad5a85c4f07457b22f8651",
-      "newHash": "f8b212462eb690df29aac26370e37408b1212cb6b48b55ea085be8d297a9e583",
-      "confidence": 0.847,
+      "detectedAt": "2026-06-19T08:57:21.289Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "52a649eb816e7a7c4c6b728173ebac5add370d8be747fc3f44d796a26a1a4b21",
+      "newHash": "1861a01e6d4b4b2056fb0d9f68df35b53419e6928b9335d404ffeb4cd9a2600b",
+      "confidence": 0.841,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
+        "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+    },
+    {
+      "detectedAt": "2026-06-19T08:57:21.289Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "a3ca0919962eb9c057281402026884c51b7c82785198a3ebbab34ad37c90e2b4",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
