@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-06-30T02:10:21.674Z",
+  "generatedAt": "2026-06-30T07:41:00.842Z",
   "changes": [
     {
-      "detectedAt": "2026-06-30T02:10:21.674Z",
+      "detectedAt": "2026-06-30T07:41:00.842Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "c4b88635118645468ff12e2356d741930409ce8261803d134a41ee3f09bcd2e7",
-      "newHash": "14bcdc821d498eba89c2965b57b4bd80a34ecab3c92bdfab617a38cc33100aee",
-      "confidence": 0.84,
+      "previousHash": "14bcdc821d498eba89c2965b57b4bd80a34ecab3c92bdfab617a38cc33100aee",
+      "newHash": "c4b88635118645468ff12e2356d741930409ce8261803d134a41ee3f09bcd2e7",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-06-30T07:41:00.842Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "67a4103fc60cb99062b9008df99340b384c7be71a6e5b9a1d88bf1941d09478d",
+      "newHash": "bcdb2b807a6761a2a5d7153dfe2d18e542df70948b9aae38b64e10ab84f8c950",
+      "confidence": 0.799,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
