@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:01:24.206Z",
+  "generatedAt": "2026-07-01T17:45:33.537Z",
   "tools": {
     "claude-code": [
       {
@@ -8773,6 +8773,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      },
+      {
+        "detectedAt": "2026-07-01T17:45:33.537Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "92628df91a1bc2ca398c00d257ece591202b38e5b1902776967c79ef31e32b18",
+        "newHash": "cb013cf2c50b953f8ed856a42b019aece52fdb544dd77820fbcdb9e937f23cf7",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passa ai contenuti principali / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shq…"
       }
     ],
     "kimi": [
@@ -9344,6 +9358,20 @@
         "toolName": "GLM",
         "previousHash": "bcdb2b807a6761a2a5d7153dfe2d18e542df70948b9aae38b64e10ab84f8c950",
         "newHash": "04569e123c10845edb8c06ac3e6d008073b903f333dc4541cc67fd0bed6d8fd4",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-07-01T17:45:33.537Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "04569e123c10845edb8c06ac3e6d008073b903f333dc4541cc67fd0bed6d8fd4",
+        "newHash": "a1a386ecb7b371064edc5825cc2b3d87f802705f871add71b0f7d2aded8976a1",
         "confidence": 0.798,
         "source": {
           "type": "doc",
@@ -10319,6 +10347,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-07-01T17:45:33.537Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "cb24737ecf3704c39ae061e8cbb982f9d108f5daad56adb216244db27703ca80",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 免费开始使用 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed 2.1 调用 文本生成 多模…"
       }
     ]
   }

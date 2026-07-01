@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:01:24.206Z",
+  "generatedAt": "2026-07-01T17:45:33.537Z",
   "tools": {
     "claude-code": {
       "id": "claude-code",
@@ -8,7 +8,7 @@
         "claude code",
         "claude-code"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
         "hash": "aa2236b9baeab5b6e4281f2714a5fecd217fb05ade5c0d7f6100fde34bc5b468",
         "confidence": 0.807,
@@ -47,7 +47,7 @@
           "type": "github_file",
           "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/system-prompt.md",
           "error": "HTTP 404",
-          "fetchedAt": "2026-07-01T08:01:24.207Z"
+          "fetchedAt": "2026-07-01T17:45:33.538Z"
         }
       ],
       "fallbackUsed": false
@@ -58,7 +58,7 @@
       "aliases": [
         "kiro"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
         "hash": "ae5e99d26784b9919d0556d4f128a86c5c119fda71048bbfa75e29c768154163",
         "confidence": 0.793,
@@ -91,7 +91,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "7306c0088ea9389471a1b388e05272d40944958c3868dc7483c261d26f3bc31b",
+          "hash": "2a6a57c5cca371fadd5d39410d773dfc27ca1b1bb67179fff1b698954fd87384",
           "confidence": 0.503,
           "source": {
             "type": "gist",
@@ -101,7 +101,7 @@
           "preview": "Search · kiro prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your se…"
         }
       ],
-      "evidenceHash": "4e987303896ff38b6359d0a9426a204326ed2d996908c047e64dff46e08013c9",
+      "evidenceHash": "deb34eb7b2dc39930bbcf90fc7c788b2f02aff2487a371acc507cc30ba3be406",
       "failures": [],
       "fallbackUsed": false
     },
@@ -112,7 +112,7 @@
         "codex",
         "openai codex"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
         "hash": "420391d2ea272903e87f1771a72179ca5beb4bb6550cd8d0484b61fb67a03b64",
         "confidence": 0.847,
@@ -145,7 +145,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "00b8ad6a126dcfa0ebd046b2d0d6434a95e2fe25d782263cd6742f936e20d04d",
+          "hash": "f0f632a97f1f84e9136a2c9c514f0a5fcc1caa4a2a6c825cb0792608d8e5984c",
           "confidence": 0.505,
           "source": {
             "type": "gist",
@@ -155,7 +155,7 @@
           "preview": "Search · codex prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your s…"
         }
       ],
-      "evidenceHash": "de414f09a6a12667283e68da201df50ed4f11e94f6881f4f9ab55c017e7109f4",
+      "evidenceHash": "c1a005d9887138bda1190a1956de9f1e3abd58d952c6db91e3287232bd640d26",
       "failures": [],
       "fallbackUsed": false
     },
@@ -165,7 +165,7 @@
       "aliases": [
         "antigravity"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
         "hash": "d48338f9ff0cd542222014608d40b8171b8679b466c57fda293ec636bc35c16b",
         "confidence": 0.546,
@@ -188,8 +188,8 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "7300d6d07a4229d355716dd83d2186c6a1512a0e21a96b866ad1c2f8c126f314",
-          "confidence": 0.504,
+          "hash": "1e075e9f15952a515f95be8226abd5d4f27536a92fe91e6383ca0fb520c6ff8c",
+          "confidence": 0.503,
           "source": {
             "type": "gist",
             "url": "https://gist.github.com/search?q=antigravity+ai+prompt",
@@ -198,13 +198,13 @@
           "preview": "Search · antigravity ai prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refre…"
         }
       ],
-      "evidenceHash": "6134faac3af9591582466c6dffd86904e6a28ada43c2060d65d6d020328df663",
+      "evidenceHash": "88a0c035e068e5916a6dc6d654e3db5a22ed3cb679ed108ec7d3ea61a5b81506",
       "failures": [
         {
           "type": "doc",
           "url": "https://antigravity.ai",
           "error": "Content too short after normalization",
-          "fetchedAt": "2026-07-01T08:01:28.607Z"
+          "fetchedAt": "2026-07-01T17:45:36.467Z"
         }
       ],
       "fallbackUsed": false
@@ -216,27 +216,27 @@
         "gemini cli",
         "gemini-cli"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
-        "hash": "92628df91a1bc2ca398c00d257ece591202b38e5b1902776967c79ef31e32b18",
+        "hash": "cb013cf2c50b953f8ed856a42b019aece52fdb544dd77820fbcdb9e937f23cf7",
         "confidence": 0.84,
         "source": {
           "type": "doc",
           "url": "https://ai.google.dev/gemini-api/docs",
           "weight": 0.85
         },
-        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passa ai contenuti principali / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shq…"
       },
       "evidence": [
         {
-          "hash": "92628df91a1bc2ca398c00d257ece591202b38e5b1902776967c79ef31e32b18",
+          "hash": "cb013cf2c50b953f8ed856a42b019aece52fdb544dd77820fbcdb9e937f23cf7",
           "confidence": 0.84,
           "source": {
             "type": "doc",
             "url": "https://ai.google.dev/gemini-api/docs",
             "weight": 0.85
           },
-          "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+          "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passa ai contenuti principali / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shq…"
         },
         {
           "hash": "0d95ae2753f137e840d25a0ef3987ed9a3c3462f25e9a7f098ce1d3494f66b5c",
@@ -249,7 +249,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "bd6cdf01f04f81981e6c9d48ed768ba040fc8fb6bfcaf4d3da8858c7f328e460",
+          "hash": "26a0b04d8a026569a74219388a08916d0abf422f56634d6b46e140e4ca2cf8d4",
           "confidence": 0.501,
           "source": {
             "type": "gist",
@@ -259,7 +259,7 @@
           "preview": "Search · gemini cli prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh y…"
         }
       ],
-      "evidenceHash": "6fe6646d67e13f81cb7ff6e529debcaf1ef78be71d523556e68c7410789eefd5",
+      "evidenceHash": "943da2ca0937f70b6ed4beb0be8aa16c15f11a4fee00cb4187e41750d81531a1",
       "failures": [],
       "fallbackUsed": false
     },
@@ -270,7 +270,7 @@
         "kimi",
         "moonshot kimi"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
         "hash": "689a1fffc84894b02d7ce89dcd6b8b151e4dfb248fee00c21378ecaba7647aba",
         "confidence": 0.791,
@@ -303,8 +303,8 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "ab8fae1e258a06bca3d03de2fb4a99c5a80d8bbfb2ad373798773e2b24d07207",
-          "confidence": 0.504,
+          "hash": "5aba9191e2a6dd0b800ebe9fa3688925e7ef956ade7268ded97b269d5c6d3428",
+          "confidence": 0.503,
           "source": {
             "type": "gist",
             "url": "https://gist.github.com/search?q=kimi+prompt",
@@ -313,7 +313,7 @@
           "preview": "Search · kimi prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your se…"
         }
       ],
-      "evidenceHash": "077233112e822b282b494dd3e9d21da63b83d4b0dec54b02f6b0b606f26729ce",
+      "evidenceHash": "1697a4d7e264291638995d793024efe963c0c421f2e1dc59e29467be7295cd9f",
       "failures": [],
       "fallbackUsed": false
     },
@@ -324,9 +324,9 @@
         "glm",
         "chatglm"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
-        "hash": "04569e123c10845edb8c06ac3e6d008073b903f333dc4541cc67fd0bed6d8fd4",
+        "hash": "a1a386ecb7b371064edc5825cc2b3d87f802705f871add71b0f7d2aded8976a1",
         "confidence": 0.798,
         "source": {
           "type": "doc",
@@ -337,7 +337,7 @@
       },
       "evidence": [
         {
-          "hash": "04569e123c10845edb8c06ac3e6d008073b903f333dc4541cc67fd0bed6d8fd4",
+          "hash": "a1a386ecb7b371064edc5825cc2b3d87f802705f871add71b0f7d2aded8976a1",
           "confidence": 0.798,
           "source": {
             "type": "doc",
@@ -367,7 +367,7 @@
           "preview": "Search · chatglm prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your…"
         }
       ],
-      "evidenceHash": "06ab58fff2bf1b6d53d3862b46d83140076ecaac3fa25469b8441fc73e811500",
+      "evidenceHash": "da8ff5139f2b62010f7f9b27bedbafc1ef9daa2bddf8c31a34e9b9f664836b1f",
       "failures": [],
       "fallbackUsed": false
     },
@@ -378,27 +378,27 @@
         "doubao",
         "volcengine doubao"
       ],
-      "lastCheckedAt": "2026-07-01T08:01:24.206Z",
+      "lastCheckedAt": "2026-07-01T17:45:33.537Z",
       "topCandidate": {
-        "hash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-        "confidence": 0.752,
+        "hash": "cb24737ecf3704c39ae061e8cbb982f9d108f5daad56adb216244db27703ca80",
+        "confidence": 0.798,
         "source": {
           "type": "doc",
           "url": "https://www.volcengine.com/docs/82379",
           "weight": 0.75
         },
-        "preview": "You need to enable JavaScript to run this app. --> --> -->"
+        "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 免费开始使用 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed 2.1 调用 文本生成 多模…"
       },
       "evidence": [
         {
-          "hash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-          "confidence": 0.752,
+          "hash": "cb24737ecf3704c39ae061e8cbb982f9d108f5daad56adb216244db27703ca80",
+          "confidence": 0.798,
           "source": {
             "type": "doc",
             "url": "https://www.volcengine.com/docs/82379",
             "weight": 0.75
           },
-          "preview": "You need to enable JavaScript to run this app. --> --> -->"
+          "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 免费开始使用 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed 2.1 调用 文本生成 多模…"
         },
         {
           "hash": "5ef1074d0329e4a453322a3d800e8a3770e92c7efb5cd9c6759dc48b5b25cae5",
@@ -411,8 +411,8 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         },
         {
-          "hash": "d6ab9fa2f165c04a8ac820bbaca4092b7a94f821675456b9e15af0225d6077ec",
-          "confidence": 0.506,
+          "hash": "f374d7c6fa33ea6ab9c131316baead7bb2d83a873cd166ba1ee3d085f4cb259c",
+          "confidence": 0.507,
           "source": {
             "type": "gist",
             "url": "https://gist.github.com/search?q=doubao+prompt",
@@ -421,7 +421,7 @@
           "preview": "Search · doubao prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your …"
         }
       ],
-      "evidenceHash": "ebf7fdea627a3f8cda04e368397c43ed7768d14cf84f133e82a0b8a806886ed6",
+      "evidenceHash": "82870c4bbe9f691c248a3fc810263077b7a91113468281a519c90082dc873909",
       "failures": [],
       "fallbackUsed": false
     }
