@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-07-09T01:50:41.310Z",
+  "generatedAt": "2026-07-09T07:27:25.510Z",
   "changes": [
     {
-      "detectedAt": "2026-07-09T01:50:41.310Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "140238d2de64508d595454ff37ee3af4a719022f3303c94a191b6d803c8010e1",
-      "newHash": "7d9e5c6717114774ab769daae1bc374e19714de80f82271aa2e4e2182050b56c",
-      "confidence": 0.847,
+      "detectedAt": "2026-07-09T07:27:25.510Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "3e28cdcfbd9e0ebc760e8feb2f832e0935a793019d0f238bf0730034c1663aaf",
+      "newHash": "35b6c49ce7df92f5fb87bf37e1467831c51a3bb3ce38471b30bdfeee1bbd08f3",
+      "confidence": 0.798,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
       },
-      "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+    },
+    {
+      "detectedAt": "2026-07-09T07:27:25.510Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "e327db9836f385c0b79c156dfe0dde04ade728a993515c16f900e4f41867fc9e",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
