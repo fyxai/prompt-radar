@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:54:40.974Z",
+  "generatedAt": "2026-07-09T01:50:41.310Z",
   "tools": {
     "claude-code": [
       {
@@ -1188,6 +1188,20 @@
         "toolName": "Codex",
         "previousHash": "420391d2ea272903e87f1771a72179ca5beb4bb6550cd8d0484b61fb67a03b64",
         "newHash": "140238d2de64508d595454ff37ee3af4a719022f3303c94a191b6d803c8010e1",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product d…"
+      },
+      {
+        "detectedAt": "2026-07-09T01:50:41.310Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "140238d2de64508d595454ff37ee3af4a719022f3303c94a191b6d803c8010e1",
+        "newHash": "7d9e5c6717114774ab769daae1bc374e19714de80f82271aa2e4e2182050b56c",
         "confidence": 0.847,
         "source": {
           "type": "doc",
