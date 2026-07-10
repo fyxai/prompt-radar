@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:54:57.346Z",
+  "generatedAt": "2026-07-10T17:39:12.538Z",
   "tools": {
     "claude-code": [
       {
@@ -596,6 +596,20 @@
         "toolName": "Claude Code",
         "previousHash": "aa2236b9baeab5b6e4281f2714a5fecd217fb05ade5c0d7f6100fde34bc5b468",
         "newHash": "a1c1c3715a142028aa2a652ad9bfdccb900e4c1bd729d24483556a874b077771",
+        "confidence": 0.807,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-07-10T17:39:12.538Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "a1c1c3715a142028aa2a652ad9bfdccb900e4c1bd729d24483556a874b077771",
+        "newHash": "fe1bb3f650be4d799076c71d9129583f4ed9638ffa45ef424a96012a3db2eadc",
         "confidence": 0.807,
         "source": {
           "type": "doc",
@@ -9305,6 +9319,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      },
+      {
+        "detectedAt": "2026-07-10T17:39:12.538Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "b4d7179cd35b44dce659d8de4d2c5117ce3d9d1c682ca81cf25add65cf4b8c15",
+        "newHash": "617f349d74da06b751977cc0ab0f811f1586a7c2ccf4316be769ccc0b3999bd0",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
       }
     ],
     "kimi": [
