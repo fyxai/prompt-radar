@@ -1,33 +1,47 @@
 {
-  "generatedAt": "2026-07-12T01:29:52.987Z",
+  "generatedAt": "2026-07-12T06:24:53.023Z",
   "changes": [
     {
-      "detectedAt": "2026-07-12T01:29:52.987Z",
+      "detectedAt": "2026-07-12T06:24:53.023Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "5f4ad323394732fede8718a3b5e282f1acc90be9560d060129af50cdd1fbbc5c",
+      "newHash": "ff2db13a51b0d00d48fb145940a93fc32da0cb73e655528f1fb669295dab33a5",
+      "confidence": 0.546,
+      "source": {
+        "type": "github_search_hint",
+        "url": "https://github.com/search?q=codex+system+prompt&type=code",
+        "weight": 0.45
+      },
+      "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+    },
+    {
+      "detectedAt": "2026-07-12T06:24:53.023Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "2dcf9a1e078ed4b7636f05661ae0a74c59531ebb77593e3b785394682d030a0c",
-      "newHash": "408fc481cbf4190c6c3e0c81ed70b54629c19c192801a15c3c31a0a1a0fe1804",
-      "confidence": 0.839,
+      "previousHash": "408fc481cbf4190c6c3e0c81ed70b54629c19c192801a15c3c31a0a1a0fe1804",
+      "newHash": "b73eee4cc48fb26b1760c5dedea27a80ef212811325276b6115573a80fd4c168",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
     },
     {
-      "detectedAt": "2026-07-12T01:29:52.987Z",
+      "detectedAt": "2026-07-12T06:24:53.023Z",
       "toolId": "doubao",
       "toolName": "Doubao",
-      "previousHash": "e327db9836f385c0b79c156dfe0dde04ade728a993515c16f900e4f41867fc9e",
-      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "confidence": 0.752,
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "e327db9836f385c0b79c156dfe0dde04ade728a993515c16f900e4f41867fc9e",
+      "confidence": 0.799,
       "source": {
         "type": "doc",
         "url": "https://www.volcengine.com/docs/82379",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed 2.1 调用 文本生成 多模态理解 …"
     }
   ]
 }
