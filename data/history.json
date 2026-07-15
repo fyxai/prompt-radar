@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:16:52.655Z",
+  "generatedAt": "2026-07-15T06:05:41.046Z",
   "tools": {
     "claude-code": [
       {
@@ -1293,6 +1293,20 @@
           "weight": 0.85
         },
         "preview": "OpenAI API Platform Documentation ChatGPT Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and p…"
+      },
+      {
+        "detectedAt": "2026-07-15T06:05:41.046Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "5f4ad323394732fede8718a3b5e282f1acc90be9560d060129af50cdd1fbbc5c",
+        "newHash": "73c6ee09348d92b6fee50bbe29e8e227b938f4aa2acce6540aa6080b1270d472",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
       }
     ],
     "antigravity": [
@@ -10056,6 +10070,20 @@
         "toolName": "Kimi",
         "previousHash": "ae033d8408a58eed456640357f73732e9e3397536277b38226000193c36bd64b",
         "newHash": "6fb9556e48d37c6dd224c7db9229b607bfe61fdca01597f599da5ef0ace6c4db",
+        "confidence": 0.817,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-07-15T06:05:41.046Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "6fb9556e48d37c6dd224c7db9229b607bfe61fdca01597f599da5ef0ace6c4db",
+        "newHash": "17270f9b9744cf4babee91a08788c825d00a7093ecf9cd26d450a5dade78bd2a",
         "confidence": 0.817,
         "source": {
           "type": "doc",
