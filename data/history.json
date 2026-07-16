@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:01:17.122Z",
+  "generatedAt": "2026-07-16T20:44:03.908Z",
   "tools": {
     "claude-code": [
       {
@@ -624,6 +624,20 @@
         "toolName": "Claude Code",
         "previousHash": "fe1bb3f650be4d799076c71d9129583f4ed9638ffa45ef424a96012a3db2eadc",
         "newHash": "66158ea0e6de4d0adf5157436d0d6c3a727a4b3a0bb87c72fcd6e452650cb915",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-07-16T20:44:03.908Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "66158ea0e6de4d0adf5157436d0d6c3a727a4b3a0bb87c72fcd6e452650cb915",
+        "newHash": "f3bd1da6f0a7de90c7cc2622761bcd7eaea55407b739608931a03423030237d8",
         "confidence": 0.808,
         "source": {
           "type": "doc",
@@ -9767,6 +9781,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-07-16T20:44:03.908Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "0233e485d9e9bb125df37e5265e710fb6ffd5c75b66e6809ed2fc2cd303092c0",
+        "newHash": "9c2eae4e4cf1243300ffe6abccca538a09f321be5188e3b42acbdbbee67ce4ad",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
       }
     ],
     "kimi": [
@@ -10147,6 +10175,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-07-16T20:44:03.908Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "ed979a2a2418d5a2b7289814c265723d09f41c756846f57b8bdc50bb5c1622fa",
+        "newHash": "4ad7230e6cea19c57891ac7979db7d91f1766fbce694e7320dd9eac25fe24046",
+        "confidence": 0.818,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -10464,6 +10506,20 @@
         "toolName": "GLM",
         "previousHash": "3e28cdcfbd9e0ebc760e8feb2f832e0935a793019d0f238bf0730034c1663aaf",
         "newHash": "35b6c49ce7df92f5fb87bf37e1467831c51a3bb3ce38471b30bdfeee1bbd08f3",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-07-16T20:44:03.908Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "35b6c49ce7df92f5fb87bf37e1467831c51a3bb3ce38471b30bdfeee1bbd08f3",
+        "newHash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
         "confidence": 0.798,
         "source": {
           "type": "doc",
