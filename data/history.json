@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T16:57:32.973Z",
+  "generatedAt": "2026-07-17T20:41:36.438Z",
   "tools": {
     "claude-code": [
       {
@@ -638,6 +638,20 @@
         "toolName": "Claude Code",
         "previousHash": "66158ea0e6de4d0adf5157436d0d6c3a727a4b3a0bb87c72fcd6e452650cb915",
         "newHash": "f3bd1da6f0a7de90c7cc2622761bcd7eaea55407b739608931a03423030237d8",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-07-17T20:41:36.438Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "f3bd1da6f0a7de90c7cc2622761bcd7eaea55407b739608931a03423030237d8",
+        "newHash": "cdbd32cfd337afab375d1c7063f245fcc4b6af4bbdd85e597a0fc8106e51f6e4",
         "confidence": 0.808,
         "source": {
           "type": "doc",
@@ -1370,6 +1384,20 @@
         "toolName": "Codex",
         "previousHash": "00da9f159f129050fdf225358401f29c48014b339f97452f4259ba89615dcc6e",
         "newHash": "eff9d95b2ab8c0b2b8da1ab4752607632550e029ebc843046d488db88bb83d60",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-17T20:41:36.438Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "eff9d95b2ab8c0b2b8da1ab4752607632550e029ebc843046d488db88bb83d60",
+        "newHash": "d81baa51bf67e7afc9eac336d67c4826a2f1856c9758b676b3215da16b963891",
         "confidence": 0.847,
         "source": {
           "type": "doc",
