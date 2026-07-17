@@ -1,61 +1,19 @@
 {
-  "generatedAt": "2026-07-16T20:44:03.908Z",
+  "generatedAt": "2026-07-17T01:29:55.321Z",
   "changes": [
     {
-      "detectedAt": "2026-07-16T20:44:03.908Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "66158ea0e6de4d0adf5157436d0d6c3a727a4b3a0bb87c72fcd6e452650cb915",
-      "newHash": "f3bd1da6f0a7de90c7cc2622761bcd7eaea55407b739608931a03423030237d8",
-      "confidence": 0.808,
-      "source": {
-        "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
-      },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-07-16T20:44:03.908Z",
+      "detectedAt": "2026-07-17T01:29:55.321Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "0233e485d9e9bb125df37e5265e710fb6ffd5c75b66e6809ed2fc2cd303092c0",
-      "newHash": "9c2eae4e4cf1243300ffe6abccca538a09f321be5188e3b42acbdbbee67ce4ad",
-      "confidence": 0.84,
+      "previousHash": "9c2eae4e4cf1243300ffe6abccca538a09f321be5188e3b42acbdbbee67ce4ad",
+      "newHash": "a9d873d1063a5d7a7beb460a62d571d7d8f72625b05149521fc0ded5f57eaefb",
+      "confidence": 0.841,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
-    },
-    {
-      "detectedAt": "2026-07-16T20:44:03.908Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "ed979a2a2418d5a2b7289814c265723d09f41c756846f57b8bdc50bb5c1622fa",
-      "newHash": "4ad7230e6cea19c57891ac7979db7d91f1766fbce694e7320dd9eac25fe24046",
-      "confidence": 0.818,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
-      },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-07-16T20:44:03.908Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "35b6c49ce7df92f5fb87bf37e1467831c51a3bb3ce38471b30bdfeee1bbd08f3",
-      "newHash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
-      "confidence": 0.798,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
     }
   ]
 }
