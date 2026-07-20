@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-07-19T20:36:18.283Z",
+  "generatedAt": "2026-07-20T01:53:18.867Z",
   "changes": [
     {
-      "detectedAt": "2026-07-19T20:36:18.283Z",
+      "detectedAt": "2026-07-20T01:53:18.867Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "1f18ff564df57dfbcf99662e6de97cf220b31b5731f3b5eddd0b377184f409fc",
-      "newHash": "883614c73017e86c90814e0e8c59b010ca0da6a9a0c1f1d79995aa5e409e849f",
-      "confidence": 0.84,
+      "previousHash": "883614c73017e86c90814e0e8c59b010ca0da6a9a0c1f1d79995aa5e409e849f",
+      "newHash": "2661c6c4572e010d846b43158fcaf8a903e47753f9004302c99ee70678a7e52a",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+    },
+    {
+      "detectedAt": "2026-07-20T01:53:18.867Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "da219ccf5a37dfbc2638c18ee7d9886c36cabee425b942bda5e04abbfd822834",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
