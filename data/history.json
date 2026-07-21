@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T01:27:33.782Z",
+  "generatedAt": "2026-07-21T06:20:58.660Z",
   "tools": {
     "claude-code": [
       {
@@ -12475,6 +12475,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-07-21T06:20:58.660Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "fb5db5a0940a8f1cc8d2e70c2ebb1bb22cffdfbffa8b6d9ba020752092d006de",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=doubao+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
       }
     ]
   }
