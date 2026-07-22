@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T01:26:21.897Z",
+  "generatedAt": "2026-07-22T06:20:24.243Z",
   "tools": {
     "claude-code": [
       {
@@ -1440,6 +1440,20 @@
         "toolName": "Codex",
         "previousHash": "50a610f9fdd8a49da530d73005776f7977fd49a78856a39b1a64f149ef61b5ce",
         "newHash": "d857c16d943db8a8b627407fb4cceabed2087424be062eeb3a63603f82ec1028",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-22T06:20:24.243Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "d857c16d943db8a8b627407fb4cceabed2087424be062eeb3a63603f82ec1028",
+        "newHash": "1a75cab4f103e80336d9a0598525346f91edfe5e06e007ac9b172f82fb874a45",
         "confidence": 0.847,
         "source": {
           "type": "doc",
@@ -10229,6 +10243,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      },
+      {
+        "detectedAt": "2026-07-22T06:20:24.243Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "86948bb083b0c83621cbbed237e03d2c6b6e329ffe95230a982ba85d6482e925",
+        "newHash": "408b6da7eb900d66089173fa3789e55dc0cc430f961ac0b8c1710f3560063865",
+        "confidence": 0.838,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
@@ -12629,6 +12657,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-07-22T06:20:24.243Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
+        "confidence": 0.8,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
       }
     ]
   }
