@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T17:07:55.042Z",
+  "generatedAt": "2026-07-23T20:49:50.139Z",
   "tools": {
     "claude-code": [
       {
@@ -1483,6 +1483,20 @@
         "previousHash": "9965712cffd8b893536b28a557a118bef3f24a5c999b182fa0136281e677b2c9",
         "newHash": "6663a709a9adf2dbc231d0e423e753c7027e80501b5ef8c232f62c1098b3d33b",
         "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-23T20:49:50.139Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "6663a709a9adf2dbc231d0e423e753c7027e80501b5ef8c232f62c1098b3d33b",
+        "newHash": "7592bc555067f5b45f4d5484e9a9b791067bdd0c6b4a73d4744548300fc5b124",
+        "confidence": 0.848,
         "source": {
           "type": "doc",
           "url": "https://platform.openai.com/docs",
