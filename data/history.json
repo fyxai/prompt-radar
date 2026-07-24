@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:19:10.691Z",
+  "generatedAt": "2026-07-24T20:53:33.849Z",
   "tools": {
     "claude-code": [
       {
@@ -1510,6 +1510,20 @@
         "toolName": "Codex",
         "previousHash": "7592bc555067f5b45f4d5484e9a9b791067bdd0c6b4a73d4744548300fc5b124",
         "newHash": "638c9cf8dfce7cbb07d122ceb1495164310db3f3ca446c50a7b906c3dd4dbb6b",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-24T20:53:33.849Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "638c9cf8dfce7cbb07d122ceb1495164310db3f3ca446c50a7b906c3dd4dbb6b",
+        "newHash": "eedfc54f49bb04d4ed58ff2d2b044a09124762ead53c00386c1439fa38102834",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -12923,6 +12937,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-07-24T20:53:33.849Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
+        "confidence": 0.8,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
       }
     ]
   }
