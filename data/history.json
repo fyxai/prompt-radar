@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T14:07:45.594Z",
+  "generatedAt": "2026-07-27T17:27:54.771Z",
   "tools": {
     "claude-code": [
       {
@@ -1538,6 +1538,20 @@
         "toolName": "Codex",
         "previousHash": "eedfc54f49bb04d4ed58ff2d2b044a09124762ead53c00386c1439fa38102834",
         "newHash": "ae2954fd08be08ff821b2cf3fc71c8f6a07e01337c26c64065f6b8d57206a336",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-27T17:27:54.771Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "ae2954fd08be08ff821b2cf3fc71c8f6a07e01337c26c64065f6b8d57206a336",
+        "newHash": "9d5a0fb64ca3b849c59d01f97658a17bbd57c245b765caf50a7f63ac149b0b55",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -10621,6 +10635,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-07-27T17:27:54.771Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "a0677ca0335131f899121fc1489b3af2fa23cd4038e36c1cdae7fb5d7cb45e0a",
+        "newHash": "845c2fde8213f27eefc63fe6c4c55ee80d6aaffe4cdb0f12706944c837700795",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt…"
       }
     ],
     "kimi": [
@@ -13203,6 +13231,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-07-27T17:27:54.771Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
+        "confidence": 0.8,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
       }
     ]
   }
