@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T06:53:24.615Z",
+  "generatedAt": "2026-07-27T11:08:30.000Z",
   "tools": {
     "claude-code": [
       {
@@ -1722,6 +1722,20 @@
         "toolName": "Antigravity",
         "previousHash": "d48338f9ff0cd542222014608d40b8171b8679b466c57fda293ec636bc35c16b",
         "newHash": "575460b3339d9cf3c769cd911aaf566f570d84accf5a97fa975a394696110bbf",
+        "confidence": 0.546,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
+      },
+      {
+        "detectedAt": "2026-07-27T11:08:30.000Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "575460b3339d9cf3c769cd911aaf566f570d84accf5a97fa975a394696110bbf",
+        "newHash": "1a104c59b9d3276728aa3b74d694cfe38b7bc1cf937db842e8054b875901da47",
         "confidence": 0.546,
         "source": {
           "type": "github_search_hint",
@@ -10579,6 +10593,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-07-27T11:08:30.000Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "bfe362a5ddb43cb5188444bfeb0d986d9ca5d29c289301d27d2eeb1b261bc877",
+        "newHash": "70ed168c394907e70505db4ad716f1272b391b4b5ce4f75cedd291c26e78b3a9",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
       }
     ],
     "kimi": [
