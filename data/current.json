@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:21:39.342Z",
+  "generatedAt": "2026-07-28T13:27:46.059Z",
   "tools": {
     "claude-code": {
       "id": "claude-code",
@@ -8,7 +8,7 @@
         "claude code",
         "claude-code"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "a5b7ea1708fdd03e0c9adc7fe7859012217c916da0c99cd0b3c43e67e603375b",
         "confidence": 0.808,
@@ -47,7 +47,7 @@
           "type": "github_file",
           "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/system-prompt.md",
           "error": "HTTP 404",
-          "fetchedAt": "2026-07-28T10:21:39.342Z"
+          "fetchedAt": "2026-07-28T13:27:46.060Z"
         }
       ],
       "fallbackUsed": false
@@ -58,7 +58,7 @@
       "aliases": [
         "kiro"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "d47f18339c5c2be5a8dd5bab695e503f4cbc138125031a78a76678663fff7c91",
         "confidence": 0.793,
@@ -97,7 +97,7 @@
           "type": "gist",
           "url": "https://gist.github.com/search?q=kiro+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:39.833Z"
+          "fetchedAt": "2026-07-28T13:27:46.661Z"
         }
       ],
       "fallbackUsed": false
@@ -109,7 +109,7 @@
         "codex",
         "openai codex"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "28cbd0ef6af94f8e301cc92c8e346ef62811a5fb1be0e205549b1846e3342cb9",
         "confidence": 0.848,
@@ -148,7 +148,7 @@
           "type": "gist",
           "url": "https://gist.github.com/search?q=codex+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:40.090Z"
+          "fetchedAt": "2026-07-28T13:27:47.096Z"
         }
       ],
       "fallbackUsed": false
@@ -159,7 +159,7 @@
       "aliases": [
         "antigravity"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "1a104c59b9d3276728aa3b74d694cfe38b7bc1cf937db842e8054b875901da47",
         "confidence": 0.546,
@@ -188,13 +188,13 @@
           "type": "doc",
           "url": "https://antigravity.ai",
           "error": "Content too short after normalization",
-          "fetchedAt": "2026-07-28T10:21:40.322Z"
+          "fetchedAt": "2026-07-28T13:27:47.374Z"
         },
         {
           "type": "gist",
           "url": "https://gist.github.com/search?q=antigravity+ai+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:40.323Z"
+          "fetchedAt": "2026-07-28T13:27:47.376Z"
         }
       ],
       "fallbackUsed": false
@@ -206,27 +206,27 @@
         "gemini cli",
         "gemini-cli"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
-        "hash": "0abc2fc79bff2a88f96f9584fe7a54ef919ff3169a2e6f4cd8ac99b11186cc5b",
-        "confidence": 0.841,
+        "hash": "44b37454332f0195244870cacb3d357ad197ddb07376b0e0856ad0d3e341d104",
+        "confidence": 0.838,
         "source": {
           "type": "doc",
           "url": "https://ai.google.dev/gemini-api/docs",
           "weight": 0.85
         },
-        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       },
       "evidence": [
         {
-          "hash": "0abc2fc79bff2a88f96f9584fe7a54ef919ff3169a2e6f4cd8ac99b11186cc5b",
-          "confidence": 0.841,
+          "hash": "44b37454332f0195244870cacb3d357ad197ddb07376b0e0856ad0d3e341d104",
+          "confidence": 0.838,
           "source": {
             "type": "doc",
             "url": "https://ai.google.dev/gemini-api/docs",
             "weight": 0.85
           },
-          "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+          "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
         },
         {
           "hash": "4c556feb01ea6f0a1f766cde045baedaefef7c568a643d67bb706615246b2ee9",
@@ -239,13 +239,13 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…"
         }
       ],
-      "evidenceHash": "ff78a56d33a62e740cfbd82f5e8471b3f9a643de61576f89f28bd74204128f32",
+      "evidenceHash": "0958ce133286950d2926216097929235c3da9b457a5c0b75c6ea6666c256fe36",
       "failures": [
         {
           "type": "gist",
           "url": "https://gist.github.com/search?q=gemini+cli+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:40.541Z"
+          "fetchedAt": "2026-07-28T13:27:51.601Z"
         }
       ],
       "fallbackUsed": false
@@ -257,7 +257,7 @@
         "kimi",
         "moonshot kimi"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "e31e6ee4d1a05571fb002c436b9d0798c8ee253e0dd0d24ac014423015311056",
         "confidence": 0.817,
@@ -296,7 +296,7 @@
           "type": "gist",
           "url": "https://gist.github.com/search?q=kimi+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:41.314Z"
+          "fetchedAt": "2026-07-28T13:27:52.058Z"
         }
       ],
       "fallbackUsed": false
@@ -308,7 +308,7 @@
         "glm",
         "chatglm"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
         "confidence": 0.798,
@@ -347,7 +347,7 @@
           "type": "gist",
           "url": "https://gist.github.com/search?q=chatglm+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:43.530Z"
+          "fetchedAt": "2026-07-28T13:27:54.090Z"
         }
       ],
       "fallbackUsed": false
@@ -359,7 +359,7 @@
         "doubao",
         "volcengine doubao"
       ],
-      "lastCheckedAt": "2026-07-28T10:21:39.342Z",
+      "lastCheckedAt": "2026-07-28T13:27:46.059Z",
       "topCandidate": {
         "hash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
         "confidence": 0.752,
@@ -398,7 +398,7 @@
           "type": "gist",
           "url": "https://gist.github.com/search?q=doubao+prompt",
           "error": "HTTP 429",
-          "fetchedAt": "2026-07-28T10:21:45.268Z"
+          "fetchedAt": "2026-07-28T13:27:56.161Z"
         }
       ],
       "fallbackUsed": false
