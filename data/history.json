@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T21:00:28.414Z",
+  "generatedAt": "2026-07-28T01:25:49.999Z",
   "tools": {
     "claude-code": [
       {
@@ -1559,6 +1559,20 @@
           "weight": 0.85
         },
         "preview": "OpenAI API Platform Documentation ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with ChatGPT or C…"
+      },
+      {
+        "detectedAt": "2026-07-28T01:25:49.999Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "9d5a0fb64ca3b849c59d01f97658a17bbd57c245b765caf50a7f63ac149b0b55",
+        "newHash": "635fa35779efb84969dbb41c40bb30bfca1b934c5aed5e7cd587b595a517e335",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
       }
     ],
     "antigravity": [
@@ -10663,6 +10677,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers التخطّي إلى المحتوى الرئيسي / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      },
+      {
+        "detectedAt": "2026-07-28T01:25:49.999Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "ebd17acd2dcbdba0ac5216c0691f7dcb9d240b2f745756c0259509b76f611d23",
+        "newHash": "eec66fb4bd30ebd5ff2ff24ecc59cafa685285c92993376f44159a14785d09b4",
+        "confidence": 0.838,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers דילוג לתוכן הראשי / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Vi…"
       }
     ],
     "kimi": [
