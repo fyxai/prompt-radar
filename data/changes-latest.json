@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-07-28T20:57:00.299Z",
+  "generatedAt": "2026-07-29T01:26:19.147Z",
   "changes": [
     {
-      "detectedAt": "2026-07-28T20:57:00.299Z",
+      "detectedAt": "2026-07-29T01:26:19.147Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "a5b7ea1708fdd03e0c9adc7fe7859012217c916da0c99cd0b3c43e67e603375b",
+      "newHash": "af0235b922ace57bb1ba6857c597f36da28df7d8d1e37035a3736becd902a109",
+      "confidence": 0.808,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-07-29T01:26:19.147Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "28cbd0ef6af94f8e301cc92c8e346ef62811a5fb1be0e205549b1846e3342cb9",
-      "newHash": "6a8f922b57e17ba7b4e89ac899471f809a7f484908d220e8485451e41000eb47",
+      "previousHash": "6a8f922b57e17ba7b4e89ac899471f809a7f484908d220e8485451e41000eb47",
+      "newHash": "7c16a0f0a0857b4478d7f2416d143c8188c867dbed708bb98e51054f0ce33dc7",
       "confidence": 0.848,
       "source": {
         "type": "doc",
@@ -16,18 +30,18 @@
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-07-28T20:57:00.299Z",
+      "detectedAt": "2026-07-29T01:26:19.147Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "a37d46296ea445e2b8cf68a94aab368cac67613c02dbdbaa8dde40eb42c4a5a4",
-      "newHash": "38ec74d3c7cc0055a00c5160f912a5d4e4d7e589c0538366e75a78b885f153cf",
-      "confidence": 0.839,
+      "previousHash": "38ec74d3c7cc0055a00c5160f912a5d4e4d7e589c0538366e75a78b885f153cf",
+      "newHash": "6c14d7cc996106eaeb3b672af9b30d553218723b4e7622d8f3823af048755d82",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     }
   ]
 }
