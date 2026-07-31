@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:28:01.360Z",
+  "generatedAt": "2026-07-31T17:16:52.497Z",
   "tools": {
     "claude-code": [
       {
@@ -1706,6 +1706,20 @@
         "toolName": "Codex",
         "previousHash": "d049441e928602b124c44eb1c83188a883dfacabad40786ed76b7fa20252837e",
         "newHash": "01d9e8ba64553f27cab3cbbb89db86edeea50a4c00d37ed89824c7bb62209cfd",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-07-31T17:16:52.497Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "01d9e8ba64553f27cab3cbbb89db86edeea50a4c00d37ed89824c7bb62209cfd",
+        "newHash": "5ece5149c2fcd6b5d36c2e4ff2736fb9f07e8576d86c1a64876bafaec190cc20",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -11055,6 +11069,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers ข้ามไปที่เนื้อหาหลัก / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-07-31T17:16:52.497Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "843cf47d4279d295e6e5ee1a63867c9f8107fe9620d845418ef443790830573f",
+        "newHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
+        "confidence": 0.838,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
@@ -13749,6 +13777,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
+      },
+      {
+        "detectedAt": "2026-07-31T17:16:52.497Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
