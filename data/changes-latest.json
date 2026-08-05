@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-05T01:26:59.650Z",
+  "generatedAt": "2026-08-05T06:18:02.826Z",
   "changes": [
     {
-      "detectedAt": "2026-08-05T01:26:59.650Z",
+      "detectedAt": "2026-08-05T06:18:02.826Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "0368e79296a2d9d30d925f110fbea7fa10465fd34569affcee59ca2299064d59",
-      "newHash": "f7004439be00e4e64f9edb06caf6cecabdf56e2548378504155ecd92c76da43e",
-      "confidence": 0.544,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=kiro+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
-    },
-    {
-      "detectedAt": "2026-08-05T01:26:59.650Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "62c050fbee02d7db0d5f3a9cdfbe154e8bbf9c5a999b5912306f917a9a142fa1",
-      "newHash": "84ebc59ffb6c9b629d36162cbf0ca3ee1bb48cd043d4d7113738e04d9432638c",
-      "confidence": 0.848,
+      "previousHash": "f7004439be00e4e64f9edb06caf6cecabdf56e2548378504155ecd92c76da43e",
+      "newHash": "0368e79296a2d9d30d925f110fbea7fa10465fd34569affcee59ca2299064d59",
+      "confidence": 0.809,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
       },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      "preview": "Kiro Documentation - IDE - Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors…"
     },
     {
-      "detectedAt": "2026-08-05T01:26:59.650Z",
+      "detectedAt": "2026-08-05T06:18:02.826Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "bfad6a36faa5cb92ae689c5b802edcfbfaecbde5bf9b47d2d2483336feeb8c14",
-      "newHash": "30cea7e004730066d76daf8045107fcd44df15e1bf64f70b991e18ee76ecabc9",
-      "confidence": 0.84,
+      "previousHash": "30cea7e004730066d76daf8045107fcd44df15e1bf64f70b991e18ee76ecabc9",
+      "newHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-08-05T06:18:02.826Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
