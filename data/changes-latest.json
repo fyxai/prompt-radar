@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-04T21:02:21.799Z",
+  "generatedAt": "2026-08-05T01:26:59.650Z",
   "changes": [
     {
-      "detectedAt": "2026-08-04T21:02:21.799Z",
+      "detectedAt": "2026-08-05T01:26:59.650Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "8cd19bdb18650723208c92c679bf8ac24f84fdd9730547368c966728a76a6277",
-      "newHash": "0368e79296a2d9d30d925f110fbea7fa10465fd34569affcee59ca2299064d59",
-      "confidence": 0.809,
+      "previousHash": "0368e79296a2d9d30d925f110fbea7fa10465fd34569affcee59ca2299064d59",
+      "newHash": "f7004439be00e4e64f9edb06caf6cecabdf56e2548378504155ecd92c76da43e",
+      "confidence": 0.544,
       "source": {
-        "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "type": "github_search_hint",
+        "url": "https://github.com/search?q=kiro+prompt&type=code",
+        "weight": 0.45
       },
-      "preview": "Kiro Documentation - IDE - Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors…"
+      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
     },
     {
-      "detectedAt": "2026-08-04T21:02:21.799Z",
+      "detectedAt": "2026-08-05T01:26:59.650Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "62c050fbee02d7db0d5f3a9cdfbe154e8bbf9c5a999b5912306f917a9a142fa1",
+      "newHash": "84ebc59ffb6c9b629d36162cbf0ca3ee1bb48cd043d4d7113738e04d9432638c",
+      "confidence": 0.848,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-08-05T01:26:59.650Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "b05564aed0ae9c66ccdb46075281c7e88bc397085611ec2b012a8eab58a5f5d5",
-      "newHash": "bfad6a36faa5cb92ae689c5b802edcfbfaecbde5bf9b47d2d2483336feeb8c14",
-      "confidence": 0.832,
+      "previousHash": "bfad6a36faa5cb92ae689c5b802edcfbfaecbde5bf9b47d2d2483336feeb8c14",
+      "newHash": "30cea7e004730066d76daf8045107fcd44df15e1bf64f70b991e18ee76ecabc9",
+      "confidence": 0.84,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 跳至主要內容 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe …"
-    },
-    {
-      "detectedAt": "2026-08-04T21:02:21.799Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "newHash": "6390edb5079e8dcd81260922d4bb7c52671e2ab1ad3c76b9907e1fdab303f6d4",
-      "confidence": 0.8,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
-      },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
     }
   ]
 }
