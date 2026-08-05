@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-08-05T13:39:34.848Z",
+  "generatedAt": "2026-08-05T17:17:34.460Z",
   "changes": [
     {
-      "detectedAt": "2026-08-05T13:39:34.848Z",
+      "detectedAt": "2026-08-05T17:17:34.460Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "af0235b922ace57bb1ba6857c597f36da28df7d8d1e37035a3736becd902a109",
+      "newHash": "ed610694872b85cd21c0263af400a196e29dc1d628c90bd956193c76ce3ebb49",
+      "confidence": 0.808,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-08-05T17:17:34.460Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
-      "newHash": "33e81f09890e1778d5de2edd5920109227085bcd211849d916c113457a66a8ea",
-      "confidence": 0.84,
+      "previousHash": "33e81f09890e1778d5de2edd5920109227085bcd211849d916c113457a66a8ea",
+      "newHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-08-05T17:17:34.460Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "884532ad0896480e22f76c497d69eb1f59e557fed3660505b416ccf0a8258670",
+      "confidence": 0.8,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 简体 文档 控制台 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving 调用 文本生成 多…"
     }
   ]
 }
