@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:39:45.862Z",
+  "generatedAt": "2026-08-07T20:27:44.707Z",
   "tools": {
     "claude-code": [
       {
@@ -1944,6 +1944,20 @@
         "toolName": "Codex",
         "previousHash": "4089e1aee436e6c8b040708f57652f5c3ceca181c218e15bd4153f8e8d159b73",
         "newHash": "5714f4ded45687f2a87258d970e7b378253e727b3f8e56899635c055ca795971",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-08-07T20:27:44.707Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "5714f4ded45687f2a87258d970e7b378253e727b3f8e56899635c055ca795971",
+        "newHash": "f6d45f14b341e81a60498667941bb660f96883a3bb816c097341d47156c3e8f9",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -11755,6 +11769,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers דילוג לתוכן הראשי / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Vi…"
+      },
+      {
+        "detectedAt": "2026-08-07T20:27:44.707Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "7b9f10b063503cb2484b36fbdfb3f9ddc5893d97491f71e01a341aee0f4735c9",
+        "newHash": "219be2fe37320208e3fb4fb8a26aa9dfa6c964e25d6f000b474bbfce8d04d625",
+        "confidence": 0.841,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
       }
     ],
     "kimi": [
