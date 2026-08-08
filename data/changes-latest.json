@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-07T20:27:44.707Z",
+  "generatedAt": "2026-08-08T00:46:31.992Z",
   "changes": [
     {
-      "detectedAt": "2026-08-07T20:27:44.707Z",
+      "detectedAt": "2026-08-08T00:46:31.992Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "5714f4ded45687f2a87258d970e7b378253e727b3f8e56899635c055ca795971",
-      "newHash": "f6d45f14b341e81a60498667941bb660f96883a3bb816c097341d47156c3e8f9",
+      "previousHash": "f6d45f14b341e81a60498667941bb660f96883a3bb816c097341d47156c3e8f9",
+      "newHash": "24483f075db97f5517530732fcb3fb8678923deeafbf14378003704577cdac8d",
       "confidence": 0.848,
       "source": {
         "type": "doc",
@@ -16,18 +16,32 @@
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-08-07T20:27:44.707Z",
+      "detectedAt": "2026-08-08T00:46:31.992Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "7b9f10b063503cb2484b36fbdfb3f9ddc5893d97491f71e01a341aee0f4735c9",
-      "newHash": "219be2fe37320208e3fb4fb8a26aa9dfa6c964e25d6f000b474bbfce8d04d625",
-      "confidence": 0.841,
+      "previousHash": "219be2fe37320208e3fb4fb8a26aa9dfa6c964e25d6f000b474bbfce8d04d625",
+      "newHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
+      "confidence": 0.838,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-08-08T00:46:31.992Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d11c659fb7764bbcc409342df362192e2b47bc1b204ee92aa3d59c5956df29a4",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
