@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-08-10T16:41:06.002Z",
+  "generatedAt": "2026-08-10T20:29:32.617Z",
   "changes": [
     {
-      "detectedAt": "2026-08-10T16:41:06.002Z",
+      "detectedAt": "2026-08-10T20:29:32.617Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "24483f075db97f5517530732fcb3fb8678923deeafbf14378003704577cdac8d",
+      "newHash": "4cf5e00f3551b21d0f73e87e6bdb0f6956fc429f7e6c5e933d44ca6e1e15ccc7",
+      "confidence": 0.848,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-08-10T20:29:32.617Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "a61214ae1c9d5d9eff1a47a7930102136251ffa0284495536f6e3ae58b2369b9",
-      "newHash": "6fae835dbc835c2a318bdeb0a23ce1f7a2be5488b8e1e3e1b548b69162393926",
-      "confidence": 0.841,
+      "previousHash": "6fae835dbc835c2a318bdeb0a23ce1f7a2be5488b8e1e3e1b548b69162393926",
+      "newHash": "a60fe94675e21abbdff32adba4e8605c6813b50db7f50606a411b203288bccc0",
+      "confidence": 0.834,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 기본 콘텐츠로 건너뛰기 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt T…"
     }
   ]
 }
