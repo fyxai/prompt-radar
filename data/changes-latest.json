@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-08-11T20:32:01.967Z",
+  "generatedAt": "2026-08-12T00:58:54.358Z",
   "changes": [
     {
-      "detectedAt": "2026-08-11T20:32:01.967Z",
+      "detectedAt": "2026-08-12T00:58:54.358Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "86a76209dc05ac22a35389f002d293a4dbdec04d3bb4b4e1a2986972f3c0ade6",
+      "newHash": "5f0c8b89dd0796840b339b52d8097dd04a94b2ca8c997494bda7d147cc4c3f0e",
+      "confidence": 0.809,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Kiro Documentation - IDE - Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors…"
+    },
+    {
+      "detectedAt": "2026-08-12T00:58:54.358Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "6b05257ead7c8036a8ccd97b07f98ac4a557116929dd8238d8e530f9cea00b16",
-      "newHash": "a7f942dbd7138be04d1df352182df901656e06094e038ee77d52e93b09763ac2",
+      "previousHash": "a7f942dbd7138be04d1df352182df901656e06094e038ee77d52e93b09763ac2",
+      "newHash": "7bc8eb9e95c9f6823bbd46faac8e5b855b36517a9a6333ba44c6702834d3e299",
       "confidence": 0.839,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+    },
+    {
+      "detectedAt": "2026-08-12T00:58:54.358Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "167b73b67c85c5bbe106be07054abf73df1ec5340c2fd6d1dd51818381c37edb",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
