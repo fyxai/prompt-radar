@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:44:13.717Z",
+  "generatedAt": "2026-08-12T20:30:57.296Z",
   "tools": {
     "claude-code": [
       {
@@ -2014,6 +2014,20 @@
         "toolName": "Codex",
         "previousHash": "4cf5e00f3551b21d0f73e87e6bdb0f6956fc429f7e6c5e933d44ca6e1e15ccc7",
         "newHash": "558154eb931d3a08ebf5729735d15f545e809d234e589bfd80b719847fd442e4",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-08-12T20:30:57.296Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "558154eb931d3a08ebf5729735d15f545e809d234e589bfd80b719847fd442e4",
+        "newHash": "1888f82e6ec1225193fa0192bcd396d9502d732e7690feb5f1b1bba2b61d5adc",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -12217,6 +12231,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 기본 콘텐츠로 건너뛰기 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt T…"
+      },
+      {
+        "detectedAt": "2026-08-12T20:30:57.296Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "a60fe94675e21abbdff32adba4e8605c6813b50db7f50606a411b203288bccc0",
+        "newHash": "6b05257ead7c8036a8ccd97b07f98ac4a557116929dd8238d8e530f9cea00b16",
+        "confidence": 0.838,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
