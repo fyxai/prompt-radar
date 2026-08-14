@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:23:03.791Z",
+  "generatedAt": "2026-08-14T08:56:42.656Z",
   "tools": {
     "claude-code": [
       {
@@ -2296,6 +2296,20 @@
         "toolName": "Antigravity",
         "previousHash": "1a104c59b9d3276728aa3b74d694cfe38b7bc1cf937db842e8054b875901da47",
         "newHash": "81a2cd7213fae471db333e1ee0273d3491a90583ade04f64690f99f1ef6695a1",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      },
+      {
+        "detectedAt": "2026-08-14T08:56:42.656Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "81a2cd7213fae471db333e1ee0273d3491a90583ade04f64690f99f1ef6695a1",
+        "newHash": "56477e5283739e7d22e1b80ec8f1d25319001e44c071c8d0452ce28a481b9664",
         "confidence": 0.544,
         "source": {
           "type": "github_search_hint",
@@ -12413,6 +12427,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      },
+      {
+        "detectedAt": "2026-08-14T08:56:42.656Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "064b99ec92cd2500b29c2db593130d99e7dcaaacd942504e87c83773539d955b",
+        "newHash": "33e81f09890e1778d5de2edd5920109227085bcd211849d916c113457a66a8ea",
+        "confidence": 0.84,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
       }
     ],
     "kimi": [
@@ -13278,6 +13306,20 @@
         "toolName": "GLM",
         "previousHash": "0a455e086dacdcd9fe42ce248a7f32f9e4d952320e5664660e144c660c87430e",
         "newHash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-08-14T08:56:42.656Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
+        "newHash": "47bae4e70e6fa34fee93d0db68d1a1e4f1bc476d21970c56b3af2935753a9b5a",
         "confidence": 0.798,
         "source": {
           "type": "doc",
@@ -15555,6 +15597,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
+      },
+      {
+        "detectedAt": "2026-08-14T08:56:42.656Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "28eebd1e1042f6cde614bfa80edd296ca1c20f9ebe9d30f3309cef798556a71f",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
