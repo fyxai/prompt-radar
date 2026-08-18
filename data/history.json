@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:17:37.398Z",
+  "generatedAt": "2026-08-18T20:10:42.239Z",
   "tools": {
     "claude-code": [
       {
@@ -1214,6 +1214,20 @@
         "toolName": "Kiro",
         "previousHash": "32437ee7e3e0caf0bf8dbd46b2ab29668255c061f02e568da613bb9ec4d723ad",
         "newHash": "11078012982cdff807c943c06d41cafed5abc5c7a913d3c34b68dd70d87c1b80",
+        "confidence": 0.809,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+      },
+      {
+        "detectedAt": "2026-08-18T20:10:42.239Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "11078012982cdff807c943c06d41cafed5abc5c7a913d3c34b68dd70d87c1b80",
+        "newHash": "302ac4625adceec8fd0f975759f919c32063af128d34996fc9a140261422ed2b",
         "confidence": 0.809,
         "source": {
           "type": "doc",
@@ -12791,6 +12805,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      },
+      {
+        "detectedAt": "2026-08-18T20:10:42.239Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "064b99ec92cd2500b29c2db593130d99e7dcaaacd942504e87c83773539d955b",
+        "newHash": "7bc8eb9e95c9f6823bbd46faac8e5b855b36517a9a6333ba44c6702834d3e299",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
       }
     ],
     "kimi": [
@@ -13670,6 +13698,20 @@
         "toolName": "GLM",
         "previousHash": "6fff96cffe110dcbe0f544ae0e3e6fca315616b07199e11f19fd56adf983d033",
         "newHash": "47bae4e70e6fa34fee93d0db68d1a1e4f1bc476d21970c56b3af2935753a9b5a",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-08-18T20:10:42.239Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "47bae4e70e6fa34fee93d0db68d1a1e4f1bc476d21970c56b3af2935753a9b5a",
+        "newHash": "ce6fe43405d8b1c2fd74e1e916d380783af2812cf938050864b78baaa216e076",
         "confidence": 0.798,
         "source": {
           "type": "doc",

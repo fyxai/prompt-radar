@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-08-18T16:17:37.398Z",
+  "generatedAt": "2026-08-18T20:10:42.239Z",
   "changes": [
     {
-      "detectedAt": "2026-08-18T16:17:37.398Z",
+      "detectedAt": "2026-08-18T20:10:42.239Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "11078012982cdff807c943c06d41cafed5abc5c7a913d3c34b68dd70d87c1b80",
+      "newHash": "302ac4625adceec8fd0f975759f919c32063af128d34996fc9a140261422ed2b",
+      "confidence": 0.809,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+    },
+    {
+      "detectedAt": "2026-08-18T20:10:42.239Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "0e867c3c6407f3043802c874e909699a93168854902dc759bf4bb0b36f2be2fc",
-      "newHash": "064b99ec92cd2500b29c2db593130d99e7dcaaacd942504e87c83773539d955b",
-      "confidence": 0.841,
+      "previousHash": "064b99ec92cd2500b29c2db593130d99e7dcaaacd942504e87c83773539d955b",
+      "newHash": "7bc8eb9e95c9f6823bbd46faac8e5b855b36517a9a6333ba44c6702834d3e299",
+      "confidence": 0.839,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+    },
+    {
+      "detectedAt": "2026-08-18T20:10:42.239Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "47bae4e70e6fa34fee93d0db68d1a1e4f1bc476d21970c56b3af2935753a9b5a",
+      "newHash": "ce6fe43405d8b1c2fd74e1e916d380783af2812cf938050864b78baaa216e076",
+      "confidence": 0.798,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
