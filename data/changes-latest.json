@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-08-25T20:15:45.575Z",
+  "generatedAt": "2026-08-26T00:36:57.826Z",
   "changes": [
     {
-      "detectedAt": "2026-08-25T20:15:45.575Z",
+      "detectedAt": "2026-08-26T00:36:57.826Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "bd068489f55cbf946042c8424c6437c8dd513c778d7dd6a6673cdd625f0dff69",
+      "newHash": "300ebe980df07ab220e910586e50e75395a5d2585e38c932c0dc46ebdb76fa41",
+      "confidence": 0.808,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-08-26T00:36:57.826Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "9427a980e3216ae67bd5c4e2d944305632bdb31f37ae69f48dcb5a74e37b8849",
+      "newHash": "6696725964a94dffd98659d48cceec31917361652d9271bb51af7851e9c95a05",
+      "confidence": 0.809,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+    },
+    {
+      "detectedAt": "2026-08-26T00:36:57.826Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "8ff0a78e217d12a257874068eac8f3d8805986b8c0c4f139e23bb5620d33f054",
-      "newHash": "7dba2d5bffe7467a61f7e14bd960fc7d418437ad016906f7a337efd8a03162c9",
+      "previousHash": "7dba2d5bffe7467a61f7e14bd960fc7d418437ad016906f7a337efd8a03162c9",
+      "newHash": "b3c0b81cdb8608bd0df9ef12e32a35bff1fae723b449e28e4cdadc9594f6d50a",
       "confidence": 0.848,
       "source": {
         "type": "doc",
@@ -14,20 +42,6 @@
         "weight": 0.85
       },
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-08-25T20:15:45.575Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "8ec630cb3d0a238af1e78c4b9b78f1a7f47cccdcc7dce0f623e7ed1806a4cf29",
-      "newHash": "0fd1d407c4988664f518c3399ec164baeeb799ebfe5e96520ff56cd196e01e9b",
-      "confidence": 0.84,
-      "source": {
-        "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
-      },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     }
   ]
 }
