@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-08-26T08:29:15.550Z",
+  "generatedAt": "2026-08-26T12:26:35.748Z",
   "changes": [
     {
-      "detectedAt": "2026-08-26T08:29:15.550Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "4082fc053014328aba4ca38dccbff5e8c6059e028b6ba5686d502052ec2ae05c",
-      "newHash": "0fd1d407c4988664f518c3399ec164baeeb799ebfe5e96520ff56cd196e01e9b",
-      "confidence": 0.84,
+      "detectedAt": "2026-08-26T12:26:35.748Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "b3c0b81cdb8608bd0df9ef12e32a35bff1fae723b449e28e4cdadc9594f6d50a",
+      "newHash": "90682cf173365685eb9b0a2e650afc2c168432f39aaeb4fe4ebf196dd22c075c",
+      "confidence": 0.848,
       "source": {
         "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
+        "url": "https://platform.openai.com/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-08-26T12:26:35.748Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "ba8e5331f815face1e0175a301a12c617b5a001b53c450a63d162ef22c2eba50",
+      "confidence": 0.8,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
     }
   ]
 }
