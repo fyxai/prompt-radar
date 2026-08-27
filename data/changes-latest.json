@@ -1,33 +1,75 @@
 {
-  "generatedAt": "2026-08-27T05:35:14.725Z",
+  "generatedAt": "2026-08-27T18:28:53.731Z",
   "changes": [
     {
-      "detectedAt": "2026-08-27T05:35:14.725Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "6696725964a94dffd98659d48cceec31917361652d9271bb51af7851e9c95a05",
-      "newHash": "1c6c6be1f4d5311800ebf67fe9542c6cfd39e217859ad88cf96f8d04f23629d8",
-      "confidence": 0.809,
+      "detectedAt": "2026-08-27T18:28:53.731Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "300ebe980df07ab220e910586e50e75395a5d2585e38c932c0dc46ebdb76fa41",
+      "newHash": "655e92d0a401f9da8512a597ff5d741486eacc82ca98d5d305566e5d662a9540",
+      "confidence": 0.808,
       "source": {
         "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
       },
-      "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-08-27T05:35:14.725Z",
+      "detectedAt": "2026-08-27T18:28:53.731Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "a268f7302b8ba0764c8f2c61020d77f2644c2528f94ec763fb016d5602d62142",
+      "newHash": "3efdcc850db51a2dc40b226b20e26dd9aa045b3b4e9db815284d651d445bd896",
+      "confidence": 0.848,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-08-27T18:28:53.731Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "fecb1b67e53a41d9a9d8af66eb163df0d34c8db124da4fa2d5dd762dd8bed3da",
-      "newHash": "2e0aa76aa74ce0fe3d91b9555c35ac5e1b6473089b4aea756ddab13a747d0da6",
-      "confidence": 0.839,
+      "previousHash": "2e0aa76aa74ce0fe3d91b9555c35ac5e1b6473089b4aea756ddab13a747d0da6",
+      "newHash": "ac888b7f16ee867b456783bdb3e891069c0f018622ec44bf8cdeb0da55535989",
+      "confidence": 0.842,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers דילוג לתוכן הראשי / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Vi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+    },
+    {
+      "detectedAt": "2026-08-27T18:28:53.731Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "b75073455b791921d3dd3efd139557d140357c4fb67669fe0a8e168cec3f97e1",
+      "newHash": "25005bd8886cac11aad18218f72bb3d75eca95be28061f092a2484f62f503b2b",
+      "confidence": 0.817,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-08-27T18:28:53.731Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "03ba9123f1165a3009ac7f82fc70b7c4731b5c1ae6b049dfc9b06b3f170e8a3f",
+      "confidence": 0.801,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
     }
   ]
 }
