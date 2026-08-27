@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T22:34:14.815Z",
+  "generatedAt": "2026-08-27T05:35:14.725Z",
   "tools": {
     "claude-code": [
       {
@@ -1326,6 +1326,20 @@
         "toolName": "Kiro",
         "previousHash": "9427a980e3216ae67bd5c4e2d944305632bdb31f37ae69f48dcb5a74e37b8849",
         "newHash": "6696725964a94dffd98659d48cceec31917361652d9271bb51af7851e9c95a05",
+        "confidence": 0.809,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+      },
+      {
+        "detectedAt": "2026-08-27T05:35:14.725Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "6696725964a94dffd98659d48cceec31917361652d9271bb51af7851e9c95a05",
+        "newHash": "1c6c6be1f4d5311800ebf67fe9542c6cfd39e217859ad88cf96f8d04f23629d8",
         "confidence": 0.809,
         "source": {
           "type": "doc",
@@ -13491,6 +13505,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+      },
+      {
+        "detectedAt": "2026-08-27T05:35:14.725Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "fecb1b67e53a41d9a9d8af66eb163df0d34c8db124da4fa2d5dd762dd8bed3da",
+        "newHash": "2e0aa76aa74ce0fe3d91b9555c35ac5e1b6473089b4aea756ddab13a747d0da6",
+        "confidence": 0.839,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers דילוג לתוכן הראשי / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Vi…"
       }
     ],
     "kimi": [
