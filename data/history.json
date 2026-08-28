@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T18:28:53.731Z",
+  "generatedAt": "2026-08-28T03:54:07.158Z",
   "tools": {
     "claude-code": [
       {
@@ -13561,6 +13561,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      },
+      {
+        "detectedAt": "2026-08-28T03:54:07.158Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "ac888b7f16ee867b456783bdb3e891069c0f018622ec44bf8cdeb0da55535989",
+        "newHash": "973d0da1f0d20d8b32b6ab79df018d315029d227905bf906d9207f68f233f214",
+        "confidence": 0.842,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
       }
     ],
     "kimi": [
@@ -14489,6 +14503,20 @@
           "weight": 0.75
         },
         "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-08-28T03:54:07.158Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "b389989a53bbc18f2e33977a9e8386e9565b5c5fe67cbe1ee086f3858b82eb4e",
+        "newHash": "0718a183782361748397a78a94f81178676a85b08a0bf75382e3a57c6e8731f4",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=chatglm+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
       }
     ],
     "doubao": [
@@ -16969,6 +16997,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
+      },
+      {
+        "detectedAt": "2026-08-28T03:54:07.158Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "03ba9123f1165a3009ac7f82fc70b7c4731b5c1ae6b049dfc9b06b3f170e8a3f",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
