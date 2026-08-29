@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T15:45:31.480Z",
+  "generatedAt": "2026-08-29T00:13:00.881Z",
   "changes": [
     {
-      "detectedAt": "2026-08-28T15:45:31.480Z",
+      "detectedAt": "2026-08-29T00:13:00.881Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "3efdcc850db51a2dc40b226b20e26dd9aa045b3b4e9db815284d651d445bd896",
-      "newHash": "57e2ad5fb5be2d73a592283253d2529c0f26d3799c68b75b101a24a619525d77",
+      "previousHash": "57e2ad5fb5be2d73a592283253d2529c0f26d3799c68b75b101a24a619525d77",
+      "newHash": "f02ffe16beaad1cb52e63fc85df4c4ae4a420fc5a9d1ce9646e8f944c3014c00",
       "confidence": 0.848,
       "source": {
         "type": "doc",
@@ -16,60 +16,32 @@
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-08-28T15:45:31.480Z",
-      "toolId": "antigravity",
-      "toolName": "Antigravity",
-      "previousHash": "56477e5283739e7d22e1b80ec8f1d25319001e44c071c8d0452ce28a481b9664",
-      "newHash": "f1c894398f46fe4e7f2574dfd51890e2dca8c845eeff5847330db794725018ca",
-      "confidence": 0.544,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=antigravity+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
-    },
-    {
-      "detectedAt": "2026-08-28T15:45:31.480Z",
+      "detectedAt": "2026-08-29T00:13:00.881Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "973d0da1f0d20d8b32b6ab79df018d315029d227905bf906d9207f68f233f214",
-      "newHash": "ee5509ff2d65af0e730173aa404ecf97acd8eb39f4ff2e3392d9ccb578f8eb2d",
-      "confidence": 0.84,
+      "previousHash": "ee5509ff2d65af0e730173aa404ecf97acd8eb39f4ff2e3392d9ccb578f8eb2d",
+      "newHash": "24ba871707719ce336b19d7830853587245ce62adfe541dda0c0da49bd86501f",
+      "confidence": 0.842,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
     },
     {
-      "detectedAt": "2026-08-28T15:45:31.480Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "0718a183782361748397a78a94f81178676a85b08a0bf75382e3a57c6e8731f4",
-      "newHash": "586b39b24a92e862111cff5b4a8c371dde1f1ae1ab9d316985f72bf7ed8c4f82",
-      "confidence": 0.798,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
-    },
-    {
-      "detectedAt": "2026-08-28T15:45:31.480Z",
+      "detectedAt": "2026-08-29T00:13:00.881Z",
       "toolId": "doubao",
       "toolName": "Doubao",
-      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "newHash": "03ba9123f1165a3009ac7f82fc70b7c4731b5c1ae6b049dfc9b06b3f170e8a3f",
-      "confidence": 0.801,
+      "previousHash": "03ba9123f1165a3009ac7f82fc70b7c4731b5c1ae6b049dfc9b06b3f170e8a3f",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
       "source": {
         "type": "doc",
         "url": "https://www.volcengine.com/docs/82379",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
