@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T02:08:52.147Z",
+  "generatedAt": "2026-08-31T10:12:43.031Z",
   "tools": {
     "claude-code": [
       {
@@ -2490,6 +2490,20 @@
         "toolName": "Codex",
         "previousHash": "f02ffe16beaad1cb52e63fc85df4c4ae4a420fc5a9d1ce9646e8f944c3014c00",
         "newHash": "aafab38cf4d1081fb6c69b7efcd2bde1c45fbe5b8bad859ab75e2f4f1be9cbc3",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-08-31T10:12:43.031Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "aafab38cf4d1081fb6c69b7efcd2bde1c45fbe5b8bad859ab75e2f4f1be9cbc3",
+        "newHash": "1be75c3cd72826b3e36d8e0fafca323be680ce827c5e96bf525270505997515e",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -13785,6 +13799,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-08-31T10:12:43.031Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "5d6db52a07f9644994598de918183b038d1a2e22a2119aad688c40d815b5fd1d",
+        "newHash": "ac888b7f16ee867b456783bdb3e891069c0f018622ec44bf8cdeb0da55535989",
+        "confidence": 0.842,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
       }
     ],
     "kimi": [
@@ -14298,6 +14326,20 @@
         "toolName": "Kimi",
         "previousHash": "b75073455b791921d3dd3efd139557d140357c4fb67669fe0a8e168cec3f97e1",
         "newHash": "25005bd8886cac11aad18218f72bb3d75eca95be28061f092a2484f62f503b2b",
+        "confidence": 0.817,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-08-31T10:12:43.031Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "25005bd8886cac11aad18218f72bb3d75eca95be28061f092a2484f62f503b2b",
+        "newHash": "aa77f5c3473330cbd8c91892a50811888a28fc0962bad161731f76ecb7abd94f",
         "confidence": 0.817,
         "source": {
           "type": "doc",
