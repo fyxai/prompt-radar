@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-09-01T08:58:32.549Z",
+  "generatedAt": "2026-09-01T15:42:07.385Z",
   "changes": [
     {
-      "detectedAt": "2026-09-01T08:58:32.549Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "1be75c3cd72826b3e36d8e0fafca323be680ce827c5e96bf525270505997515e",
-      "newHash": "d8a52b2da6257a9694d09a9c1a389c845cadfac900116878a328764db44de70e",
-      "confidence": 0.848,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-09-01T08:58:32.549Z",
+      "detectedAt": "2026-09-01T15:42:07.385Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "170a77eade62b5ef56d4cfe4cab02eaa61da495f69faccc9d043d71102c33779",
-      "newHash": "5d6db52a07f9644994598de918183b038d1a2e22a2119aad688c40d815b5fd1d",
-      "confidence": 0.84,
+      "previousHash": "5d6db52a07f9644994598de918183b038d1a2e22a2119aad688c40d815b5fd1d",
+      "newHash": "973d0da1f0d20d8b32b6ab79df018d315029d227905bf906d9207f68f233f214",
+      "confidence": 0.842,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+    },
+    {
+      "detectedAt": "2026-09-01T15:42:07.385Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "a3055d11e56695302a3bb79546c2f981747e9b49c7b74478f6b9979bc10e7a0f",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
