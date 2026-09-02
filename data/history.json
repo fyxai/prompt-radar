@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:03:27.080Z",
+  "generatedAt": "2026-09-02T22:06:10.179Z",
   "tools": {
     "claude-code": [
       {
@@ -1396,6 +1396,20 @@
         "toolName": "Kiro",
         "previousHash": "e9d46ca8840d0805673a8a1e82717cd18ab0ec034147e691dc46d7f9369e0ccc",
         "newHash": "6d46c99473962cb4ca6fb98797a40098b94f2d507f8b7f4d71633e3255214005",
+        "confidence": 0.809,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+      },
+      {
+        "detectedAt": "2026-09-02T22:06:10.179Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "6d46c99473962cb4ca6fb98797a40098b94f2d507f8b7f4d71633e3255214005",
+        "newHash": "426eaf279bbc8dda9c8ac8147cdf8c922ec6051b0b2b293353aa7c3931a504bd",
         "confidence": 0.809,
         "source": {
           "type": "doc",
@@ -13995,6 +14009,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-02T22:06:10.179Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "e4b4af07c570ae3628d1d5cce4f0e379cdf0a8504c1107b0aca446b2b8fc64ab",
+        "newHash": "4082fc053014328aba4ca38dccbff5e8c6059e028b6ba5686d502052ec2ae05c",
+        "confidence": 0.841,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers التخطّي إلى المحتوى الرئيسي / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
       }
     ],
     "kimi": [
@@ -17627,6 +17655,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 调…"
+      },
+      {
+        "detectedAt": "2026-09-02T22:06:10.179Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "a9e2661bc9c617192f7ac85f21a8fbc425a73c850a0638110aea62fa0b0489e3",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
