@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:21:25.747Z",
+  "generatedAt": "2026-09-03T15:24:52.974Z",
   "tools": {
     "claude-code": [
       {
@@ -855,6 +855,20 @@
           "weight": 0.45
         },
         "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      },
+      {
+        "detectedAt": "2026-09-03T15:24:52.974Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "a851013757f774e3c4686d4a40b06011b21730f3bf8ee7c842d06492f442205b",
+        "newHash": "bc615fab3b2c9bba90990f0be0133c0d81ab7dd281509f12ec81ada10bc5ccae",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
       }
     ],
     "kiro": [
@@ -14065,6 +14079,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-03T15:24:52.974Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "e4b4af07c570ae3628d1d5cce4f0e379cdf0a8504c1107b0aca446b2b8fc64ab",
+        "newHash": "6e79b258f1fb472b07f84cbf625226e1e772ce12ceb28963e4c77cffba6c7cbc",
+        "confidence": 0.843,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
       }
     ],
     "kimi": [
