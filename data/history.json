@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T01:54:28.715Z",
+  "generatedAt": "2026-09-08T08:24:01.442Z",
   "tools": {
     "claude-code": [
       {
@@ -869,6 +869,20 @@
           "weight": 0.7
         },
         "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-09-08T08:24:01.442Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "bc615fab3b2c9bba90990f0be0133c0d81ab7dd281509f12ec81ada10bc5ccae",
+        "newHash": "a851013757f774e3c4686d4a40b06011b21730f3bf8ee7c842d06492f442205b",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=claude+code+system+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
       }
     ],
     "kiro": [
@@ -15392,6 +15406,20 @@
         "toolName": "GLM",
         "previousHash": "586b39b24a92e862111cff5b4a8c371dde1f1ae1ab9d316985f72bf7ed8c4f82",
         "newHash": "b2beeaff22575164861267596fdbfd8708d9008578ba9b253ca1638741667710",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-09-08T08:24:01.442Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "b2beeaff22575164861267596fdbfd8708d9008578ba9b253ca1638741667710",
+        "newHash": "04ef8af2e9ea78a1ae9f60cf101cb21acbd0b5459cb74e8653de959a6fef55df",
         "confidence": 0.798,
         "source": {
           "type": "doc",
