@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:05:49.181Z",
+  "generatedAt": "2026-09-08T22:07:36.471Z",
   "tools": {
     "claude-code": [
       {
@@ -2673,6 +2673,20 @@
         "previousHash": "dc002717c917f73f6417f5cf5dc8bfab15143d8be00e30969195b14a5fc0d5de",
         "newHash": "17bb4a0ba96c4eca1bef29eab133e2b2ac155c9f4daef31f7fb38da1e89dc312",
         "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-08T22:07:36.471Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "17bb4a0ba96c4eca1bef29eab133e2b2ac155c9f4daef31f7fb38da1e89dc312",
+        "newHash": "e3fabd507c0af9ed584e63ad6a953d517699ad2d604a07f81c7c32f4cdeadfa1",
+        "confidence": 0.849,
         "source": {
           "type": "doc",
           "url": "https://platform.openai.com/docs",
@@ -14443,6 +14457,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      },
+      {
+        "detectedAt": "2026-09-08T22:07:36.471Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "0814b94931892f94507288c073124ef49547ec788819b9254f12fb662e1c4b81",
+        "newHash": "fcb5e6e9acb01ec6335fa4ed02514c35fab7c6b870260d13b65a54032f964a92",
+        "confidence": 0.842,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
       }
     ],
     "kimi": [
@@ -15483,6 +15511,20 @@
           "weight": 0.45
         },
         "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      },
+      {
+        "detectedAt": "2026-09-08T22:07:36.471Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "06d1a6f20c993790e4d268f194a435184721e41006c9b53c0106f832ad672a74",
+        "newHash": "04ef8af2e9ea78a1ae9f60cf101cb21acbd0b5459cb74e8653de959a6fef55df",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
       }
     ],
     "doubao": [
@@ -18271,6 +18313,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 迁…"
+      },
+      {
+        "detectedAt": "2026-09-08T22:07:36.471Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "47342c73fb4881bf9ac667f2608bde2dc6d2c5b465cc3a8f7d0d0b0b00787c21",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
