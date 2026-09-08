@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:35:15.745Z",
+  "generatedAt": "2026-09-08T19:05:49.181Z",
   "tools": {
     "claude-code": [
       {
@@ -2658,6 +2658,20 @@
         "toolName": "Codex",
         "previousHash": "c1419e47a1ff0578e14f0155da675f0de9c9f7d68040dc479b46261a53eb9455",
         "newHash": "dc002717c917f73f6417f5cf5dc8bfab15143d8be00e30969195b14a5fc0d5de",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-08T19:05:49.181Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "dc002717c917f73f6417f5cf5dc8bfab15143d8be00e30969195b14a5fc0d5de",
+        "newHash": "17bb4a0ba96c4eca1bef29eab133e2b2ac155c9f4daef31f7fb38da1e89dc312",
         "confidence": 0.848,
         "source": {
           "type": "doc",
@@ -14415,6 +14429,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-08T19:05:49.181Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "bffe2783e8b5be30be1b0d2e1c5382784d9ec997468235256c8b8f9e85b12fc8",
+        "newHash": "0814b94931892f94507288c073124ef49547ec788819b9254f12fb662e1c4b81",
+        "confidence": 0.842,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
       }
     ],
     "kimi": [
@@ -15441,6 +15469,20 @@
           "weight": 0.75
         },
         "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-09-08T19:05:49.181Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "04ef8af2e9ea78a1ae9f60cf101cb21acbd0b5459cb74e8653de959a6fef55df",
+        "newHash": "06d1a6f20c993790e4d268f194a435184721e41006c9b53c0106f832ad672a74",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=chatglm+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
       }
     ],
     "doubao": [
