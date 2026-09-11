@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:50:42.969Z",
+  "generatedAt": "2026-09-11T22:04:51.288Z",
   "tools": {
     "claude-code": [
       {
@@ -2742,6 +2742,20 @@
         "toolName": "Codex",
         "previousHash": "df07a6c295f28765f168c69507179ae6e896dafaf886a9c3fe049cce25927bb1",
         "newHash": "4e485720714d660bb2430818e37813d63f73d19559c0a79adee7510dfd056c78",
+        "confidence": 0.849,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-11T22:04:51.288Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "4e485720714d660bb2430818e37813d63f73d19559c0a79adee7510dfd056c78",
+        "newHash": "a98d7a85e7a69d08e6da9373852d47d1e8dbe643bb74e53dea8f28318065dbac",
         "confidence": 0.849,
         "source": {
           "type": "doc",
@@ -18565,6 +18579,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-09-11T22:04:51.288Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "b5b3e058bb8ded8e2a1664b7630e7b04070b9ea0f5b1f1f9a9ef78ee2f6845c4",
+        "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 最新模型：Seed-Evolving Agent 场景模型调用的正确姿势 迁…"
       }
     ]
   }
