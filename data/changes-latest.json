@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-09-14T17:11:10.529Z",
+  "generatedAt": "2026-09-14T22:50:02.878Z",
   "changes": [
     {
-      "detectedAt": "2026-09-14T17:11:10.529Z",
+      "detectedAt": "2026-09-14T22:50:02.878Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "2ada7ab70acd6edb05ff495e67cd5966f54c3b83bb4095b17323b048a64c4afd",
-      "newHash": "92a6c270ffd0512231c71b3b0a18b61ff58c497b235f5a1651729f029612b659",
-      "confidence": 0.842,
+      "previousHash": "92a6c270ffd0512231c71b3b0a18b61ff58c497b235f5a1651729f029612b659",
+      "newHash": "2ada7ab70acd6edb05ff495e67cd5966f54c3b83bb4095b17323b048a64c4afd",
+      "confidence": 0.836,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt…"
+    },
+    {
+      "detectedAt": "2026-09-14T22:50:02.878Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "f7bf7957f15c26fdc0feebcaf9f10ca7f6da1f91f8b8de56aadaa56586736686",
+      "confidence": 0.799,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型列表 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 Seed-…"
     }
   ]
 }
