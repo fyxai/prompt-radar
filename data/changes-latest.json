@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-09-15T19:20:25.684Z",
+  "generatedAt": "2026-09-15T22:30:45.888Z",
   "changes": [
     {
-      "detectedAt": "2026-09-15T19:20:25.684Z",
+      "detectedAt": "2026-09-15T22:30:45.888Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "bc615fab3b2c9bba90990f0be0133c0d81ab7dd281509f12ec81ada10bc5ccae",
+      "newHash": "2b5f0d5037e950efd70ee98c2678a606da35ac7d07190c79fd16728e6cf531a3",
+      "confidence": 0.808,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-09-15T22:30:45.888Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "0f80f52ad612cd6bcfea691c2845800445b68bde6d6d5668fcca2996e5face57",
-      "newHash": "bb666f3e810bee0234030f3516d9d872cefdc5c2467cfbcf67299b802f4bb12b",
-      "confidence": 0.842,
+      "previousHash": "bb666f3e810bee0234030f3516d9d872cefdc5c2467cfbcf67299b802f4bb12b",
+      "newHash": "fa8f6c1817d373bf6c57187c9ea94ae0cf791f40f92d0ec026afa9207f6a8c80",
+      "confidence": 0.841,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers ข้ามไปที่เนื้อหาหลัก / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     }
   ]
 }
