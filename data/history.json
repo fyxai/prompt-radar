@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:49:14.817Z",
+  "generatedAt": "2026-09-17T19:22:36.022Z",
   "tools": {
     "claude-code": [
       {
@@ -918,6 +918,20 @@
         "toolName": "Claude Code",
         "previousHash": "2b5f0d5037e950efd70ee98c2678a606da35ac7d07190c79fd16728e6cf531a3",
         "newHash": "b6fab6889b985e227a43495fdc10edc3d7efbefb6e635f4e16d77321b3e45c2d",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-09-17T19:22:36.022Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "b6fab6889b985e227a43495fdc10edc3d7efbefb6e635f4e16d77321b3e45c2d",
+        "newHash": "32da7a3b9c75614b7895e6e603a6f751b6f05a19cf7134e5bca1e7306317dc23",
         "confidence": 0.808,
         "source": {
           "type": "doc",
@@ -2812,6 +2826,20 @@
         "toolName": "Codex",
         "previousHash": "a98d7a85e7a69d08e6da9373852d47d1e8dbe643bb74e53dea8f28318065dbac",
         "newHash": "22d78247946aa292fa47cee9bc6068175d3a2b24943cc62de4aca2b68737ea0b",
+        "confidence": 0.849,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-17T19:22:36.022Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "22d78247946aa292fa47cee9bc6068175d3a2b24943cc62de4aca2b68737ea0b",
+        "newHash": "ecb73a57becaa7ebcdf64af006d951b16acce97c6dc709a43b73d0b867d41a04",
         "confidence": 0.849,
         "source": {
           "type": "doc",
@@ -15045,6 +15073,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      },
+      {
+        "detectedAt": "2026-09-17T19:22:36.022Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "1473b038f61bf983871890694fa135f6a135ef13746391768aef91d24050c9bd",
+        "newHash": "549665d93c4f392f3a96783eb831435de605c6441db9afaf47828e71e9360b6f",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=gemini+cli+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
       }
     ],
     "kimi": [
@@ -19049,6 +19091,20 @@
         "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
         "newHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
         "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表 Seed-…"
+      },
+      {
+        "detectedAt": "2026-09-17T19:22:36.022Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
+        "newHash": "4d266602779e98e3cb60cd47f4803c24e386e70e4336b41eb7702f501512889d",
+        "confidence": 0.794,
         "source": {
           "type": "doc",
           "url": "https://www.volcengine.com/docs/82379",
