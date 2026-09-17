@@ -1,4 +1,47 @@
 {
-  "generatedAt": "2026-09-17T08:59:12.525Z",
-  "changes": []
+  "generatedAt": "2026-09-17T15:49:14.817Z",
+  "changes": [
+    {
+      "detectedAt": "2026-09-17T15:49:14.817Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "426eaf279bbc8dda9c8ac8147cdf8c922ec6051b0b2b293353aa7c3931a504bd",
+      "newHash": "268aece53986a4200bca415abce47133f794fb6dd0c2292749913088cd9dec85",
+      "confidence": 0.809,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Docs - Kiro Loading image... Product About Kiro IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powers Shop…"
+    },
+    {
+      "detectedAt": "2026-09-17T15:49:14.817Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "bae747a809898864b698ac084598372ae0b72c11e322e7ab36ee2b7b69b3fe20",
+      "newHash": "1473b038f61bf983871890694fa135f6a135ef13746391768aef91d24050c9bd",
+      "confidence": 0.843,
+      "source": {
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
+      },
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+    },
+    {
+      "detectedAt": "2026-09-17T15:49:14.817Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
+      "confidence": 0.799,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表 Seed-…"
+    }
+  ]
 }
