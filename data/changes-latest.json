@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-17T19:22:36.022Z",
+  "generatedAt": "2026-09-17T22:30:41.979Z",
   "changes": [
     {
-      "detectedAt": "2026-09-17T19:22:36.022Z",
+      "detectedAt": "2026-09-17T22:30:41.979Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "b6fab6889b985e227a43495fdc10edc3d7efbefb6e635f4e16d77321b3e45c2d",
-      "newHash": "32da7a3b9c75614b7895e6e603a6f751b6f05a19cf7134e5bca1e7306317dc23",
+      "previousHash": "32da7a3b9c75614b7895e6e603a6f751b6f05a19cf7134e5bca1e7306317dc23",
+      "newHash": "b77aa3ab3a8afb239035a306e6e6c9d7c2c57d5806641f879bde80739e5828a3",
       "confidence": 0.808,
       "source": {
         "type": "doc",
@@ -16,40 +16,26 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-09-17T19:22:36.022Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "22d78247946aa292fa47cee9bc6068175d3a2b24943cc62de4aca2b68737ea0b",
-      "newHash": "ecb73a57becaa7ebcdf64af006d951b16acce97c6dc709a43b73d0b867d41a04",
-      "confidence": 0.849,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-09-17T19:22:36.022Z",
+      "detectedAt": "2026-09-17T22:30:41.979Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "1473b038f61bf983871890694fa135f6a135ef13746391768aef91d24050c9bd",
-      "newHash": "549665d93c4f392f3a96783eb831435de605c6441db9afaf47828e71e9360b6f",
-      "confidence": 0.544,
+      "previousHash": "549665d93c4f392f3a96783eb831435de605c6441db9afaf47828e71e9360b6f",
+      "newHash": "9c0a78dd17f1bb9824ce5f5550873a13f2846bd32fbdbe3e533b84fa30edf1c9",
+      "confidence": 0.841,
       "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=gemini+cli+prompt&type=code",
-        "weight": 0.45
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
       },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers ข้ามไปที่เนื้อหาหลัก / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     },
     {
-      "detectedAt": "2026-09-17T19:22:36.022Z",
+      "detectedAt": "2026-09-17T22:30:41.979Z",
       "toolId": "doubao",
       "toolName": "Doubao",
-      "previousHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
-      "newHash": "4d266602779e98e3cb60cd47f4803c24e386e70e4336b41eb7702f501512889d",
-      "confidence": 0.794,
+      "previousHash": "4d266602779e98e3cb60cd47f4803c24e386e70e4336b41eb7702f501512889d",
+      "newHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
+      "confidence": 0.799,
       "source": {
         "type": "doc",
         "url": "https://www.volcengine.com/docs/82379",
