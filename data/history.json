@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:43:16.364Z",
+  "generatedAt": "2026-09-18T22:01:17.116Z",
   "tools": {
     "claude-code": [
       {
@@ -946,6 +946,20 @@
         "toolName": "Claude Code",
         "previousHash": "32da7a3b9c75614b7895e6e603a6f751b6f05a19cf7134e5bca1e7306317dc23",
         "newHash": "b77aa3ab3a8afb239035a306e6e6c9d7c2c57d5806641f879bde80739e5828a3",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-09-18T22:01:17.116Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "b77aa3ab3a8afb239035a306e6e6c9d7c2c57d5806641f879bde80739e5828a3",
+        "newHash": "416cce558507d0176d014f9712fb0b5a0c766cc7de5889c618bd05a41ec36969",
         "confidence": 0.808,
         "source": {
           "type": "doc",
@@ -19237,6 +19251,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      },
+      {
+        "detectedAt": "2026-09-18T22:01:17.116Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "newHash": "24d79be299caef5bc880366b754c72e8b6e376a4e4d0bbec8ad33ee0d779fba7",
+        "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表 Seed-…"
       }
     ]
   }
