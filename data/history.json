@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:22:59.583Z",
+  "generatedAt": "2026-09-21T17:20:29.567Z",
   "tools": {
     "claude-code": [
       {
@@ -15353,6 +15353,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-21T17:20:29.567Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "dafafe2d59acee77cdfe1c0f55b568abac79316d352ca717cfd7b8e780245df8",
+        "newHash": "ff7ec20b9926f141fcf1e37e54e281d5fa8b542b96a19ce9cf51cb624613bb27",
+        "confidence": 0.846,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
       }
     ],
     "kimi": [
@@ -15936,6 +15950,20 @@
         "toolName": "Kimi",
         "previousHash": "be6ed976497b50c175444e9a25b99b8da7bbb28f7b96ec5170705b75ab13d537",
         "newHash": "bca43752b316023ebadf6e3ec1443ae9934248b4909e4610b379f2269b1d644a",
+        "confidence": 0.818,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-09-21T17:20:29.567Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "bca43752b316023ebadf6e3ec1443ae9934248b4909e4610b379f2269b1d644a",
+        "newHash": "fdfe0bd65be829d9902deda269e996103167946eb2ceec24a18203dcd1ae4478",
         "confidence": 0.818,
         "source": {
           "type": "doc",
