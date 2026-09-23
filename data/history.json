@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:43:04.604Z",
+  "generatedAt": "2026-09-23T19:17:56.145Z",
   "tools": {
     "claude-code": [
       {
@@ -2966,6 +2966,20 @@
         "toolName": "Codex",
         "previousHash": "bccf0da0ab820c7a137ad0183735e706d607707f55fdf88cd9e3ab52b35c1212",
         "newHash": "a1ccbc961d094f9448c6b28cc08c95e6275b3631ab2963feadaf70b03f38aa97",
+        "confidence": 0.849,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-23T19:17:56.145Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "a1ccbc961d094f9448c6b28cc08c95e6275b3631ab2963feadaf70b03f38aa97",
+        "newHash": "891a9ac26d7394de23396ad8a75de24d48cc961001e00c991fedc740564d7842",
         "confidence": 0.849,
         "source": {
           "type": "doc",
@@ -15543,6 +15557,20 @@
         "previousHash": "dafafe2d59acee77cdfe1c0f55b568abac79316d352ca717cfd7b8e780245df8",
         "newHash": "4d07fc99886c8d6e919dd10ec8c806e283638394fa8316a5037261f0ce9ef03a",
         "confidence": 0.844,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-23T19:17:56.145Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "4d07fc99886c8d6e919dd10ec8c806e283638394fa8316a5037261f0ce9ef03a",
+        "newHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+        "confidence": 0.846,
         "source": {
           "type": "doc",
           "url": "https://ai.google.dev/gemini-api/docs",
