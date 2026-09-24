@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T16:04:16.387Z",
+  "generatedAt": "2026-09-24T22:48:08.999Z",
   "tools": {
     "claude-code": [
       {
@@ -2980,6 +2980,20 @@
         "toolName": "Codex",
         "previousHash": "a1ccbc961d094f9448c6b28cc08c95e6275b3631ab2963feadaf70b03f38aa97",
         "newHash": "891a9ac26d7394de23396ad8a75de24d48cc961001e00c991fedc740564d7842",
+        "confidence": 0.849,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-24T22:48:08.999Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "891a9ac26d7394de23396ad8a75de24d48cc961001e00c991fedc740564d7842",
+        "newHash": "d445d486a581d56ca341103e6898ed97852e8d4e4b2b544bafa219f387dab876",
         "confidence": 0.849,
         "source": {
           "type": "doc",
@@ -15619,6 +15633,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-09-24T22:48:08.999Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+        "newHash": "f075b03d25acfbb69d15fc7edfb16fae1dc74e330beaba2d5718ce7188ad9aee",
+        "confidence": 0.848,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers सीधे मुख्य कॉन्टेंट पर जाएं / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
       }
     ],
     "kimi": [
