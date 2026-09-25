@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:48:08.999Z",
+  "generatedAt": "2026-09-25T02:20:18.510Z",
   "tools": {
     "claude-code": [
       {
@@ -988,6 +988,20 @@
         "toolName": "Claude Code",
         "previousHash": "cf93a8b8f9b7577bf5d817500f661206f4c228971f76f8c047c9980d31f53134",
         "newHash": "6bdd0598cfc635ce89748a35d767e58a1926d3c84c8285ff88fd371768d30ad8",
+        "confidence": 0.808,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-09-25T02:20:18.510Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "6bdd0598cfc635ce89748a35d767e58a1926d3c84c8285ff88fd371768d30ad8",
+        "newHash": "bf2d10f1aafaaa00b74a3862f9671025121afe900a734221b1a07d60adc972bc",
         "confidence": 0.808,
         "source": {
           "type": "doc",
@@ -2994,6 +3008,20 @@
         "toolName": "Codex",
         "previousHash": "891a9ac26d7394de23396ad8a75de24d48cc961001e00c991fedc740564d7842",
         "newHash": "d445d486a581d56ca341103e6898ed97852e8d4e4b2b544bafa219f387dab876",
+        "confidence": 0.849,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-09-25T02:20:18.510Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "d445d486a581d56ca341103e6898ed97852e8d4e4b2b544bafa219f387dab876",
+        "newHash": "3ec39805d47f1922e09bbdf8d720a6adeabcbb3a9d57d95e8f615ac7e040e847",
         "confidence": 0.849,
         "source": {
           "type": "doc",
@@ -15647,6 +15675,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers सीधे मुख्य कॉन्टेंट पर जाएं / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      },
+      {
+        "detectedAt": "2026-09-25T02:20:18.510Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "f075b03d25acfbb69d15fc7edfb16fae1dc74e330beaba2d5718ce7188ad9aee",
+        "newHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+        "confidence": 0.846,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
       }
     ],
     "kimi": [
@@ -19839,6 +19881,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      },
+      {
+        "detectedAt": "2026-09-25T02:20:18.510Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "bda0caddd3ee3b82b5643b8d90b26af294047fe6137a5f59293cc13b8d17cb5f",
+        "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+        "confidence": 0.752,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. --> --> -->"
       }
     ]
   }
