@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:56:49.395Z",
+  "generatedAt": "2026-10-01T10:32:18.360Z",
   "tools": {
     "claude-code": [
       {
@@ -1634,6 +1634,20 @@
         "toolName": "Kiro",
         "previousHash": "af8921fb90158cc261aa64448d086e9810bc638dfe393ce09b26c7badedd7240",
         "newHash": "c1c1f68c5aacf92ee7107f81640e57ae3c0823937dfcf258597cc76de0a18a5b",
+        "confidence": 0.809,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Discord Events Powe…"
+      },
+      {
+        "detectedAt": "2026-10-01T10:32:18.360Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "c1c1f68c5aacf92ee7107f81640e57ae3c0823937dfcf258597cc76de0a18a5b",
+        "newHash": "3cd48b6ed30c804fdb3842f038f1c352b6d32dc36544fe8023c84153c68f77dc",
         "confidence": 0.809,
         "source": {
           "type": "doc",
@@ -16137,6 +16151,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-10-01T10:32:18.360Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+        "newHash": "7715dc082ef94a09ab998fdeb07d2224cc5e5a522531f05fcacc3df17e665b81",
+        "confidence": 0.846,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
       }
     ],
     "kimi": [
