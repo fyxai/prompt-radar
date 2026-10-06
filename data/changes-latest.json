@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-06T10:52:28.362Z",
+  "generatedAt": "2026-10-06T17:32:58.512Z",
   "changes": [
     {
-      "detectedAt": "2026-10-06T10:52:28.362Z",
+      "detectedAt": "2026-10-06T17:32:58.512Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "39898047b1b4678fc87c75b1896ddfc15279abd5f82342ce78a18767d1482c31",
+      "newHash": "64768c9e6ce5fc5f5e42745fe2d272ffc6cb88778bc9aaf05f36af5e56b26116",
+      "confidence": 0.85,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-10-06T17:32:58.512Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "7a846bf578e271917fa8eb370930afcfabe86d34f4d115b7026cb9490b5906c9",
-      "newHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+      "previousHash": "658b448186cc24e36aa9dd611fc8354faebaecfc5c4fbc235102dc691fcd3a5a",
+      "newHash": "7715dc082ef94a09ab998fdeb07d2224cc5e5a522531f05fcacc3df17e665b81",
       "confidence": 0.846,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
-    },
-    {
-      "detectedAt": "2026-10-06T10:52:28.362Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "bda0caddd3ee3b82b5643b8d90b26af294047fe6137a5f59293cc13b8d17cb5f",
-      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "confidence": 0.752,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
-      },
-      "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
     }
   ]
 }
