@@ -1,75 +1,33 @@
 {
-  "generatedAt": "2026-10-07T18:04:38.807Z",
+  "generatedAt": "2026-10-07T23:54:55.724Z",
   "changes": [
     {
-      "detectedAt": "2026-10-07T18:04:38.807Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "c77e09183304604e7a03cac0a2495418368629b805065624b5e01d343617b42a",
-      "newHash": "a2405488c17d59f73eb5179f1ab98fa5a0f561a8cd00a3e511e1f5aac1f4acde",
-      "confidence": 0.809,
-      "source": {
-        "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
-      },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-10-07T18:04:38.807Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "65c342ffdf38a693edabc08aca895771af80e4e54e1d92f53a0ee2ada9673c18",
-      "newHash": "1b9441cfb079c8200cc8ae5a3a3dd3d0a1915fc7ae94142e89abdf445eee4e33",
-      "confidence": 0.809,
-      "source": {
-        "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
-      },
-      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
-    },
-    {
-      "detectedAt": "2026-10-07T18:04:38.807Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "ad2b9826b784deff0e4794f9028eeac35c310b4148ef790e92030f5c3aeea4c4",
-      "newHash": "add4e1fef905a5df174d243e875d11e6e533cc65da6b32032e38173bb5a503c5",
-      "confidence": 0.85,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-10-07T18:04:38.807Z",
+      "detectedAt": "2026-10-07T23:54:55.724Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "95c55a4e8340eb367c328e73d59a3d4abfda4673874c72338ccd915d68de9393",
-      "newHash": "e1f3443c5451462240f1c3f1418fff10aa36a900db181b504e77e898d6fbdfd2",
-      "confidence": 0.848,
+      "previousHash": "e1f3443c5451462240f1c3f1418fff10aa36a900db181b504e77e898d6fbdfd2",
+      "newHash": "95c55a4e8340eb367c328e73d59a3d4abfda4673874c72338ccd915d68de9393",
+      "confidence": 0.846,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir al contenido principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     },
     {
-      "detectedAt": "2026-10-07T18:04:38.807Z",
+      "detectedAt": "2026-10-07T23:54:55.724Z",
       "toolId": "doubao",
       "toolName": "Doubao",
-      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "newHash": "f02d6ea6765d478a35eb44b09a9a03a17454bf5b6f0d3ce3024b18545f8a46fe",
-      "confidence": 0.798,
+      "previousHash": "f02d6ea6765d478a35eb44b09a9a03a17454bf5b6f0d3ce3024b18545f8a46fe",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
       "source": {
         "type": "doc",
         "url": "https://www.volcengine.com/docs/82379",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
