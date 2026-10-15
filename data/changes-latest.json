@@ -1,33 +1,47 @@
 {
-  "generatedAt": "2026-10-15T19:32:18.660Z",
+  "generatedAt": "2026-10-15T22:44:48.766Z",
   "changes": [
     {
-      "detectedAt": "2026-10-15T19:32:18.660Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "b4f230995cf10db878d0fb456373d0219d597c03dc4ca87d852e620ac4cf816f",
-      "newHash": "8d3abc1107791f1a2a5c0b05608f3550542523a2930ac1e163403ebe80f540fa",
-      "confidence": 0.809,
+      "detectedAt": "2026-10-15T22:44:48.766Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "5e83cb3e0e6882f615fd5e8bc49f59eede0f77aeefd241eb0d1314a64193bb7d",
+      "newHash": "c3ec8b94b18e3c21a30e2a11b4f18fafbf3c5b38a2e3aa1076e9378ca9671d99",
+      "confidence": 0.85,
       "source": {
         "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
       },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-10-15T19:32:18.660Z",
+      "detectedAt": "2026-10-15T22:44:48.766Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "83698e449bb91a6afe163cef3bdc6aa6fcee789d641c2dc0b652f84a1b31e8ab",
-      "newHash": "477bdbe361271af96b0e22af6a41f2ccfad656768df694b83e01755f1b2b1fd5",
-      "confidence": 0.847,
+      "previousHash": "477bdbe361271af96b0e22af6a41f2ccfad656768df694b83e01755f1b2b1fd5",
+      "newHash": "83698e449bb91a6afe163cef3bdc6aa6fcee789d641c2dc0b652f84a1b31e8ab",
+      "confidence": 0.846,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-10-15T22:44:48.766Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "bf847bd18e0df16a3d4a7d8b27d6157a64aab60013e282be1b50a5d9e24930fd",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
