@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-15T15:54:24.343Z",
+  "generatedAt": "2026-10-15T19:32:18.660Z",
   "changes": [
     {
-      "detectedAt": "2026-10-15T15:54:24.343Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "16101c83579019f02c883c5f436f6811f378386bf84d1e9a09d6c53427c87f4f",
-      "newHash": "16d48e7d3f931f54a51c01c50ebaafdd2446fa55a742f88e397be555f11b2cf7",
+      "detectedAt": "2026-10-15T19:32:18.660Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "b4f230995cf10db878d0fb456373d0219d597c03dc4ca87d852e620ac4cf816f",
+      "newHash": "8d3abc1107791f1a2a5c0b05608f3550542523a2930ac1e163403ebe80f540fa",
       "confidence": 0.809,
       "source": {
         "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
       },
-      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-10-15T15:54:24.343Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "3ae73ae49f63bba52549fcf1e2ba2d7b3998065c01df5cec5304ee534698022d",
-      "newHash": "bf847bd18e0df16a3d4a7d8b27d6157a64aab60013e282be1b50a5d9e24930fd",
-      "confidence": 0.798,
+      "detectedAt": "2026-10-15T19:32:18.660Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "83698e449bb91a6afe163cef3bdc6aa6fcee789d641c2dc0b652f84a1b31e8ab",
+      "newHash": "477bdbe361271af96b0e22af6a41f2ccfad656768df694b83e01755f1b2b1fd5",
+      "confidence": 0.847,
       "source": {
         "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Chuyển ngay đến nội dung chính / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
     }
   ]
 }
