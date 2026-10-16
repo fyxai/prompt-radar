@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:43:05.156Z",
+  "generatedAt": "2026-10-16T19:06:26.482Z",
   "tools": {
     "claude-code": [
       {
@@ -1823,6 +1823,20 @@
           "weight": 0.75
         },
         "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
+      },
+      {
+        "detectedAt": "2026-10-16T19:06:26.482Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "16d48e7d3f931f54a51c01c50ebaafdd2446fa55a742f88e397be555f11b2cf7",
+        "newHash": "a76ce0fd94403ffedb1736341d11285390c5a1befc9b4c64a766e248313aebba",
+        "confidence": 0.809,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
       }
     ],
     "codex": [
@@ -3540,6 +3554,20 @@
         "toolName": "Codex",
         "previousHash": "c3ec8b94b18e3c21a30e2a11b4f18fafbf3c5b38a2e3aa1076e9378ca9671d99",
         "newHash": "91af02c14ec9d4e8d5f3c6590703eed6d110879865a36f7b37637c826e585523",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-10-16T19:06:26.482Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "91af02c14ec9d4e8d5f3c6590703eed6d110879865a36f7b37637c826e585523",
+        "newHash": "4ae1811ff38fe30af315c5f5a4cd797612d665115e709872d6240433abdcd9de",
         "confidence": 0.85,
         "source": {
           "type": "doc",
@@ -17215,6 +17243,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
+      },
+      {
+        "detectedAt": "2026-10-16T19:06:26.482Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "d407fdfe9497e3a04a9afc8e743ed69103251bff9c91b394ed5598dd357e6281",
+        "newHash": "e52eca8985352255b4e84c5504042c08a97194ffd362803c56259a864297059a",
+        "confidence": 0.846,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers דילוג לתוכן הראשי / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Vi…"
       }
     ],
     "kimi": [
