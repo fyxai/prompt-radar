@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:04:49.605Z",
+  "generatedAt": "2026-10-16T08:34:16.827Z",
   "tools": {
     "claude-code": [
       {
@@ -3526,6 +3526,20 @@
         "toolName": "Codex",
         "previousHash": "5e83cb3e0e6882f615fd5e8bc49f59eede0f77aeefd241eb0d1314a64193bb7d",
         "newHash": "c3ec8b94b18e3c21a30e2a11b4f18fafbf3c5b38a2e3aa1076e9378ca9671d99",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-10-16T08:34:16.827Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "c3ec8b94b18e3c21a30e2a11b4f18fafbf3c5b38a2e3aa1076e9378ca9671d99",
+        "newHash": "91af02c14ec9d4e8d5f3c6590703eed6d110879865a36f7b37637c826e585523",
         "confidence": 0.85,
         "source": {
           "type": "doc",
@@ -17173,6 +17187,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers 跳至主要內容 / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt Türkçe …"
+      },
+      {
+        "detectedAt": "2026-10-16T08:34:16.827Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "cc09a904ff0b5011237bdd24cbc5cf9dc5fc51c52334cbb8e1b3de5e4a82de41",
+        "newHash": "9598e8884ac7adcc7a894e4c1a7fdba2f6b55ca5b29d64485da0e3dc9c693711",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
       }
     ],
     "kimi": [
@@ -21708,6 +21736,20 @@
         "toolName": "Doubao",
         "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
         "newHash": "bf847bd18e0df16a3d4a7d8b27d6157a64aab60013e282be1b50a5d9e24930fd",
+        "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      },
+      {
+        "detectedAt": "2026-10-16T08:34:16.827Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "bf847bd18e0df16a3d4a7d8b27d6157a64aab60013e282be1b50a5d9e24930fd",
+        "newHash": "ea8739bfc542f18c33bac4c8eb40c11e684602e3fd08253a5c4faf735de6635e",
         "confidence": 0.798,
         "source": {
           "type": "doc",
