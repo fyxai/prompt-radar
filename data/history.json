@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:54:07.009Z",
+  "generatedAt": "2026-10-19T23:11:44.542Z",
   "tools": {
     "claude-code": [
       {
@@ -3596,6 +3596,20 @@
         "toolName": "Codex",
         "previousHash": "4ae1811ff38fe30af315c5f5a4cd797612d665115e709872d6240433abdcd9de",
         "newHash": "3dc27a977975be94a00d3694fc5fc0afc337cecffa259a44c7f28aa6e41519d5",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-10-19T23:11:44.542Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "3dc27a977975be94a00d3694fc5fc0afc337cecffa259a44c7f28aa6e41519d5",
+        "newHash": "54277bb6186f9524d6b4acdbc5ab9b98412c77a137ce82ab4aaebf8cdae61f0d",
         "confidence": 0.85,
         "source": {
           "type": "doc",
@@ -18543,6 +18557,20 @@
         "previousHash": "dd0fb6ce1e245bce3aaa82ed7f64ede7028351d1d23db3f87262b75d26723e32",
         "newHash": "1927e540760583e4f4fdc3ca37b1c48ed87e4278c588be536b249cc42b56e327",
         "confidence": 0.797,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-10-19T23:11:44.542Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "1927e540760583e4f4fdc3ca37b1c48ed87e4278c588be536b249cc42b56e327",
+        "newHash": "399dce587678353036182644cebd398e880d3518894d1a85f46ff0a4ec0ecd2a",
+        "confidence": 0.833,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",
