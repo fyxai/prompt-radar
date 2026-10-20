@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-20T15:58:21.000Z",
+  "generatedAt": "2026-10-20T19:48:35.406Z",
   "changes": [
     {
-      "detectedAt": "2026-10-20T15:58:21.000Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "57ce70aefd257d31b2c86f22cd395bbcc05b70bff08a5c37fecd0a95acb36981",
-      "newHash": "e8fc654e4d3cb5465bad05c79bff34651f819888fb94024329bb032d18264ca4",
-      "confidence": 0.818,
+      "detectedAt": "2026-10-20T19:48:35.406Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "05ac272ccc1bb3eea7f67b9e1cd18b0743d8c4e85b8819a6eec165f379640063",
+      "newHash": "3bee252ac95eebf228bbd00f486a8fd2ce5a1e8ab7e6ea196074c11b8168946b",
+      "confidence": 0.846,
       "source": {
         "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
       },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     },
     {
-      "detectedAt": "2026-10-20T15:58:21.000Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "578de672d11856946a4108c54a1fc65b65e233922ae69a86aae10081326cd26b",
-      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "confidence": 0.752,
+      "detectedAt": "2026-10-20T19:48:35.406Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "399dce587678353036182644cebd398e880d3518894d1a85f46ff0a4ec0ecd2a",
+      "newHash": "62c58d53df808e76b4e64313ca8ecfca6b8b213f4adffacedd1d7293dbbb7f06",
+      "confidence": 0.833,
       "source": {
         "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
+        "url": "https://open.bigmodel.cn/dev/api",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. --> --> -->"
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
