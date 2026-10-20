@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-10-20T08:58:24.622Z",
+  "generatedAt": "2026-10-20T15:58:21.000Z",
   "changes": [
     {
-      "detectedAt": "2026-10-20T08:58:24.622Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "35a521a558d282ea83bfd63512996750d43d552655e7434524b93da2708ef108",
-      "newHash": "05ac272ccc1bb3eea7f67b9e1cd18b0743d8c4e85b8819a6eec165f379640063",
-      "confidence": 0.847,
+      "detectedAt": "2026-10-20T15:58:21.000Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "57ce70aefd257d31b2c86f22cd395bbcc05b70bff08a5c37fecd0a95acb36981",
+      "newHash": "e8fc654e4d3cb5465bad05c79bff34651f819888fb94024329bb032d18264ca4",
+      "confidence": 0.818,
       "source": {
         "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers সরাসরি আসল কন্টেন্টে যান / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-10-20T15:58:21.000Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "578de672d11856946a4108c54a1fc65b65e233922ae69a86aae10081326cd26b",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
