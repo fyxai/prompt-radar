@@ -1,33 +1,75 @@
 {
-  "generatedAt": "2026-10-23T16:03:41.843Z",
+  "generatedAt": "2026-10-23T22:43:39.719Z",
   "changes": [
     {
-      "detectedAt": "2026-10-23T16:03:41.843Z",
-      "toolId": "antigravity",
-      "toolName": "Antigravity",
-      "previousHash": "f1c894398f46fe4e7f2574dfd51890e2dca8c845eeff5847330db794725018ca",
-      "newHash": "63b3c292dd2cc74ead8a6934e20c4a68e88234d76821fda3b1fce09df9dc650e",
-      "confidence": 0.544,
+      "detectedAt": "2026-10-23T22:43:39.719Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "cb3b5504198f01e1e7e97b8c52c0f05b56a381ae6d5072ca9e012aa5fcac33ba",
+      "newHash": "963b335e076d4fef716888e9814c721cea8bc925f9b1f25f8539049a83e7a9e6",
+      "confidence": 0.85,
       "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=antigravity+prompt&type=code",
-        "weight": 0.45
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
       },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-10-23T16:03:41.843Z",
+      "detectedAt": "2026-10-23T22:43:39.719Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "eae84efc949a20d6a2bee1eec2209d255bd7c16acea1fdb3620566a256fb0f28",
-      "newHash": "41f7730af32b0c044288988fbbeae2a983808693d89f3ac34fb11339673ec0d7",
-      "confidence": 0.847,
+      "previousHash": "41f7730af32b0c044288988fbbeae2a983808693d89f3ac34fb11339673ec0d7",
+      "newHash": "eae84efc949a20d6a2bee1eec2209d255bd7c16acea1fdb3620566a256fb0f28",
+      "confidence": 0.846,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+    },
+    {
+      "detectedAt": "2026-10-23T22:43:39.719Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "e8fc654e4d3cb5465bad05c79bff34651f819888fb94024329bb032d18264ca4",
+      "newHash": "71a6b54258fba2b66912726815bf9f2dc521577701b12bea5e851f0a4b20d877",
+      "confidence": 0.816,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-10-23T22:43:39.719Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "de975df941fa26cdc863ab0464385d7ced30300d1e3223636726306bf7c59a5f",
+      "newHash": "effd2d6d1fc7878fe47a29a85c5d8bf1f2eac976f45e6293f6f5e5851bf32290",
+      "confidence": 0.833,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+    },
+    {
+      "detectedAt": "2026-10-23T22:43:39.719Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "89a7613cb48d29a5e0944efe1243ba7c9e89c3ed02caabf721f90c88c4e5b8bc",
+      "newHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "confidence": 0.752,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. --> --> -->"
     }
   ]
 }
