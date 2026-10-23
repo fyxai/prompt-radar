@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:54:37.709Z",
+  "generatedAt": "2026-10-23T16:03:41.843Z",
   "tools": {
     "claude-code": [
       {
@@ -3892,6 +3892,20 @@
         "toolName": "Antigravity",
         "previousHash": "56477e5283739e7d22e1b80ec8f1d25319001e44c071c8d0452ce28a481b9664",
         "newHash": "f1c894398f46fe4e7f2574dfd51890e2dca8c845eeff5847330db794725018ca",
+        "confidence": 0.544,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direc…"
+      },
+      {
+        "detectedAt": "2026-10-23T16:03:41.843Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "f1c894398f46fe4e7f2574dfd51890e2dca8c845eeff5847330db794725018ca",
+        "newHash": "63b3c292dd2cc74ead8a6934e20c4a68e88234d76821fda3b1fce09df9dc650e",
         "confidence": 0.544,
         "source": {
           "type": "github_search_hint",
@@ -17621,6 +17635,20 @@
           "weight": 0.85
         },
         "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
+      },
+      {
+        "detectedAt": "2026-10-23T16:03:41.843Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "eae84efc949a20d6a2bee1eec2209d255bd7c16acea1fdb3620566a256fb0f28",
+        "newHash": "41f7730af32b0c044288988fbbeae2a983808693d89f3ac34fb11339673ec0d7",
+        "confidence": 0.847,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
       }
     ],
     "kimi": [
