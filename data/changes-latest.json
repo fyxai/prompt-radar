@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-10-26T09:27:20.284Z",
+  "generatedAt": "2026-10-26T17:49:22.565Z",
   "changes": [
     {
-      "detectedAt": "2026-10-26T09:27:20.284Z",
+      "detectedAt": "2026-10-26T17:49:22.565Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "c4ebf23164f250219e4f36e386818e79ce3216f230defb3b148af013636526c2",
-      "newHash": "dad5e3884621d0693458653df752966318d70e92c52f4b192288d7b499730d4f",
+      "previousHash": "dad5e3884621d0693458653df752966318d70e92c52f4b192288d7b499730d4f",
+      "newHash": "0d776764f06241a3382da5a2039e860d9d30feefca55f2da709bc542534c2bdb",
       "confidence": 0.847,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers رد شدن و رفتن به محتوای اصلی / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+    },
+    {
+      "detectedAt": "2026-10-26T17:49:22.565Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "1883256e7477e213cd1270f6a3f6aa4e1cd2eb99787ffff322ced98b1ab51b7c",
+      "newHash": "40aacddd526c084fbee59b707a5c994d2dcaf7cfe5319605cb7785c23753bd10",
+      "confidence": 0.833,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+    },
+    {
+      "detectedAt": "2026-10-26T17:49:22.565Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
+      "newHash": "89a7613cb48d29a5e0944efe1243ba7c9e89c3ed02caabf721f90c88c4e5b8bc",
+      "confidence": 0.798,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
     }
   ]
 }
