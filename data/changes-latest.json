@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-26T17:49:22.565Z",
+  "generatedAt": "2026-10-26T23:25:58.994Z",
   "changes": [
     {
-      "detectedAt": "2026-10-26T17:49:22.565Z",
+      "detectedAt": "2026-10-26T23:25:58.994Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "963b335e076d4fef716888e9814c721cea8bc925f9b1f25f8539049a83e7a9e6",
+      "newHash": "78faade8479b41b00ef27e0f187d29b3569c99e12813204a2486abe6c3ccf417",
+      "confidence": 0.85,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-10-26T23:25:58.994Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "dad5e3884621d0693458653df752966318d70e92c52f4b192288d7b499730d4f",
-      "newHash": "0d776764f06241a3382da5a2039e860d9d30feefca55f2da709bc542534c2bdb",
-      "confidence": 0.847,
+      "previousHash": "0d776764f06241a3382da5a2039e860d9d30feefca55f2da709bc542534c2bdb",
+      "newHash": "60834c0df80570f195d7bd33fc0e5910921fe7d2501d466f1586c1ce05c5dccc",
+      "confidence": 0.848,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Ir para o conteúdo principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqi…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Kapërce te përmbajtja kryesore / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Sh…"
     },
     {
-      "detectedAt": "2026-10-26T17:49:22.565Z",
+      "detectedAt": "2026-10-26T23:25:58.994Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "1883256e7477e213cd1270f6a3f6aa4e1cd2eb99787ffff322ced98b1ab51b7c",
-      "newHash": "40aacddd526c084fbee59b707a5c994d2dcaf7cfe5319605cb7785c23753bd10",
-      "confidence": 0.833,
+      "previousHash": "40aacddd526c084fbee59b707a5c994d2dcaf7cfe5319605cb7785c23753bd10",
+      "newHash": "10aafdb1fcbf910cba6d85fd67249700e3da35bc998554d8c1dd281aa8822000",
+      "confidence": 0.834,
       "source": {
         "type": "doc",
         "url": "https://open.bigmodel.cn/dev/api",
         "weight": 0.75
       },
       "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
-    },
-    {
-      "detectedAt": "2026-10-26T17:49:22.565Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "d6747eee22f42308aada49e9fa3060c340f302d2eff13c2501c403faef3a903c",
-      "newHash": "89a7613cb48d29a5e0944efe1243ba7c9e89c3ed02caabf721f90c88c4e5b8bc",
-      "confidence": 0.798,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
-      },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
     }
   ]
 }
