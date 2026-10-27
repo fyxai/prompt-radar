@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:24:43.052Z",
+  "generatedAt": "2026-10-27T16:59:01.924Z",
   "tools": {
     "claude-code": [
       {
@@ -3694,6 +3694,20 @@
         "toolName": "Codex",
         "previousHash": "963b335e076d4fef716888e9814c721cea8bc925f9b1f25f8539049a83e7a9e6",
         "newHash": "78faade8479b41b00ef27e0f187d29b3569c99e12813204a2486abe6c3ccf417",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-10-27T16:59:01.924Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "78faade8479b41b00ef27e0f187d29b3569c99e12813204a2486abe6c3ccf417",
+        "newHash": "560fa84bdd7eecdbc2c26dc0808fc2a9a314e87e9b15e52c823911870ed8ede8",
         "confidence": 0.85,
         "source": {
           "type": "doc",
