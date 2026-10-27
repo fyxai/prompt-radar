@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-27T16:59:01.924Z",
+  "generatedAt": "2026-10-27T23:18:19.638Z",
   "changes": [
     {
-      "detectedAt": "2026-10-27T16:59:01.924Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "78faade8479b41b00ef27e0f187d29b3569c99e12813204a2486abe6c3ccf417",
-      "newHash": "560fa84bdd7eecdbc2c26dc0808fc2a9a314e87e9b15e52c823911870ed8ede8",
-      "confidence": 0.85,
+      "detectedAt": "2026-10-27T23:18:19.638Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "10aafdb1fcbf910cba6d85fd67249700e3da35bc998554d8c1dd281aa8822000",
+      "newHash": "4808a907360a9c4ff73c06d1d47acb2aa3e9108a315c27a0d60244310201ded3",
+      "confidence": 0.834,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
       },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
