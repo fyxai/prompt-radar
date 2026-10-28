@@ -1,61 +1,33 @@
 {
-  "generatedAt": "2026-10-28T10:06:45.805Z",
+  "generatedAt": "2026-10-28T17:34:15.404Z",
   "changes": [
     {
-      "detectedAt": "2026-10-28T10:06:45.805Z",
+      "detectedAt": "2026-10-28T17:34:15.404Z",
+      "toolId": "antigravity",
+      "toolName": "Antigravity",
+      "previousHash": "63b3c292dd2cc74ead8a6934e20c4a68e88234d76821fda3b1fce09df9dc650e",
+      "newHash": "35bffb85cdcc0358c935294ce9411d3dfda19519bdbe3595db8a4ce81f5129bf",
+      "confidence": 0.543,
+      "source": {
+        "type": "github_search_hint",
+        "url": "https://github.com/search?q=antigravity+prompt&type=code",
+        "weight": 0.45
+      },
+      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
+    },
+    {
+      "detectedAt": "2026-10-28T17:34:15.404Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "384edb2eb18c7f008cec27ac8dae8d7ab31e99775a025004d6f2983fdc030e81",
-      "newHash": "2ae474aba18a0855e3170ff54654d0d4eb56b713f0bbbf16331718c37a36ce62",
-      "confidence": 0.847,
+      "previousHash": "2ae474aba18a0855e3170ff54654d0d4eb56b713f0bbbf16331718c37a36ce62",
+      "newHash": "7bbcc5a35129272700b57c95a82984fbbb540f004125137fc2497839c0156cf9",
+      "confidence": 0.846,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Zum Hauptinhalt springen / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
-    },
-    {
-      "detectedAt": "2026-10-28T10:06:45.805Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "88270bb3ea1d7e5a9226e66f2a291594009ce44ff8ea4712882094ed7fc097c3",
-      "newHash": "0fc4c2b336334dd1b3eff6c12a4047fafeceb631040f0d2d2e90eb24faaad92f",
-      "confidence": 0.816,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
-      },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-10-28T10:06:45.805Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "4808a907360a9c4ff73c06d1d47acb2aa3e9108a315c27a0d60244310201ded3",
-      "newHash": "46f6691497a642e8248d2a4ebdd3ca54ed13507f0e09d7f937581e96ba4e8c4e",
-      "confidence": 0.834,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
-    },
-    {
-      "detectedAt": "2026-10-28T10:06:45.805Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "89a7613cb48d29a5e0944efe1243ba7c9e89c3ed02caabf721f90c88c4e5b8bc",
-      "newHash": "eb98a368350c4216905ff1d7af9a60912a88d4166bcac7bc105c228d1cb7ad25",
-      "confidence": 0.798,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
-      },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
     }
   ]
 }
