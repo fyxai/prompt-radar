@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T23:42:18.122Z",
+  "generatedAt": "2026-10-29T03:20:01.702Z",
   "changes": [
     {
-      "detectedAt": "2026-10-28T23:42:18.122Z",
+      "detectedAt": "2026-10-29T03:20:01.702Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "33d45efa2224d1029b1fd27d725e1169bc412e7b822131e0d258d1e06b4c812b",
-      "newHash": "b6c971e5d52cbe9967eb733b9cc84ea9aead926d24013a0b67fabc05821269ef",
+      "previousHash": "b6c971e5d52cbe9967eb733b9cc84ea9aead926d24013a0b67fabc05821269ef",
+      "newHash": "6a9a4e5e850a79fc6003c949e57439459a4c3a05bcb0324b579ea573d944f980",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -14,34 +14,6 @@
         "weight": 0.7
       },
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-10-28T23:42:18.122Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "560fa84bdd7eecdbc2c26dc0808fc2a9a314e87e9b15e52c823911870ed8ede8",
-      "newHash": "a6ffec6cffdbfa86725a39dd2ec478f1b058983afc38b479b347ece04250db86",
-      "confidence": 0.85,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-10-28T23:42:18.122Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "46f6691497a642e8248d2a4ebdd3ca54ed13507f0e09d7f937581e96ba4e8c4e",
-      "newHash": "a710adede0b759f24b5d0c9f8dca9893cab81c32e7ff2aa638edda1f302e9374",
-      "confidence": 0.834,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
