@@ -1,19 +1,33 @@
 {
-  "generatedAt": "2026-10-30T03:21:52.990Z",
+  "generatedAt": "2026-10-30T10:31:06.017Z",
   "changes": [
     {
-      "detectedAt": "2026-10-30T03:21:52.990Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "3a3ef5ca79127ce822f5557034c093476c69a5d29c71af49fdb74baba76bb51f",
-      "newHash": "b8c12fb0669f2e9a7a1635373f6fe717e7e4be6da4b40c295ff49efe2a2aba0d",
-      "confidence": 0.835,
+      "detectedAt": "2026-10-30T10:31:06.017Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "292a5bd996a0710f573bb033bfe5ca14880e11ec9dfb96c91b9601d1352154e6",
+      "newHash": "8ed5fbc6d98fcd28b72722f83d9214fc73061b045e3ab314554373ba1b2508ba",
+      "confidence": 0.848,
       "source": {
         "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
       },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+    },
+    {
+      "detectedAt": "2026-10-30T10:31:06.017Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "3ec34077bdce364813a72e43734a6af948a04a7179eaab7cb1e532b8ab1e5a11",
+      "newHash": "3f7bde83ba4df04459a2c12794dc81c7fd21a4730b63dc6f6dfde5e3e8dbc86f",
+      "confidence": 0.833,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
