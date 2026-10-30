@@ -1,26 +1,40 @@
 {
-  "generatedAt": "2026-10-30T10:31:06.017Z",
+  "generatedAt": "2026-10-30T17:24:20.529Z",
   "changes": [
     {
-      "detectedAt": "2026-10-30T10:31:06.017Z",
+      "detectedAt": "2026-10-30T17:24:20.529Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "67f88e712f2084ce5017d081ac9ed9779187a30639c367d0dc383af1f2b5dc09",
+      "newHash": "8042417e96256df4465af937ba38e187400f089374fae32f8bf93ca9183bdb71",
+      "confidence": 0.809,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
+    },
+    {
+      "detectedAt": "2026-10-30T17:24:20.529Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "292a5bd996a0710f573bb033bfe5ca14880e11ec9dfb96c91b9601d1352154e6",
-      "newHash": "8ed5fbc6d98fcd28b72722f83d9214fc73061b045e3ab314554373ba1b2508ba",
+      "previousHash": "8ed5fbc6d98fcd28b72722f83d9214fc73061b045e3ab314554373ba1b2508ba",
+      "newHash": "23b5d0975b303d12c139e65c4d1794a61fbe148735a80826a13b88a3105cf095",
       "confidence": 0.848,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Przejdź do głównej treści / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip T…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Passer au contenu principal / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip…"
     },
     {
-      "detectedAt": "2026-10-30T10:31:06.017Z",
+      "detectedAt": "2026-10-30T17:24:20.529Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "3ec34077bdce364813a72e43734a6af948a04a7179eaab7cb1e532b8ab1e5a11",
-      "newHash": "3f7bde83ba4df04459a2c12794dc81c7fd21a4730b63dc6f6dfde5e3e8dbc86f",
+      "previousHash": "3f7bde83ba4df04459a2c12794dc81c7fd21a4730b63dc6f6dfde5e3e8dbc86f",
+      "newHash": "3ec34077bdce364813a72e43734a6af948a04a7179eaab7cb1e532b8ab1e5a11",
       "confidence": 0.833,
       "source": {
         "type": "doc",
