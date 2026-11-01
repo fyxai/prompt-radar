@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T17:21:58.753Z",
+  "generatedAt": "2026-11-01T23:12:09.082Z",
   "changes": [
     {
-      "detectedAt": "2026-11-01T17:21:58.753Z",
+      "detectedAt": "2026-11-01T23:12:09.082Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "06dd584ce3a5d66895bc62974ee376f78dfcb09628812924c36de1ba899ca05e",
-      "newHash": "a0e2c5622e215c1307c8b8d9b81ad7011793d7468470bb22a46a833cf4327294",
+      "previousHash": "a0e2c5622e215c1307c8b8d9b81ad7011793d7468470bb22a46a833cf4327294",
+      "newHash": "8377e58d3cdc22e8c4722b5b9d63f7359c2f05dedd3450dc0a4c4ffcb2a0858e",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -14,34 +14,6 @@
         "weight": 0.7
       },
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-11-01T17:21:58.753Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "45d9202f13da3a7adb51a0bf0fb74f54f7fb19e46a65b46480ab2e1998b5530d",
-      "newHash": "7bbcc5a35129272700b57c95a82984fbbb540f004125137fc2497839c0156cf9",
-      "confidence": 0.846,
-      "source": {
-        "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
-      },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Skip to main content / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng…"
-    },
-    {
-      "detectedAt": "2026-11-01T17:21:58.753Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "69e35e8626f2a078f47219330d5add67b2962fd9e5a12644aa277a7954891768",
-      "newHash": "b7a79b308c79246106f15d09805706175d72aee77e6299f3301d52ed1e401f16",
-      "confidence": 0.833,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
