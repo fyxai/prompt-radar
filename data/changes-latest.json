@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-11-02T03:11:45.479Z",
+  "generatedAt": "2026-11-02T11:46:57.281Z",
   "changes": [
     {
-      "detectedAt": "2026-11-02T03:11:45.479Z",
+      "detectedAt": "2026-11-02T11:46:57.281Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "7bbcc5a35129272700b57c95a82984fbbb540f004125137fc2497839c0156cf9",
-      "newHash": "21df36ceb6a31c847f8f97d5dbd97ecd346a02cbbb14be76a180c79a6afaff4b",
-      "confidence": 0.844,
+      "previousHash": "21df36ceb6a31c847f8f97d5dbd97ecd346a02cbbb14be76a180c79a6afaff4b",
+      "newHash": "554c4a3fdf37bf44a70c35e4d9b07715dbc1d71ff378130e3e33c01b5faea31b",
+      "confidence": 0.847,
       "source": {
         "type": "doc",
         "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers メイン コンテンツにスキップ / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Tiếng Việt…"
+      "preview": "Gemini API &nbsp;|&nbsp; Google AI for Developers Langsung ke konten utama / English Deutsch Español – América Latina Français Indonesia Italiano Polski Português – Brasil Shqip Ti…"
+    },
+    {
+      "detectedAt": "2026-11-02T11:46:57.281Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "0fc4c2b336334dd1b3eff6c12a4047fafeceb631040f0d2d2e90eb24faaad92f",
+      "newHash": "a8731628bcafc62fc832d2dff22db7068c7f2728829b2742674d3e0547b5de95",
+      "confidence": 0.816,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-02T11:46:57.281Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "b7a79b308c79246106f15d09805706175d72aee77e6299f3301d52ed1e401f16",
+      "newHash": "8c127444f1339981ad1b74cf19cd34cb8b8482d78905f80f8c8fdc10849d6ef7",
+      "confidence": 0.833,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
