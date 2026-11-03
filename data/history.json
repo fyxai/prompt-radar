@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T04:27:29.856Z",
+  "generatedAt": "2026-11-03T15:34:13.390Z",
   "tools": {
     "claude-code": [
       {
@@ -1282,6 +1282,20 @@
         "toolName": "Claude Code",
         "previousHash": "15fb95fe8369c8a9d5d090e1da8c99183d73dca70ebc1164084d1541a236caed",
         "newHash": "83ece3568d3001cc09e122dde4a59546750db5631276c538644ab6524f753d9d",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-03T15:34:13.390Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "83ece3568d3001cc09e122dde4a59546750db5631276c538644ab6524f753d9d",
+        "newHash": "c8e305ce61c465592d1b08d7a52d8b4e2fc4a5c86a0d325c5097505c1f0ea1e2",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -4256,6 +4270,20 @@
         "toolName": "Antigravity",
         "previousHash": "63b3c292dd2cc74ead8a6934e20c4a68e88234d76821fda3b1fce09df9dc650e",
         "newHash": "35bffb85cdcc0358c935294ce9411d3dfda19519bdbe3595db8a4ce81f5129bf",
+        "confidence": 0.543,
+        "source": {
+          "type": "github_search_hint",
+          "url": "https://github.com/search?q=antigravity+prompt&type=code",
+          "weight": 0.45
+        },
+        "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
+      },
+      {
+        "detectedAt": "2026-11-03T15:34:13.390Z",
+        "toolId": "antigravity",
+        "toolName": "Antigravity",
+        "previousHash": "35bffb85cdcc0358c935294ce9411d3dfda19519bdbe3595db8a4ce81f5129bf",
+        "newHash": "334bb43040988590389fd55e4dfb3cbb3909cdde638de64241e32441174cb312",
         "confidence": 0.543,
         "source": {
           "type": "github_search_hint",
@@ -23571,6 +23599,20 @@
         "previousHash": "89a7613cb48d29a5e0944efe1243ba7c9e89c3ed02caabf721f90c88c4e5b8bc",
         "newHash": "eb98a368350c4216905ff1d7af9a60912a88d4166bcac7bc105c228d1cb7ad25",
         "confidence": 0.798,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      },
+      {
+        "detectedAt": "2026-11-03T15:34:13.390Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "eb98a368350c4216905ff1d7af9a60912a88d4166bcac7bc105c228d1cb7ad25",
+        "newHash": "cb5b87e8ba5051f450746b47a3a879f2bb7285cce792fbb66f6c98a03b24bac7",
+        "confidence": 0.799,
         "source": {
           "type": "doc",
           "url": "https://www.volcengine.com/docs/82379",
