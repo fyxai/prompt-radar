@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T15:34:13.390Z",
+  "generatedAt": "2026-11-03T21:20:15.038Z",
   "changes": [
     {
-      "detectedAt": "2026-11-03T15:34:13.390Z",
+      "detectedAt": "2026-11-03T21:20:15.038Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "83ece3568d3001cc09e122dde4a59546750db5631276c538644ab6524f753d9d",
-      "newHash": "c8e305ce61c465592d1b08d7a52d8b4e2fc4a5c86a0d325c5097505c1f0ea1e2",
+      "previousHash": "c8e305ce61c465592d1b08d7a52d8b4e2fc4a5c86a0d325c5097505c1f0ea1e2",
+      "newHash": "f1dc6281892bf71b1258463c292e347992e4a534457e0211dadb0fbddb897204",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,32 +16,32 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-03T15:34:13.390Z",
-      "toolId": "antigravity",
-      "toolName": "Antigravity",
-      "previousHash": "35bffb85cdcc0358c935294ce9411d3dfda19519bdbe3595db8a4ce81f5129bf",
-      "newHash": "334bb43040988590389fd55e4dfb3cbb3909cdde638de64241e32441174cb312",
-      "confidence": 0.543,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=antigravity+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
-    },
-    {
-      "detectedAt": "2026-11-03T15:34:13.390Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "eb98a368350c4216905ff1d7af9a60912a88d4166bcac7bc105c228d1cb7ad25",
-      "newHash": "cb5b87e8ba5051f450746b47a3a879f2bb7285cce792fbb66f6c98a03b24bac7",
-      "confidence": 0.799,
+      "detectedAt": "2026-11-03T21:20:15.038Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "8042417e96256df4465af937ba38e187400f089374fae32f8bf93ca9183bdb71",
+      "newHash": "f317891ccc3e856fd2e183e58be8d618b8d72386fa4a7c39e0245e85974ea143",
+      "confidence": 0.81,
       "source": {
         "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
+        "url": "https://kiro.dev/docs",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
+    },
+    {
+      "detectedAt": "2026-11-03T21:20:15.038Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "26a4505615ad4385d52dbcf9a30038bd7bd92ebed5734ec4e0111cd755560871",
+      "newHash": "c3061aa3f72c7e97682033c527567615a0f209e39bbe1514f0a72f8c78de5180",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
