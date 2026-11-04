@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T21:20:15.038Z",
+  "generatedAt": "2026-11-04T03:46:04.792Z",
   "changes": [
     {
-      "detectedAt": "2026-11-03T21:20:15.038Z",
+      "detectedAt": "2026-11-04T03:46:04.792Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "c8e305ce61c465592d1b08d7a52d8b4e2fc4a5c86a0d325c5097505c1f0ea1e2",
-      "newHash": "f1dc6281892bf71b1258463c292e347992e4a534457e0211dadb0fbddb897204",
+      "previousHash": "f1dc6281892bf71b1258463c292e347992e4a534457e0211dadb0fbddb897204",
+      "newHash": "295672e635aa1c4c8a5eb0a47800493df384b1b86ae85a854e7ab5046795a696",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,32 +16,18 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-03T21:20:15.038Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "8042417e96256df4465af937ba38e187400f089374fae32f8bf93ca9183bdb71",
-      "newHash": "f317891ccc3e856fd2e183e58be8d618b8d72386fa4a7c39e0245e85974ea143",
-      "confidence": 0.81,
+      "detectedAt": "2026-11-04T03:46:04.792Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "57c04608cfcf354c2d1b824fe3eda2ac99a9ae39818d529361b2e2c676160b28",
+      "newHash": "2a81b5a40227f9544c93275ac5a4664eef2bcd47da1f39b2d7fa95898224618f",
+      "confidence": 0.85,
       "source": {
         "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
       },
-      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
-    },
-    {
-      "detectedAt": "2026-11-03T21:20:15.038Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "26a4505615ad4385d52dbcf9a30038bd7bd92ebed5734ec4e0111cd755560871",
-      "newHash": "c3061aa3f72c7e97682033c527567615a0f209e39bbe1514f0a72f8c78de5180",
-      "confidence": 0.834,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     }
   ]
 }
