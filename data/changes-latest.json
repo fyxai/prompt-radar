@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T00:35:18.765Z",
+  "generatedAt": "2026-11-05T11:41:45.155Z",
   "changes": [
     {
-      "detectedAt": "2026-11-05T00:35:18.765Z",
+      "detectedAt": "2026-11-05T11:41:45.155Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "3496f25f60baf14c41b1cd3aaf8f3aa98752684058ba9c70d88640e2a2afc7c1",
-      "newHash": "48481230f50aba0bad52206078ec39b037945de2ce69cc22cd1df8a7ca83a5db",
+      "previousHash": "48481230f50aba0bad52206078ec39b037945de2ce69cc22cd1df8a7ca83a5db",
+      "newHash": "3991656968c09c69f4316cb11575963158c7e30610f0dec0b07ba99d6b9c1822",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,40 +16,12 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-05T00:35:18.765Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "f317891ccc3e856fd2e183e58be8d618b8d72386fa4a7c39e0245e85974ea143",
-      "newHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
-      "confidence": 0.81,
-      "source": {
-        "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
-      },
-      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
-    },
-    {
-      "detectedAt": "2026-11-05T00:35:18.765Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "32b533100011f5aa44e310c64eb44bd00ab4637957dd5082718c6f53fc2adbcc",
-      "newHash": "bb9c33a001d6564169cce3a04df7d3a9446645adc1c848d9a67c1b9502953724",
-      "confidence": 0.85,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-11-05T00:35:18.765Z",
+      "detectedAt": "2026-11-05T11:41:45.155Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "3e2b9bed6e727bbf529e6e370c284191d067918d5d183b00d229a5873e485e76",
-      "newHash": "0a0372d46beaa70768860b19881a8940cac7fdcf18fb5b2272f51920a8883721",
-      "confidence": 0.831,
+      "previousHash": "0a0372d46beaa70768860b19881a8940cac7fdcf18fb5b2272f51920a8883721",
+      "newHash": "82f46c63a13b33acc6c38f0e0169d52cb5037107cf1bc36804cd941cbe7bb7c4",
+      "confidence": 0.834,
       "source": {
         "type": "doc",
         "url": "https://open.bigmodel.cn/dev/api",
