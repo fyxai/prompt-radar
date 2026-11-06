@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:40:26.842Z",
+  "generatedAt": "2026-11-06T18:38:40.983Z",
   "tools": {
     "claude-code": [
       {
@@ -2292,6 +2292,20 @@
         "toolName": "Kiro",
         "previousHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
         "newHash": "58db521c22b6115f3fc16c68822acf69e35b6138a4f15d938d2e68d08ee2f63e",
+        "confidence": 0.81,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
+      },
+      {
+        "detectedAt": "2026-11-06T18:38:40.983Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "58db521c22b6115f3fc16c68822acf69e35b6138a4f15d938d2e68d08ee2f63e",
+        "newHash": "a0a5072da6b16692743cf0a8bb73b6377d2be558c950a225c5e5c9116fe9546e",
         "confidence": 0.81,
         "source": {
           "type": "doc",

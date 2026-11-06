@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-11-06T11:40:26.842Z",
+  "generatedAt": "2026-11-06T18:38:40.983Z",
   "changes": [
     {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
-      "toolId": "claude-code",
-      "toolName": "Claude Code",
-      "previousHash": "a8e2ce6bf1c245834e10b7db45800859b5348be2abc82aaef9a22f9765b564a2",
-      "newHash": "afda54dd0c8fb41e36e7338ae3e46cd2a10f3d19f699d83f431f6d163ba62dee",
-      "confidence": 0.835,
-      "source": {
-        "type": "doc",
-        "url": "https://docs.anthropic.com/en/docs/claude-code",
-        "weight": 0.7
-      },
-      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
+      "detectedAt": "2026-11-06T18:38:40.983Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
-      "newHash": "58db521c22b6115f3fc16c68822acf69e35b6138a4f15d938d2e68d08ee2f63e",
+      "previousHash": "58db521c22b6115f3fc16c68822acf69e35b6138a4f15d938d2e68d08ee2f63e",
+      "newHash": "a0a5072da6b16692743cf0a8bb73b6377d2be558c950a225c5e5c9116fe9546e",
       "confidence": 0.81,
       "source": {
         "type": "doc",
@@ -28,62 +14,6 @@
         "weight": 0.75
       },
       "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
-    },
-    {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "c5881cb837a314df95bb291b36e70f9bdf995ecc71c0472b484546d6d679b610",
-      "newHash": "a187a61150b457aaf5f47248fae6ce0b914ea9f776a565610c278441a8635658",
-      "confidence": 0.85,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "b8ab0f1d44902db4e539a4b58e45014e8efb2d924ca0d34e0cca5837c0fd4f54",
-      "newHash": "cd785b5816f22fbfa1b52a4c89ebce7fde61aa1c2d750daab3d55bfda918fd7e",
-      "confidence": 0.845,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
-      },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "bd66e617e1acb35bce3b63f34ab12cfae573aab93facbef115c0e967391500a2",
-      "newHash": "b1867eba5b568a22d6622fa5867224b43368ebf4afa62e586a9828fa36aacba5",
-      "confidence": 0.834,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
-    },
-    {
-      "detectedAt": "2026-11-06T11:40:26.842Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "cb5b87e8ba5051f450746b47a3a879f2bb7285cce792fbb66f6c98a03b24bac7",
-      "newHash": "24a1b5642416745d66af6137077fdfaa7012755239734d4bdbbb5e8f942d5c68",
-      "confidence": 0.799,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
-        "weight": 0.75
-      },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
     }
   ]
 }
