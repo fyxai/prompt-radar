@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:11:49.609Z",
+  "generatedAt": "2026-11-06T00:36:08.941Z",
   "tools": {
     "claude-code": [
       {
@@ -1387,6 +1387,20 @@
           "weight": 0.7
         },
         "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-06T00:36:08.941Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "31e78ff407ade028730a004de0da4e6eb0c9ee6d68b5a18cf91c4aa29b849f94",
+        "newHash": "a8e2ce6bf1c245834e10b7db45800859b5348be2abc82aaef9a22f9765b564a2",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
       }
     ],
     "kiro": [
@@ -2243,6 +2257,20 @@
           "weight": 0.45
         },
         "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
+      },
+      {
+        "detectedAt": "2026-11-06T00:36:08.941Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "a749b809ca57c12536d54d08700cab7bf5fa912b7e02c5bbf2243744139fea0c",
+        "newHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
+        "confidence": 0.81,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
       }
     ],
     "codex": [
@@ -18685,6 +18713,20 @@
           "weight": 0.85
         },
         "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+      },
+      {
+        "detectedAt": "2026-11-06T00:36:08.941Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "156094da34983d8436f97249bc61335ab43b15419aa2f224a8483085e72c5f6b",
+        "newHash": "2719567405758aa96a235f016657004632b9da19bf9a6e54d088a7bea5b156a7",
+        "confidence": 0.859,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
       }
     ],
     "kimi": [
@@ -19367,6 +19409,20 @@
         "previousHash": "0fc4c2b336334dd1b3eff6c12a4047fafeceb631040f0d2d2e90eb24faaad92f",
         "newHash": "a8731628bcafc62fc832d2dff22db7068c7f2728829b2742674d3e0547b5de95",
         "confidence": 0.816,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-06T00:36:08.941Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "a8731628bcafc62fc832d2dff22db7068c7f2728829b2742674d3e0547b5de95",
+        "newHash": "b8ab0f1d44902db4e539a4b58e45014e8efb2d924ca0d34e0cca5837c0fd4f54",
+        "confidence": 0.845,
         "source": {
           "type": "doc",
           "url": "https://platform.moonshot.ai/docs",
@@ -20321,6 +20377,20 @@
         "previousHash": "0a0372d46beaa70768860b19881a8940cac7fdcf18fb5b2272f51920a8883721",
         "newHash": "82f46c63a13b33acc6c38f0e0169d52cb5037107cf1bc36804cd941cbe7bb7c4",
         "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-06T00:36:08.941Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "82f46c63a13b33acc6c38f0e0169d52cb5037107cf1bc36804cd941cbe7bb7c4",
+        "newHash": "bd66e617e1acb35bce3b63f34ab12cfae573aab93facbef115c0e967391500a2",
+        "confidence": 0.831,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",

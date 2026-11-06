@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T19:11:49.609Z",
+  "generatedAt": "2026-11-06T00:36:08.941Z",
   "changes": [
     {
-      "detectedAt": "2026-11-05T19:11:49.609Z",
+      "detectedAt": "2026-11-06T00:36:08.941Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "3991656968c09c69f4316cb11575963158c7e30610f0dec0b07ba99d6b9c1822",
-      "newHash": "31e78ff407ade028730a004de0da4e6eb0c9ee6d68b5a18cf91c4aa29b849f94",
+      "previousHash": "31e78ff407ade028730a004de0da4e6eb0c9ee6d68b5a18cf91c4aa29b849f94",
+      "newHash": "a8e2ce6bf1c245834e10b7db45800859b5348be2abc82aaef9a22f9765b564a2",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,53 +16,25 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-05T19:11:49.609Z",
+      "detectedAt": "2026-11-06T00:36:08.941Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
-      "newHash": "a749b809ca57c12536d54d08700cab7bf5fa912b7e02c5bbf2243744139fea0c",
-      "confidence": 0.543,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=kiro+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
-    },
-    {
-      "detectedAt": "2026-11-05T19:11:49.609Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "bb9c33a001d6564169cce3a04df7d3a9446645adc1c848d9a67c1b9502953724",
-      "newHash": "c5881cb837a314df95bb291b36e70f9bdf995ecc71c0472b484546d6d679b610",
-      "confidence": 0.85,
+      "previousHash": "a749b809ca57c12536d54d08700cab7bf5fa912b7e02c5bbf2243744139fea0c",
+      "newHash": "a11b8fae2e187e5df17c4274685d6220c2a367d715c76db0fd9babe3ccdfb2af",
+      "confidence": 0.81,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
       },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      "preview": "Docs - Kiro Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassadors Case studies Discor…"
     },
     {
-      "detectedAt": "2026-11-05T19:11:49.609Z",
-      "toolId": "antigravity",
-      "toolName": "Antigravity",
-      "previousHash": "334bb43040988590389fd55e4dfb3cbb3909cdde638de64241e32441174cb312",
-      "newHash": "b6158b5aafd00ac8f70d2d97b46c49bcd27223f6b80bdeb58686d0f4ca83eacb",
-      "confidence": 0.543,
-      "source": {
-        "type": "github_search_hint",
-        "url": "https://github.com/search?q=antigravity+prompt&type=code",
-        "weight": 0.45
-      },
-      "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
-    },
-    {
-      "detectedAt": "2026-11-05T19:11:49.609Z",
+      "detectedAt": "2026-11-06T00:36:08.941Z",
       "toolId": "gemini-cli",
       "toolName": "Gemini CLI",
-      "previousHash": "3caba0c470e12484495b0dee25cfff5d7ab2696754c55e76aa5cae37937e03b8",
-      "newHash": "156094da34983d8436f97249bc61335ab43b15419aa2f224a8483085e72c5f6b",
+      "previousHash": "156094da34983d8436f97249bc61335ab43b15419aa2f224a8483085e72c5f6b",
+      "newHash": "2719567405758aa96a235f016657004632b9da19bf9a6e54d088a7bea5b156a7",
       "confidence": 0.859,
       "source": {
         "type": "doc",
@@ -70,6 +42,34 @@
         "weight": 0.85
       },
       "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+    },
+    {
+      "detectedAt": "2026-11-06T00:36:08.941Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "a8731628bcafc62fc832d2dff22db7068c7f2728829b2742674d3e0547b5de95",
+      "newHash": "b8ab0f1d44902db4e539a4b58e45014e8efb2d924ca0d34e0cca5837c0fd4f54",
+      "confidence": 0.845,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-06T00:36:08.941Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "82f46c63a13b33acc6c38f0e0169d52cb5037107cf1bc36804cd941cbe7bb7c4",
+      "newHash": "bd66e617e1acb35bce3b63f34ab12cfae573aab93facbef115c0e967391500a2",
+      "confidence": 0.831,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
