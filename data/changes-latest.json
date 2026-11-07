@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T23:51:30.834Z",
+  "generatedAt": "2026-11-07T03:37:38.476Z",
   "changes": [
     {
-      "detectedAt": "2026-11-06T23:51:30.834Z",
+      "detectedAt": "2026-11-07T03:37:38.476Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "afda54dd0c8fb41e36e7338ae3e46cd2a10f3d19f699d83f431f6d163ba62dee",
-      "newHash": "31000175a4112ec253a735a2dd52d4b6bc8910a55b1c9900aec43eb714a81008",
+      "previousHash": "31000175a4112ec253a735a2dd52d4b6bc8910a55b1c9900aec43eb714a81008",
+      "newHash": "6d0c17b3d58bffb3691c9252964b4ec94d56a4c34afc4c42fefa26df7c293205",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,46 +16,18 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-06T23:51:30.834Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "a187a61150b457aaf5f47248fae6ce0b914ea9f776a565610c278441a8635658",
-      "newHash": "6fc6e39c0e119c3c6eb3874280292d18bb87edf88a840c94706aa8a0b09e5bf2",
-      "confidence": 0.85,
+      "detectedAt": "2026-11-07T03:37:38.476Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "a0a5072da6b16692743cf0a8bb73b6377d2be558c950a225c5e5c9116fe9546e",
+      "newHash": "d5faae93a2f0d24526c912e1b8b79f47318cf563831ef5db43eb0c5c2c58885f",
+      "confidence": 0.81,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-11-06T23:51:30.834Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "cd785b5816f22fbfa1b52a4c89ebce7fde61aa1c2d750daab3d55bfda918fd7e",
-      "newHash": "86d184a90c4d54adc0e440d0f82f096642e3dbf10643f3fd941355a09766c231",
-      "confidence": 0.844,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
+        "url": "https://kiro.dev/docs",
         "weight": 0.75
       },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-11-06T23:51:30.834Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "b1867eba5b568a22d6622fa5867224b43368ebf4afa62e586a9828fa36aacba5",
-      "newHash": "b34d30eb7b0d9f5c1588c64644e811c55bc4f3049faece304b481d38d97d8c2c",
-      "confidence": 0.831,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      "preview": "Docs - Kiro Skip to main content Loading image... Product About Kiro Agents IDE CLI Web Mobile Crew Pricing Downloads For Enterprise Startups Students Community Overview Ambassador…"
     }
   ]
 }
