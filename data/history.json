@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:06:56.737Z",
+  "generatedAt": "2026-11-07T23:12:24.352Z",
   "tools": {
     "claude-code": [
       {
@@ -1450,6 +1450,20 @@
         "toolName": "Claude Code",
         "previousHash": "6d0c17b3d58bffb3691c9252964b4ec94d56a4c34afc4c42fefa26df7c293205",
         "newHash": "bbecb89569a9c7e60a1b0c77d3dd5ae4fce13de3fc10ebe2d858d925b4cdbc50",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-07T23:12:24.352Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "bbecb89569a9c7e60a1b0c77d3dd5ae4fce13de3fc10ebe2d858d925b4cdbc50",
+        "newHash": "659e532d81dafd27715effd4bd71c05b67178c3ba4bf336f1363967ff150d3e9",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -4338,6 +4352,20 @@
         "toolName": "Codex",
         "previousHash": "a187a61150b457aaf5f47248fae6ce0b914ea9f776a565610c278441a8635658",
         "newHash": "6fc6e39c0e119c3c6eb3874280292d18bb87edf88a840c94706aa8a0b09e5bf2",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-07T23:12:24.352Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "6fc6e39c0e119c3c6eb3874280292d18bb87edf88a840c94706aa8a0b09e5bf2",
+        "newHash": "583b8ab0171d414997a4097a0a75a27cc57afa593cb5e478387863edab1f540f",
         "confidence": 0.85,
         "source": {
           "type": "doc",
@@ -19583,6 +19611,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-07T23:12:24.352Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "86d184a90c4d54adc0e440d0f82f096642e3dbf10643f3fd941355a09766c231",
+        "newHash": "df1db0579636506c9965d662c74bd36af916328faa5567662285a5987802efcf",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -20573,6 +20615,20 @@
         "previousHash": "b1867eba5b568a22d6622fa5867224b43368ebf4afa62e586a9828fa36aacba5",
         "newHash": "b34d30eb7b0d9f5c1588c64644e811c55bc4f3049faece304b481d38d97d8c2c",
         "confidence": 0.831,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-07T23:12:24.352Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "b34d30eb7b0d9f5c1588c64644e811c55bc4f3049faece304b481d38d97d8c2c",
+        "newHash": "ab1881e7c63d96b317f16b3115c9c3dd6280e4de5383b30b432cc115bbb2bd83",
+        "confidence": 0.834,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",
