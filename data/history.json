@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:20:47.821Z",
+  "generatedAt": "2026-11-08T23:15:25.001Z",
   "tools": {
     "claude-code": [
       {
@@ -1464,6 +1464,20 @@
         "toolName": "Claude Code",
         "previousHash": "bbecb89569a9c7e60a1b0c77d3dd5ae4fce13de3fc10ebe2d858d925b4cdbc50",
         "newHash": "659e532d81dafd27715effd4bd71c05b67178c3ba4bf336f1363967ff150d3e9",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-08T23:15:25.001Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "659e532d81dafd27715effd4bd71c05b67178c3ba4bf336f1363967ff150d3e9",
+        "newHash": "a7166a79575b97b47dddc5eb1b6cca799f3206e14b862f74a9e5e5a06f07bf19",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -19625,6 +19639,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-08T23:15:25.001Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "df1db0579636506c9965d662c74bd36af916328faa5567662285a5987802efcf",
+        "newHash": "06a92a436d7ff97957d20a407fbad57a9da9e979a6b21eb20d45633d1334496e",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -20628,6 +20656,20 @@
         "toolName": "GLM",
         "previousHash": "b34d30eb7b0d9f5c1588c64644e811c55bc4f3049faece304b481d38d97d8c2c",
         "newHash": "ab1881e7c63d96b317f16b3115c9c3dd6280e4de5383b30b432cc115bbb2bd83",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-08T23:15:25.001Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "ab1881e7c63d96b317f16b3115c9c3dd6280e4de5383b30b432cc115bbb2bd83",
+        "newHash": "1bf9236c30206f735d08e8dc2c5b052395381c371ae74febaa086d3c024ea777",
         "confidence": 0.834,
         "source": {
           "type": "doc",
