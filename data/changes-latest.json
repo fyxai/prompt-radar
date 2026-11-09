@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-11-09T12:16:41.125Z",
+  "generatedAt": "2026-11-09T23:53:16.545Z",
   "changes": [
     {
-      "detectedAt": "2026-11-09T12:16:41.125Z",
+      "detectedAt": "2026-11-09T23:53:16.545Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "a7166a79575b97b47dddc5eb1b6cca799f3206e14b862f74a9e5e5a06f07bf19",
+      "newHash": "bce0244a528c43122871dd6e256a8332ccec744ae1aa400a7867b62b8fe210d6",
+      "confidence": 0.835,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-11-09T23:53:16.545Z",
+      "toolId": "kiro",
+      "toolName": "Kiro",
+      "previousHash": "d5faae93a2f0d24526c912e1b8b79f47318cf563831ef5db43eb0c5c2c58885f",
+      "newHash": "628ea8ddacf1a7acd9c8b45f444605ab144c098a74743210e7b0c3bb16653cab",
+      "confidence": 0.81,
+      "source": {
+        "type": "doc",
+        "url": "https://kiro.dev/docs",
+        "weight": 0.75
+      },
+      "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
+    },
+    {
+      "detectedAt": "2026-11-09T23:53:16.545Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "583b8ab0171d414997a4097a0a75a27cc57afa593cb5e478387863edab1f540f",
-      "newHash": "e19352cf7aad7ea34019d78f043261b234b4537fd0da40d40c087a1dcb5cb18a",
+      "previousHash": "e19352cf7aad7ea34019d78f043261b234b4537fd0da40d40c087a1dcb5cb18a",
+      "newHash": "bb77155345bbbe4420535cebe578810414aaa87c385f851a435eba9d9de7dc92",
       "confidence": 0.85,
       "source": {
         "type": "doc",
@@ -16,18 +44,32 @@
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-11-09T12:16:41.125Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "24a1b5642416745d66af6137077fdfaa7012755239734d4bdbbb5e8f942d5c68",
-      "newHash": "e1768ad756eaa242d1e8e1d82b751b7de49d6312c4a1e9d0d4e3e3dcc0dabac3",
-      "confidence": 0.799,
+      "detectedAt": "2026-11-09T23:53:16.545Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "06a92a436d7ff97957d20a407fbad57a9da9e979a6b21eb20d45633d1334496e",
+      "newHash": "681792491ad97e4552e139c8a676cf783f52fbcc9ebe305d3226494c7a247a34",
+      "confidence": 0.845,
       "source": {
         "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
+        "url": "https://platform.moonshot.ai/docs",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-09T23:53:16.545Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "1bf9236c30206f735d08e8dc2c5b052395381c371ae74febaa086d3c024ea777",
+      "newHash": "a6c300db177d8d17a22f1591d40c2b38c142021088245c34b3aefb6482c5e9ab",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
