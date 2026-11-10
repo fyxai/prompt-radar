@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T05:03:35.809Z",
+  "generatedAt": "2026-11-10T15:54:35.423Z",
   "changes": [
     {
-      "detectedAt": "2026-11-10T05:03:35.809Z",
+      "detectedAt": "2026-11-10T15:54:35.423Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "bce0244a528c43122871dd6e256a8332ccec744ae1aa400a7867b62b8fe210d6",
-      "newHash": "d8447056186ebdbd162e693cea3f97e17041a7568adf711a0dddeeac0d03aa56",
+      "previousHash": "d8447056186ebdbd162e693cea3f97e17041a7568adf711a0dddeeac0d03aa56",
+      "newHash": "4d93bb4f608bb5b97474b05972717bb103593dbe9eb789d6b10ece148d9c70c7",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -14,6 +14,62 @@
         "weight": 0.7
       },
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-11-10T15:54:35.423Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "2719567405758aa96a235f016657004632b9da19bf9a6e54d088a7bea5b156a7",
+      "newHash": "9f73ba61f8850ec4f6ca1de1fbf300f137c7a7e8996fb553ff90428b3bb5f063",
+      "confidence": 0.859,
+      "source": {
+        "type": "doc",
+        "url": "https://ai.google.dev/gemini-api/docs",
+        "weight": 0.85
+      },
+      "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+    },
+    {
+      "detectedAt": "2026-11-10T15:54:35.423Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "681792491ad97e4552e139c8a676cf783f52fbcc9ebe305d3226494c7a247a34",
+      "newHash": "827e77a4b05404941de43fd115d3c75449a9769fa83bf6c0899a417b17102d16",
+      "confidence": 0.845,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-10T15:54:35.423Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "a6c300db177d8d17a22f1591d40c2b38c142021088245c34b3aefb6482c5e9ab",
+      "newHash": "d5ee962bebcec2ca62607c981267c8eb4a9e7eaaa2982117793faf09fc22b65f",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+    },
+    {
+      "detectedAt": "2026-11-10T15:54:35.423Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "e1768ad756eaa242d1e8e1d82b751b7de49d6312c4a1e9d0d4e3e3dcc0dabac3",
+      "newHash": "38e049540588e5d5fa85f272a5900c9c0e114be27257443c10152ae1d9e8e7aa",
+      "confidence": 0.799,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
     }
   ]
 }
