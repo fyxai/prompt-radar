@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:54:35.423Z",
+  "generatedAt": "2026-11-10T21:32:18.518Z",
   "tools": {
     "claude-code": [
       {
@@ -1520,6 +1520,20 @@
         "toolName": "Claude Code",
         "previousHash": "d8447056186ebdbd162e693cea3f97e17041a7568adf711a0dddeeac0d03aa56",
         "newHash": "4d93bb4f608bb5b97474b05972717bb103593dbe9eb789d6b10ece148d9c70c7",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-10T21:32:18.518Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "4d93bb4f608bb5b97474b05972717bb103593dbe9eb789d6b10ece148d9c70c7",
+        "newHash": "2063bc80b9ce1ac2b68df155a9dc321f4fe2a98074331d46cc0c633d3ab23825",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -4464,6 +4478,20 @@
         "toolName": "Codex",
         "previousHash": "e19352cf7aad7ea34019d78f043261b234b4537fd0da40d40c087a1dcb5cb18a",
         "newHash": "bb77155345bbbe4420535cebe578810414aaa87c385f851a435eba9d9de7dc92",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-10T21:32:18.518Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "bb77155345bbbe4420535cebe578810414aaa87c385f851a435eba9d9de7dc92",
+        "newHash": "14df6e3583610fa397a4b5d581590418bc2c48a161aa0ef09d18507e7143e741",
         "confidence": 0.85,
         "source": {
           "type": "doc",
@@ -19779,6 +19807,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-10T21:32:18.518Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "827e77a4b05404941de43fd115d3c75449a9769fa83bf6c0899a417b17102d16",
+        "newHash": "dfce381b44ca201561ba918ec3306d2896927ffa14a5fdd25800dafbcfe30b79",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -20825,6 +20867,20 @@
         "previousHash": "a6c300db177d8d17a22f1591d40c2b38c142021088245c34b3aefb6482c5e9ab",
         "newHash": "d5ee962bebcec2ca62607c981267c8eb4a9e7eaaa2982117793faf09fc22b65f",
         "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-10T21:32:18.518Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "d5ee962bebcec2ca62607c981267c8eb4a9e7eaaa2982117793faf09fc22b65f",
+        "newHash": "01a15a45c054f2e9d82458ba6f03f1aec4a25d0dd7a4d664a47493fa25c03785",
+        "confidence": 0.831,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",
@@ -24424,6 +24480,20 @@
         "toolName": "Doubao",
         "previousHash": "e1768ad756eaa242d1e8e1d82b751b7de49d6312c4a1e9d0d4e3e3dcc0dabac3",
         "newHash": "38e049540588e5d5fa85f272a5900c9c0e114be27257443c10152ae1d9e8e7aa",
+        "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      },
+      {
+        "detectedAt": "2026-11-10T21:32:18.518Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "38e049540588e5d5fa85f272a5900c9c0e114be27257443c10152ae1d9e8e7aa",
+        "newHash": "9f6c2899ebb01725815305887d7368421ce4d3636b248940deff1235cad1d05e",
         "confidence": 0.799,
         "source": {
           "type": "doc",
