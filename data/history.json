@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:31:54.331Z",
+  "generatedAt": "2026-11-11T18:58:04.907Z",
   "tools": {
     "claude-code": [
       {
@@ -1548,6 +1548,20 @@
         "toolName": "Claude Code",
         "previousHash": "2063bc80b9ce1ac2b68df155a9dc321f4fe2a98074331d46cc0c633d3ab23825",
         "newHash": "95f8ebbfc3a9be17c99d4cf426785c7c9c3dac8a575a2bce7a0c10986c64aa8d",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-11T18:58:04.907Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "95f8ebbfc3a9be17c99d4cf426785c7c9c3dac8a575a2bce7a0c10986c64aa8d",
+        "newHash": "860680abe0cf2c033390b3cde774fe9b6c1e8a9c3eadf473a803af1c14d5e8dd",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -19091,6 +19105,20 @@
           "weight": 0.85
         },
         "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+      },
+      {
+        "detectedAt": "2026-11-11T18:58:04.907Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "11fe6a07de369ada27295341b13ed64a2a41d95aece942defed233ba72d26b72",
+        "newHash": "804bb39a48efa26f3178ae70455035a2378d983630b06847b24885cc6e131ebd",
+        "confidence": 0.86,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
       }
     ],
     "kimi": [
@@ -20951,6 +20979,20 @@
         "previousHash": "d5ee962bebcec2ca62607c981267c8eb4a9e7eaaa2982117793faf09fc22b65f",
         "newHash": "01a15a45c054f2e9d82458ba6f03f1aec4a25d0dd7a4d664a47493fa25c03785",
         "confidence": 0.831,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-11T18:58:04.907Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "01a15a45c054f2e9d82458ba6f03f1aec4a25d0dd7a4d664a47493fa25c03785",
+        "newHash": "e8ee903a35a3169ee114522aab298a8c992126333fbd9c01cbfd3897a7dd0368",
+        "confidence": 0.834,
         "source": {
           "type": "doc",
           "url": "https://open.bigmodel.cn/dev/api",

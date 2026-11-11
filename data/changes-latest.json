@@ -1,33 +1,47 @@
 {
-  "generatedAt": "2026-11-11T11:31:54.331Z",
+  "generatedAt": "2026-11-11T18:58:04.907Z",
   "changes": [
     {
-      "detectedAt": "2026-11-11T11:31:54.331Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "c90720222b79ac6f41e538035df79955ca997994b438ec5a1a4842540bd54a31",
-      "newHash": "3f1295234b526b8ece43f6de0e4a8241a6e530fe8f79d14e98232035705cfe98",
-      "confidence": 0.81,
+      "detectedAt": "2026-11-11T18:58:04.907Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "95f8ebbfc3a9be17c99d4cf426785c7c9c3dac8a575a2bce7a0c10986c64aa8d",
+      "newHash": "860680abe0cf2c033390b3cde774fe9b6c1e8a9c3eadf473a803af1c14d5e8dd",
+      "confidence": 0.835,
       "source": {
         "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
       },
-      "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-11T11:31:54.331Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "14df6e3583610fa397a4b5d581590418bc2c48a161aa0ef09d18507e7143e741",
-      "newHash": "20ee1954c3a3508608cbb7f67cac085077a08639688f3e57cf627e109aa9a41e",
-      "confidence": 0.85,
+      "detectedAt": "2026-11-11T18:58:04.907Z",
+      "toolId": "gemini-cli",
+      "toolName": "Gemini CLI",
+      "previousHash": "11fe6a07de369ada27295341b13ed64a2a41d95aece942defed233ba72d26b72",
+      "newHash": "804bb39a48efa26f3178ae70455035a2378d983630b06847b24885cc6e131ebd",
+      "confidence": 0.86,
       "source": {
         "type": "doc",
-        "url": "https://platform.openai.com/docs",
+        "url": "https://ai.google.dev/gemini-api/docs",
         "weight": 0.85
       },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+    },
+    {
+      "detectedAt": "2026-11-11T18:58:04.907Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "01a15a45c054f2e9d82458ba6f03f1aec4a25d0dd7a4d664a47493fa25c03785",
+      "newHash": "e8ee903a35a3169ee114522aab298a8c992126333fbd9c01cbfd3897a7dd0368",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
