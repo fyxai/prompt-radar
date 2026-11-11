@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:32:18.518Z",
+  "generatedAt": "2026-11-11T03:37:51.230Z",
   "tools": {
     "claude-code": [
       {
@@ -1541,6 +1541,20 @@
           "weight": 0.7
         },
         "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-11T03:37:51.230Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "2063bc80b9ce1ac2b68df155a9dc321f4fe2a98074331d46cc0c633d3ab23825",
+        "newHash": "95f8ebbfc3a9be17c99d4cf426785c7c9c3dac8a575a2bce7a0c10986c64aa8d",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
       }
     ],
     "kiro": [
@@ -2460,6 +2474,20 @@
         "toolName": "Kiro",
         "previousHash": "d5faae93a2f0d24526c912e1b8b79f47318cf563831ef5db43eb0c5c2c58885f",
         "newHash": "628ea8ddacf1a7acd9c8b45f444605ab144c098a74743210e7b0c3bb16653cab",
+        "confidence": 0.81,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
+      },
+      {
+        "detectedAt": "2026-11-11T03:37:51.230Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "628ea8ddacf1a7acd9c8b45f444605ab144c098a74743210e7b0c3bb16653cab",
+        "newHash": "c90720222b79ac6f41e538035df79955ca997994b438ec5a1a4842540bd54a31",
         "confidence": 0.81,
         "source": {
           "type": "doc",
@@ -19014,6 +19042,20 @@
         "toolName": "Gemini CLI",
         "previousHash": "2719567405758aa96a235f016657004632b9da19bf9a6e54d088a7bea5b156a7",
         "newHash": "9f73ba61f8850ec4f6ca1de1fbf300f137c7a7e8996fb553ff90428b3bb5f063",
+        "confidence": 0.859,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+      },
+      {
+        "detectedAt": "2026-11-11T03:37:51.230Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "9f73ba61f8850ec4f6ca1de1fbf300f137c7a7e8996fb553ff90428b3bb5f063",
+        "newHash": "11fe6a07de369ada27295341b13ed64a2a41d95aece942defed233ba72d26b72",
         "confidence": 0.859,
         "source": {
           "type": "doc",
