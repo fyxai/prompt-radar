@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T03:37:51.230Z",
+  "generatedAt": "2026-11-11T11:31:54.331Z",
   "tools": {
     "claude-code": [
       {
@@ -2495,6 +2495,20 @@
           "weight": 0.75
         },
         "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
+      },
+      {
+        "detectedAt": "2026-11-11T11:31:54.331Z",
+        "toolId": "kiro",
+        "toolName": "Kiro",
+        "previousHash": "c90720222b79ac6f41e538035df79955ca997994b438ec5a1a4842540bd54a31",
+        "newHash": "3f1295234b526b8ece43f6de0e4a8241a6e530fe8f79d14e98232035705cfe98",
+        "confidence": 0.81,
+        "source": {
+          "type": "doc",
+          "url": "https://kiro.dev/docs",
+          "weight": 0.75
+        },
+        "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
       }
     ],
     "codex": [
@@ -4520,6 +4534,20 @@
         "toolName": "Codex",
         "previousHash": "bb77155345bbbe4420535cebe578810414aaa87c385f851a435eba9d9de7dc92",
         "newHash": "14df6e3583610fa397a4b5d581590418bc2c48a161aa0ef09d18507e7143e741",
+        "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-11T11:31:54.331Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "14df6e3583610fa397a4b5d581590418bc2c48a161aa0ef09d18507e7143e741",
+        "newHash": "20ee1954c3a3508608cbb7f67cac085077a08639688f3e57cf627e109aa9a41e",
         "confidence": 0.85,
         "source": {
           "type": "doc",
