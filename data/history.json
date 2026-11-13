@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:40:58.917Z",
+  "generatedAt": "2026-11-13T18:53:51.127Z",
   "tools": {
     "claude-code": [
       {
@@ -1632,6 +1632,20 @@
         "toolName": "Claude Code",
         "previousHash": "03390ca58b8210819e2cb17c9fb3acddb3ba7dc9dd6c856b98e252e0b3906a09",
         "newHash": "7649aab60e25869708cdf02bb12e80ab2a6f5536c3be8481473e8d9672cc76fe",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-13T18:53:51.127Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "7649aab60e25869708cdf02bb12e80ab2a6f5536c3be8481473e8d9672cc76fe",
+        "newHash": "11cea12623de602c6729a6b2f1e0cebc36193a0752952b45a77c6ac90baa6339",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -4703,6 +4717,20 @@
         "previousHash": "492a10ef81cbe5af4d1d6c310047ce5ca42e882a78193cf75adb9076406ce45f",
         "newHash": "0ec42939d131938c38fb6e0f9e8dc6c4633c442e6fe7d022bdea3f3bd9f3705b",
         "confidence": 0.85,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-13T18:53:51.127Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "0ec42939d131938c38fb6e0f9e8dc6c4633c442e6fe7d022bdea3f3bd9f3705b",
+        "newHash": "c082ba9965fcfaaac9442248e89cf44bd6e7bb13a37228a1d6cc5df01668b1d8",
+        "confidence": 0.851,
         "source": {
           "type": "doc",
           "url": "https://platform.openai.com/docs",
@@ -20129,6 +20157,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-13T18:53:51.127Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "8d420a5ff60f8a9815cae493b0a7c80246ea01666a2e95900a0b1354158d0642",
+        "newHash": "650f037b2fd4da4f872e8b5467a38fb68bf0e34bff9a58697cbf6564392df963",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -21244,6 +21286,20 @@
         "toolName": "GLM",
         "previousHash": "255a47b789867bae21bb188e6cee3fcfd8d157a66c12c8ffc2a27042f9118d65",
         "newHash": "46c4fab0f52e6d75e5a9dcfadda12e092c8b8d7586377bb9881a826f54605764",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-13T18:53:51.127Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "46c4fab0f52e6d75e5a9dcfadda12e092c8b8d7586377bb9881a826f54605764",
+        "newHash": "1c9ce3152b2b5b148493a714f59c59312cc014fc8444ac1b67afcbd78a099bdb",
         "confidence": 0.834,
         "source": {
           "type": "doc",
