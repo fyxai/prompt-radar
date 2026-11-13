@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T19:29:03.244Z",
+  "generatedAt": "2026-11-13T00:46:10.206Z",
   "changes": [
     {
-      "detectedAt": "2026-11-12T19:29:03.244Z",
+      "detectedAt": "2026-11-13T00:46:10.206Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "4d691384a2be457705259970d2ff70237a3f14b655b5c9d4964218ae9c0089fe",
-      "newHash": "3def2ed828067455c2e5f73a754f6c820d35ff85b306b991c32030e4059e2586",
+      "previousHash": "3def2ed828067455c2e5f73a754f6c820d35ff85b306b991c32030e4059e2586",
+      "newHash": "03390ca58b8210819e2cb17c9fb3acddb3ba7dc9dd6c856b98e252e0b3906a09",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,11 +16,11 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-12T19:29:03.244Z",
+      "detectedAt": "2026-11-13T00:46:10.206Z",
       "toolId": "kiro",
       "toolName": "Kiro",
-      "previousHash": "3f1295234b526b8ece43f6de0e4a8241a6e530fe8f79d14e98232035705cfe98",
-      "newHash": "b6239e98a72431a45a6a09cb3ef9d37c0335f99c5941e19471accb4ec267a752",
+      "previousHash": "b6239e98a72431a45a6a09cb3ef9d37c0335f99c5941e19471accb4ec267a752",
+      "newHash": "0dcae17b93644132585f368539170b74321b8c710d83207575bab57d68d793e4",
       "confidence": 0.81,
       "source": {
         "type": "doc",
@@ -30,11 +30,11 @@
       "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
     },
     {
-      "detectedAt": "2026-11-12T19:29:03.244Z",
+      "detectedAt": "2026-11-13T00:46:10.206Z",
       "toolId": "codex",
       "toolName": "Codex",
-      "previousHash": "7c1df6bf58096e1a01e981be863cb441d4ea55f019dc1c6f260e091e0b67f32f",
-      "newHash": "492a10ef81cbe5af4d1d6c310047ce5ca42e882a78193cf75adb9076406ce45f",
+      "previousHash": "492a10ef81cbe5af4d1d6c310047ce5ca42e882a78193cf75adb9076406ce45f",
+      "newHash": "0ec42939d131938c38fb6e0f9e8dc6c4633c442e6fe7d022bdea3f3bd9f3705b",
       "confidence": 0.85,
       "source": {
         "type": "doc",
@@ -44,32 +44,32 @@
       "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
     },
     {
-      "detectedAt": "2026-11-12T19:29:03.244Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "804bb39a48efa26f3178ae70455035a2378d983630b06847b24885cc6e131ebd",
-      "newHash": "1c2565ba32334f67b1fe24f78be2e36ed6afd7f0adcdb01e158131dc8490fbee",
-      "confidence": 0.86,
+      "detectedAt": "2026-11-13T00:46:10.206Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "4f7f11e4d5db7d3b4d501b80ec3b232a4059c82b03d9062fdfc8c226e2113215",
+      "newHash": "b039197ef2a30a6404362cadbf1f58893d7ead9ce6494e5e01a108fdf2cdd25b",
+      "confidence": 0.845,
       "source": {
         "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
-      },
-      "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
-    },
-    {
-      "detectedAt": "2026-11-12T19:29:03.244Z",
-      "toolId": "doubao",
-      "toolName": "Doubao",
-      "previousHash": "9f6c2899ebb01725815305887d7368421ce4d3636b248940deff1235cad1d05e",
-      "newHash": "72dee98a7119a50b10cb00bb3e53d0008348d7faefbc5d5438ae69cc8af749f9",
-      "confidence": 0.799,
-      "source": {
-        "type": "doc",
-        "url": "https://www.volcengine.com/docs/82379",
+        "url": "https://platform.moonshot.ai/docs",
         "weight": 0.75
       },
-      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-13T00:46:10.206Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "bbe7b4aa49a5bcd2a2b0cf1ff6ecd85ef5ea61d54d43aa0e8d94e672a7d79dfa",
+      "newHash": "255a47b789867bae21bb188e6cee3fcfd8d157a66c12c8ffc2a27042f9118d65",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
