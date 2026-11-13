@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T00:46:10.206Z",
+  "generatedAt": "2026-11-13T11:40:58.917Z",
   "changes": [
     {
-      "detectedAt": "2026-11-13T00:46:10.206Z",
+      "detectedAt": "2026-11-13T11:40:58.917Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "3def2ed828067455c2e5f73a754f6c820d35ff85b306b991c32030e4059e2586",
-      "newHash": "03390ca58b8210819e2cb17c9fb3acddb3ba7dc9dd6c856b98e252e0b3906a09",
+      "previousHash": "03390ca58b8210819e2cb17c9fb3acddb3ba7dc9dd6c856b98e252e0b3906a09",
+      "newHash": "7649aab60e25869708cdf02bb12e80ab2a6f5536c3be8481473e8d9672cc76fe",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,39 +16,11 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-13T00:46:10.206Z",
-      "toolId": "kiro",
-      "toolName": "Kiro",
-      "previousHash": "b6239e98a72431a45a6a09cb3ef9d37c0335f99c5941e19471accb4ec267a752",
-      "newHash": "0dcae17b93644132585f368539170b74321b8c710d83207575bab57d68d793e4",
-      "confidence": 0.81,
-      "source": {
-        "type": "doc",
-        "url": "https://kiro.dev/docs",
-        "weight": 0.75
-      },
-      "preview": "Docs - Kiro Skip to main content Get Started Installation Authentication Your first project Models Overview Available models Reasoning effort AWS GovCloud (US) models Features How …"
-    },
-    {
-      "detectedAt": "2026-11-13T00:46:10.206Z",
-      "toolId": "codex",
-      "toolName": "Codex",
-      "previousHash": "492a10ef81cbe5af4d1d6c310047ce5ca42e882a78193cf75adb9076406ce45f",
-      "newHash": "0ec42939d131938c38fb6e0f9e8dc6c4633c442e6fe7d022bdea3f3bd9f3705b",
-      "confidence": 0.85,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.openai.com/docs",
-        "weight": 0.85
-      },
-      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
-    },
-    {
-      "detectedAt": "2026-11-13T00:46:10.206Z",
+      "detectedAt": "2026-11-13T11:40:58.917Z",
       "toolId": "kimi",
       "toolName": "Kimi",
-      "previousHash": "4f7f11e4d5db7d3b4d501b80ec3b232a4059c82b03d9062fdfc8c226e2113215",
-      "newHash": "b039197ef2a30a6404362cadbf1f58893d7ead9ce6494e5e01a108fdf2cdd25b",
+      "previousHash": "b039197ef2a30a6404362cadbf1f58893d7ead9ce6494e5e01a108fdf2cdd25b",
+      "newHash": "8d420a5ff60f8a9815cae493b0a7c80246ea01666a2e95900a0b1354158d0642",
       "confidence": 0.845,
       "source": {
         "type": "doc",
@@ -58,11 +30,11 @@
       "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
     },
     {
-      "detectedAt": "2026-11-13T00:46:10.206Z",
+      "detectedAt": "2026-11-13T11:40:58.917Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "bbe7b4aa49a5bcd2a2b0cf1ff6ecd85ef5ea61d54d43aa0e8d94e672a7d79dfa",
-      "newHash": "255a47b789867bae21bb188e6cee3fcfd8d157a66c12c8ffc2a27042f9118d65",
+      "previousHash": "255a47b789867bae21bb188e6cee3fcfd8d157a66c12c8ffc2a27042f9118d65",
+      "newHash": "46c4fab0f52e6d75e5a9dcfadda12e092c8b8d7586377bb9881a826f54605764",
       "confidence": 0.834,
       "source": {
         "type": "doc",
