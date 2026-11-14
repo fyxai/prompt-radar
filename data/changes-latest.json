@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T00:31:37.312Z",
+  "generatedAt": "2026-11-14T11:02:56.736Z",
   "changes": [
     {
-      "detectedAt": "2026-11-14T00:31:37.312Z",
+      "detectedAt": "2026-11-14T11:02:56.736Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "11cea12623de602c6729a6b2f1e0cebc36193a0752952b45a77c6ac90baa6339",
-      "newHash": "727cc591a794e096a7f0f7a4bd9b71507401cfe05097cd537ae493b3f67ff0e5",
+      "previousHash": "727cc591a794e096a7f0f7a4bd9b71507401cfe05097cd537ae493b3f67ff0e5",
+      "newHash": "487b0ea6dce4adba5aa90b39fcee1095e2f8a0369a6595d053c8f61a725efbd5",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,25 +16,11 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-14T00:31:37.312Z",
-      "toolId": "gemini-cli",
-      "toolName": "Gemini CLI",
-      "previousHash": "1c2565ba32334f67b1fe24f78be2e36ed6afd7f0adcdb01e158131dc8490fbee",
-      "newHash": "92191cc10ad39516ec0f839712e9f23a512cc93d3a06276fed6aed7129eb0d48",
-      "confidence": 0.86,
-      "source": {
-        "type": "doc",
-        "url": "https://ai.google.dev/gemini-api/docs",
-        "weight": 0.85
-      },
-      "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
-    },
-    {
-      "detectedAt": "2026-11-14T00:31:37.312Z",
+      "detectedAt": "2026-11-14T11:02:56.736Z",
       "toolId": "kimi",
       "toolName": "Kimi",
-      "previousHash": "650f037b2fd4da4f872e8b5467a38fb68bf0e34bff9a58697cbf6564392df963",
-      "newHash": "b1fec2122d50a0aacad820a34dbdc5b3562c69e9f13d967f78f0a432b654e6db",
+      "previousHash": "b1fec2122d50a0aacad820a34dbdc5b3562c69e9f13d967f78f0a432b654e6db",
+      "newHash": "ab50da638c025fe3d330de1b5ee531f9e110730fece44c0999f65a27090bb3ca",
       "confidence": 0.845,
       "source": {
         "type": "doc",
@@ -44,11 +30,11 @@
       "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
     },
     {
-      "detectedAt": "2026-11-14T00:31:37.312Z",
+      "detectedAt": "2026-11-14T11:02:56.736Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "1c9ce3152b2b5b148493a714f59c59312cc014fc8444ac1b67afcbd78a099bdb",
-      "newHash": "290cd43c6fa5dcd46c98a2f87b27c27132fc3ea40c1ef7dfd6bc6d238af368ae",
+      "previousHash": "290cd43c6fa5dcd46c98a2f87b27c27132fc3ea40c1ef7dfd6bc6d238af368ae",
+      "newHash": "67ef1decc891fc55740be95cddfbb45aacbba99117627ec451720b9b31efe2b4",
       "confidence": 0.834,
       "source": {
         "type": "doc",
@@ -56,6 +42,20 @@
         "weight": 0.75
       },
       "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+    },
+    {
+      "detectedAt": "2026-11-14T11:02:56.736Z",
+      "toolId": "doubao",
+      "toolName": "Doubao",
+      "previousHash": "72dee98a7119a50b10cb00bb3e53d0008348d7faefbc5d5438ae69cc8af749f9",
+      "newHash": "24113c643308222c1d22eb00b52f7e2c31ffcfbe76b04b215f6e661f01311976",
+      "confidence": 0.799,
+      "source": {
+        "type": "doc",
+        "url": "https://www.volcengine.com/docs/82379",
+        "weight": 0.75
+      },
+      "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
     }
   ]
 }
