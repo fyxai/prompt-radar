@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:11:18.921Z",
+  "generatedAt": "2026-11-16T23:53:32.957Z",
   "tools": {
     "claude-code": [
       {
@@ -1702,6 +1702,20 @@
         "toolName": "Claude Code",
         "previousHash": "acc6834a125c4f75c150050c5556f2687a11aa7450028632153a4ff31c056205",
         "newHash": "b5777414ff728bf4643ec13b6e1db2d6384928616f292bb90f08be6611a7bf06",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-16T23:53:32.957Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "b5777414ff728bf4643ec13b6e1db2d6384928616f292bb90f08be6611a7bf06",
+        "newHash": "c7572dc2c8c6ee7401977feee5f4514962826d0b8b43756a25ae7585c71b9e0f",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -4800,6 +4814,20 @@
         "toolName": "Codex",
         "previousHash": "c082ba9965fcfaaac9442248e89cf44bd6e7bb13a37228a1d6cc5df01668b1d8",
         "newHash": "2c12764561129d55ca41b403749307fdea41afbdb5d9fe669d2d8938a76948d3",
+        "confidence": 0.851,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-16T23:53:32.957Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "2c12764561129d55ca41b403749307fdea41afbdb5d9fe669d2d8938a76948d3",
+        "newHash": "e6537e4256b744084cb48d36b8c59f4c272d6adc929de39691fb5f0ac6717205",
         "confidence": 0.851,
         "source": {
           "type": "doc",
@@ -19385,6 +19413,20 @@
           "weight": 0.85
         },
         "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; Get the complete documentation index at: https://aistudio.google.com/llms.txt &gt; Use this file to discover all …"
+      },
+      {
+        "detectedAt": "2026-11-16T23:53:32.957Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "92191cc10ad39516ec0f839712e9f23a512cc93d3a06276fed6aed7129eb0d48",
+        "newHash": "2109905bb6cd881487708412697b3741d8966a01d4c4b9bfe5a1d06488e37344",
+        "confidence": 0.86,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live i…"
       }
     ],
     "kimi": [
@@ -20290,6 +20332,20 @@
         "toolName": "Kimi",
         "previousHash": "ab50da638c025fe3d330de1b5ee531f9e110730fece44c0999f65a27090bb3ca",
         "newHash": "f518441b75fec1d9470c5efda9b5d54b6860d8708fc8ecdba7d4cdb66fa2bdb6",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-16T23:53:32.957Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "f518441b75fec1d9470c5efda9b5d54b6860d8708fc8ecdba7d4cdb66fa2bdb6",
+        "newHash": "8269f1e6de652f7bded3c908c9162d0ad8a10789d8f091b524b847934cb2132d",
         "confidence": 0.845,
         "source": {
           "type": "doc",
@@ -21468,6 +21524,20 @@
         "toolName": "GLM",
         "previousHash": "67ef1decc891fc55740be95cddfbb45aacbba99117627ec451720b9b31efe2b4",
         "newHash": "a7dfc8e593e0845254423ecc3221c151be6c74f98be5bcc8792dd820ae37fc6a",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-16T23:53:32.957Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "a7dfc8e593e0845254423ecc3221c151be6c74f98be5bcc8792dd820ae37fc6a",
+        "newHash": "584c5c75b56ab9111e61912292417de69448db26db7f9c15552ecddcea4c13d8",
         "confidence": 0.834,
         "source": {
           "type": "doc",
