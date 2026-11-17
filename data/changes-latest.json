@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T05:36:01.988Z",
+  "generatedAt": "2026-11-17T17:10:40.953Z",
   "changes": [
     {
-      "detectedAt": "2026-11-17T05:36:01.988Z",
+      "detectedAt": "2026-11-17T17:10:40.953Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "c7572dc2c8c6ee7401977feee5f4514962826d0b8b43756a25ae7585c71b9e0f",
-      "newHash": "b9f82a3e63ec5c94e88c8ab7e80f5c219adc3c296c834a9a99530837e61b3521",
+      "previousHash": "b9f82a3e63ec5c94e88c8ab7e80f5c219adc3c296c834a9a99530837e61b3521",
+      "newHash": "35d4f04b145cc4be36638bc2178858768a13042419cd830a53cd1db219fb7b5f",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,25 +16,11 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-17T05:36:01.988Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "8269f1e6de652f7bded3c908c9162d0ad8a10789d8f091b524b847934cb2132d",
-      "newHash": "c1ba253e5729f7a7e7daa9b9f719d5966db26aa951608c6728b7b40efa8d9196",
-      "confidence": 0.845,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
-      },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-11-17T05:36:01.988Z",
+      "detectedAt": "2026-11-17T17:10:40.953Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "584c5c75b56ab9111e61912292417de69448db26db7f9c15552ecddcea4c13d8",
-      "newHash": "18b316e4c1a8f0b2aa1f0ea1999e1abef47fe526ba9c8b416c5b5834544c5199",
+      "previousHash": "18b316e4c1a8f0b2aa1f0ea1999e1abef47fe526ba9c8b416c5b5834544c5199",
+      "newHash": "f9b74b6a87a2488a18e0fc048a78f638f14e0b021275d84e0ed23c2e0783636f",
       "confidence": 0.834,
       "source": {
         "type": "doc",
