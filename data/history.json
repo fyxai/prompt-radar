@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:56:07.718Z",
+  "generatedAt": "2026-11-18T12:25:18.256Z",
   "tools": {
     "claude-code": [
       {
@@ -1758,6 +1758,20 @@
         "toolName": "Claude Code",
         "previousHash": "35d4f04b145cc4be36638bc2178858768a13042419cd830a53cd1db219fb7b5f",
         "newHash": "f833f20e9d1eba295fb701e193c07bd25580e2272b1c30f0bcc5953c7becc665",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-18T12:25:18.256Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "f833f20e9d1eba295fb701e193c07bd25580e2272b1c30f0bcc5953c7becc665",
+        "newHash": "1a4ffb7bb45857c27f5927a8b60fc8545070005b0bb231fec7ba5c32d7ef2235",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -19476,6 +19490,20 @@
         "toolName": "Gemini CLI",
         "previousHash": "92191cc10ad39516ec0f839712e9f23a512cc93d3a06276fed6aed7129eb0d48",
         "newHash": "2109905bb6cd881487708412697b3741d8966a01d4c4b9bfe5a1d06488e37344",
+        "confidence": 0.86,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live i…"
+      },
+      {
+        "detectedAt": "2026-11-18T12:25:18.256Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "2109905bb6cd881487708412697b3741d8966a01d4c4b9bfe5a1d06488e37344",
+        "newHash": "e5235ec534bfba72557016f0947265820a65a8d5956c5a9c999051c79c434acf",
         "confidence": 0.86,
         "source": {
           "type": "doc",
