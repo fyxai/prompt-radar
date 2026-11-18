@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T17:10:40.953Z",
+  "generatedAt": "2026-11-18T01:56:07.718Z",
   "changes": [
     {
-      "detectedAt": "2026-11-17T17:10:40.953Z",
+      "detectedAt": "2026-11-18T01:56:07.718Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "b9f82a3e63ec5c94e88c8ab7e80f5c219adc3c296c834a9a99530837e61b3521",
-      "newHash": "35d4f04b145cc4be36638bc2178858768a13042419cd830a53cd1db219fb7b5f",
+      "previousHash": "35d4f04b145cc4be36638bc2178858768a13042419cd830a53cd1db219fb7b5f",
+      "newHash": "f833f20e9d1eba295fb701e193c07bd25580e2272b1c30f0bcc5953c7becc665",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -16,11 +16,39 @@
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
     },
     {
-      "detectedAt": "2026-11-17T17:10:40.953Z",
+      "detectedAt": "2026-11-18T01:56:07.718Z",
+      "toolId": "codex",
+      "toolName": "Codex",
+      "previousHash": "e6537e4256b744084cb48d36b8c59f4c272d6adc929de39691fb5f0ac6717205",
+      "newHash": "55c0439dec90f7e3fafcfe02a712008dd03030fb2751f394792cd8e1ea0fd9f5",
+      "confidence": 0.851,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.openai.com/docs",
+        "weight": 0.85
+      },
+      "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+    },
+    {
+      "detectedAt": "2026-11-18T01:56:07.718Z",
+      "toolId": "kimi",
+      "toolName": "Kimi",
+      "previousHash": "c1ba253e5729f7a7e7daa9b9f719d5966db26aa951608c6728b7b40efa8d9196",
+      "newHash": "97079c07057acb5a417851805067149579acda593ac75d2e5b986ad5b250f3c7",
+      "confidence": 0.845,
+      "source": {
+        "type": "doc",
+        "url": "https://platform.moonshot.ai/docs",
+        "weight": 0.75
+      },
+      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-18T01:56:07.718Z",
       "toolId": "glm",
       "toolName": "GLM",
-      "previousHash": "18b316e4c1a8f0b2aa1f0ea1999e1abef47fe526ba9c8b416c5b5834544c5199",
-      "newHash": "f9b74b6a87a2488a18e0fc048a78f638f14e0b021275d84e0ed23c2e0783636f",
+      "previousHash": "f9b74b6a87a2488a18e0fc048a78f638f14e0b021275d84e0ed23c2e0783636f",
+      "newHash": "bd602e663f06bc8feb442b27be7acfc76d57d947ca6002775ee6c70c0f50d286",
       "confidence": 0.834,
       "source": {
         "type": "doc",
