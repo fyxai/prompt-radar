@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:29:15.546Z",
+  "generatedAt": "2026-11-20T12:17:44.811Z",
   "tools": {
     "claude-code": {
       "id": "claude-code",
@@ -8,9 +8,9 @@
         "claude code",
         "claude-code"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
-        "hash": "a6dc3e904a8330d5e8c7638308fda72a46d726867678056797039587441c4c61",
+        "hash": "53644a45a1d0038b33a7d925b2eef9fd8695aae6f1d80878e1020e869c752825",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -31,7 +31,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "a6dc3e904a8330d5e8c7638308fda72a46d726867678056797039587441c4c61",
+          "hash": "53644a45a1d0038b33a7d925b2eef9fd8695aae6f1d80878e1020e869c752825",
           "confidence": 0.835,
           "source": {
             "type": "doc",
@@ -41,13 +41,13 @@
           "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
         }
       ],
-      "evidenceHash": "e46484f746bcd134edd1d23158b55844e46f2fa5822bc794b59f5dcaf7d01c42",
+      "evidenceHash": "1ce0228ca44711d5183488a70732aeafc4eb4aecfea09986d4ba2b10f62a4394",
       "failures": [
         {
           "type": "github_file",
           "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/system-prompt.md",
           "error": "HTTP 404",
-          "fetchedAt": "2026-11-20T01:29:15.546Z"
+          "fetchedAt": "2026-11-20T12:17:44.812Z"
         }
       ],
       "fallbackUsed": false
@@ -58,9 +58,9 @@
       "aliases": [
         "kiro"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
-        "hash": "0dcae17b93644132585f368539170b74321b8c710d83207575bab57d68d793e4",
+        "hash": "803556f929bb3f598cc823c8753248a39843cadda7bd578cd43558759f80e4ae",
         "confidence": 0.81,
         "source": {
           "type": "doc",
@@ -71,7 +71,7 @@
       },
       "evidence": [
         {
-          "hash": "0dcae17b93644132585f368539170b74321b8c710d83207575bab57d68d793e4",
+          "hash": "803556f929bb3f598cc823c8753248a39843cadda7bd578cd43558759f80e4ae",
           "confidence": 0.81,
           "source": {
             "type": "doc",
@@ -91,7 +91,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "9d3217e29bb7f38a0caba3f924bbc6a49a355df5217fae58d0a8a1f58c0c4f68",
+          "hash": "93a70bd98355f5610f0fb58f1aa4ac8728f31a1737fcd4bf43bccdd58b5b1ea1",
           "confidence": 0.505,
           "source": {
             "type": "gist",
@@ -101,7 +101,7 @@
           "preview": "Search · kiro prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your se…"
         }
       ],
-      "evidenceHash": "a8696d29fe7ed0c0a94be01927edcd4747e96ad537fcedd04e2ebde5ddb25006",
+      "evidenceHash": "717be8178a8e054c12dd97399e92651f9b45af92308ade9beeff823f0ed80744",
       "failures": [],
       "fallbackUsed": false
     },
@@ -112,9 +112,9 @@
         "codex",
         "openai codex"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
-        "hash": "af57b3bbc3058d5fbe9797eb375c4e248d2092b419d27eb93953560032678b92",
+        "hash": "4dc740298f2617d17be0f2a4e40882f09c8cbccc803ab16292788ecb17267369",
         "confidence": 0.851,
         "source": {
           "type": "doc",
@@ -125,7 +125,7 @@
       },
       "evidence": [
         {
-          "hash": "af57b3bbc3058d5fbe9797eb375c4e248d2092b419d27eb93953560032678b92",
+          "hash": "4dc740298f2617d17be0f2a4e40882f09c8cbccc803ab16292788ecb17267369",
           "confidence": 0.851,
           "source": {
             "type": "doc",
@@ -145,7 +145,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "3a67878c9fe2058d53d16b86e6dc60aba554c40737b8e6259217c50b07d477c1",
+          "hash": "0c7ae51e62589676e4a406ad78b1d9ec1029181ad70b3de6ba770321d84c5e2d",
           "confidence": 0.507,
           "source": {
             "type": "gist",
@@ -155,7 +155,7 @@
           "preview": "Search · codex prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your s…"
         }
       ],
-      "evidenceHash": "ec0a23084e228fe980b5c4e83bc3d46c532b5bd6a33e213c08e5f0e8c58947ce",
+      "evidenceHash": "ebfe4273e386d140162041b1f342442e4ba907a7545b5ad072e07ff3fdf765b0",
       "failures": [],
       "fallbackUsed": false
     },
@@ -165,7 +165,7 @@
       "aliases": [
         "antigravity"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
         "hash": "b6158b5aafd00ac8f70d2d97b46c49bcd27223f6b80bdeb58686d0f4ca83eacb",
         "confidence": 0.543,
@@ -188,8 +188,8 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "1b6b80f4b94c34623603de574195e56170b51338f5a7ce09f833dda35d35b529",
-          "confidence": 0.504,
+          "hash": "278ede772684afeb6799885d37d6613282cc24f0ea051b2645ddf5b476cb9733",
+          "confidence": 0.505,
           "source": {
             "type": "gist",
             "url": "https://gist.github.com/search?q=antigravity+ai+prompt",
@@ -198,13 +198,13 @@
           "preview": "Search · antigravity ai prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refre…"
         }
       ],
-      "evidenceHash": "6d7ac00660c45e66f856e6e233e5501b6fda7692f5dc1971221e71e6cfdd77e9",
+      "evidenceHash": "40bce77d7275743399b79c85f5636bd0cbb98a4356472c43aa68537eb9643057",
       "failures": [
         {
           "type": "doc",
           "url": "https://antigravity.ai",
           "error": "Content too short after normalization",
-          "fetchedAt": "2026-11-20T01:29:18.599Z"
+          "fetchedAt": "2026-11-20T12:17:47.843Z"
         }
       ],
       "fallbackUsed": false
@@ -216,9 +216,9 @@
         "gemini cli",
         "gemini-cli"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
-        "hash": "0c2e930ac03024edae2bdd02623227313f209e3992c6701101b2b3e692fa71e9",
+        "hash": "bb06a19437822fb4ab4a8b1db6addf84362def95a56df5ce131e17eef71f57ba",
         "confidence": 0.861,
         "source": {
           "type": "doc",
@@ -229,7 +229,7 @@
       },
       "evidence": [
         {
-          "hash": "0c2e930ac03024edae2bdd02623227313f209e3992c6701101b2b3e692fa71e9",
+          "hash": "bb06a19437822fb4ab4a8b1db6addf84362def95a56df5ce131e17eef71f57ba",
           "confidence": 0.861,
           "source": {
             "type": "doc",
@@ -249,8 +249,8 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "ddba688c397b6bd8a44174b6999bb1b0be88d3f210e0591e653674863ae3ef55",
-          "confidence": 0.502,
+          "hash": "e1739ecbb507da956c007de6b984c160c2126b668b58b4012c84e725fc1b2cac",
+          "confidence": 0.503,
           "source": {
             "type": "gist",
             "url": "https://gist.github.com/search?q=gemini+cli+prompt",
@@ -259,7 +259,7 @@
           "preview": "Search · gemini cli prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh y…"
         }
       ],
-      "evidenceHash": "202ec96464b871be2bf15a21e63a1a87038fe9bcc44424d77c8c1df44d84773f",
+      "evidenceHash": "82114812a770ba7335a18b8c4567af8585383023cc289ac56b241585b0ff407e",
       "failures": [],
       "fallbackUsed": false
     },
@@ -270,10 +270,10 @@
         "kimi",
         "moonshot kimi"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
-        "hash": "595ef8558f037882cce7a6c5dfae523aaaf391fed02bcfed75c4bfb07ebadcae",
-        "confidence": 0.844,
+        "hash": "d038f246b279e281870df3290cac25ad8b4ed1416be87971ff326d548e215fd9",
+        "confidence": 0.845,
         "source": {
           "type": "doc",
           "url": "https://platform.moonshot.ai/docs",
@@ -283,8 +283,8 @@
       },
       "evidence": [
         {
-          "hash": "595ef8558f037882cce7a6c5dfae523aaaf391fed02bcfed75c4bfb07ebadcae",
-          "confidence": 0.844,
+          "hash": "d038f246b279e281870df3290cac25ad8b4ed1416be87971ff326d548e215fd9",
+          "confidence": 0.845,
           "source": {
             "type": "doc",
             "url": "https://platform.moonshot.ai/docs",
@@ -303,7 +303,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "55f8fd89fd587ad1d12c13ae3c984557ae9940fe6932953f71dcd375d1f078da",
+          "hash": "f199a9395702e6736135ce1cd1a5eec8ee8ef003df7f3e63523f6ca05b0551d5",
           "confidence": 0.506,
           "source": {
             "type": "gist",
@@ -313,7 +313,7 @@
           "preview": "Search · kimi prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your se…"
         }
       ],
-      "evidenceHash": "7a95b2eae51ce4f81536f430f1566fcaf7faa854058278f762b8ed2d16c4c929",
+      "evidenceHash": "d735a76999c58bf5304f893e7e2a1ed76c4b80c9326d7b3ac70c917a9fb162fa",
       "failures": [],
       "fallbackUsed": false
     },
@@ -324,7 +324,7 @@
         "glm",
         "chatglm"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
         "hash": "cc76e0df96222778d7cef57cf279ed6fe0d6eaa3160d3d6d88cf77c66ee5e015",
         "confidence": 0.831,
@@ -357,7 +357,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "77249bf68d85c8443f6394610d7802a7f5cb0f62857f6a90183d532c04218911",
+          "hash": "8f1ec430c17c08532c3ae0dd8821771d15d6cd225d78bafcf7a7e990fe370c18",
           "confidence": 0.503,
           "source": {
             "type": "gist",
@@ -367,7 +367,7 @@
           "preview": "Search · chatglm prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your…"
         }
       ],
-      "evidenceHash": "2ff919ed90a9c45c34814d588249c00c4ce8ff4bc8c801c3f2a9caeb33ccbc7f",
+      "evidenceHash": "2f0144c4bff7c2b67c32d34b72ebc93f9e69de0fcb2b3f2b575938d6b2944e91",
       "failures": [],
       "fallbackUsed": false
     },
@@ -378,7 +378,7 @@
         "doubao",
         "volcengine doubao"
       ],
-      "lastCheckedAt": "2026-11-20T01:29:15.546Z",
+      "lastCheckedAt": "2026-11-20T12:17:44.811Z",
       "topCandidate": {
         "hash": "1fa0f29dddc9660f417d2d3594aba4e9f4d52103e811d3d27de61864828201aa",
         "confidence": 0.799,
@@ -411,7 +411,7 @@
           "preview": "Code search results · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, …"
         },
         {
-          "hash": "ade2e6ad9c39fbef39432d8b267ecec5c3e011e75de1928f7e6ffdb8bffc4701",
+          "hash": "0dbecc5e9017a9fc5ccb1b33a6b5b44bd4e951b6662724c302e34e37958984e5",
           "confidence": 0.508,
           "source": {
             "type": "gist",
@@ -421,7 +421,7 @@
           "preview": "Search · doubao prompt · GitHub Skip to content All gists Back to GitHub Sign in Sign up Sign&nbsp;in Sign&nbsp;up You signed in with another tab or window. Reload to refresh your …"
         }
       ],
-      "evidenceHash": "f1a7edbfe05af5112544254f39f19f1d56364a837603693856e6ecdac96be77b",
+      "evidenceHash": "db514cdbc15baa9d2d2ebdba3fe87c49eb2faea8a2079f74e41c0c10dbc1410b",
       "failures": [],
       "fallbackUsed": false
     }
