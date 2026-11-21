@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:40:05.196Z",
+  "generatedAt": "2026-11-21T15:43:53.605Z",
   "tools": {
     "claude-code": [
       {
@@ -1856,6 +1856,20 @@
         "toolName": "Claude Code",
         "previousHash": "9b0d7617a5b6031acd42d99ec95453a96adb6ef096daf22230d0226515a3172b",
         "newHash": "beb66075d45c060b0ef57bdf3b97845d48b19b655d268ca3f51bee3aab6f5021",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-21T15:43:53.605Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "beb66075d45c060b0ef57bdf3b97845d48b19b655d268ca3f51bee3aab6f5021",
+        "newHash": "12c321ecef7fa4deca297784da2ee428e4071e356c879de1b46355e634b7c742",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -5066,6 +5080,20 @@
         "toolName": "Codex",
         "previousHash": "b02780882f7ccf492469ba6496f34f7b6e26a23033091db04784ec610cef43a0",
         "newHash": "cc17d4306574aa856b8dd6d8fdf3209fe02347f7fe43b8e108cda01994593a03",
+        "confidence": 0.851,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.openai.com/docs",
+          "weight": 0.85
+        },
+        "preview": "OpenAI API Platform Documentation For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. Chat…"
+      },
+      {
+        "detectedAt": "2026-11-21T15:43:53.605Z",
+        "toolId": "codex",
+        "toolName": "Codex",
+        "previousHash": "cc17d4306574aa856b8dd6d8fdf3209fe02347f7fe43b8e108cda01994593a03",
+        "newHash": "240dc6cd039fd40d0a5edfef6f777387eb831ffc87aa7c415f7676e1b74aafff",
         "confidence": 0.851,
         "source": {
           "type": "doc",
@@ -20759,6 +20787,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-21T15:43:53.605Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "2c317ba0f44517a3fc0696785136811f7f6478bef0bd799c3725e778f044fa19",
+        "newHash": "56c3a927334a35608f9ed3a8697c1ec012ccf8e0b4a129f06e0458d7fca19a59",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -25705,6 +25747,20 @@
           "weight": 0.75
         },
         "preview": "You need to enable JavaScript to run this app. 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用的正确姿势 迁移到方舟官方 SDK 模型 模型列表…"
+      },
+      {
+        "detectedAt": "2026-11-21T15:43:53.605Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "1fa0f29dddc9660f417d2d3594aba4e9f4d52103e811d3d27de61864828201aa",
+        "newHash": "6c8aec3a3271f1d06615cffac1812aabd3571fcdd569850d18681639ca3ae1b1",
+        "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 火山方舟-火山引擎 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用注意事项 迁移到方舟官方 SD…"
       }
     ]
   }
