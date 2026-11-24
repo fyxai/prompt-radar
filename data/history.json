@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:29:18.682Z",
+  "generatedAt": "2026-11-24T19:10:32.162Z",
   "tools": {
     "claude-code": [
       {
@@ -1940,6 +1940,20 @@
         "toolName": "Claude Code",
         "previousHash": "11ba56832d2a20244a8b8a834596726ce5b70a3ded95b8ca1154fa5119824216",
         "newHash": "a100a73f093304bc846c2354960c752e2f9cc4e79294ecbfacc88ebadc3083ba",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-24T19:10:32.162Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "a100a73f093304bc846c2354960c752e2f9cc4e79294ecbfacc88ebadc3083ba",
+        "newHash": "d28f88fe9b7573cdfed47f8aa5e71e38df2143835046e7433c519252bd0c3938",
         "confidence": 0.835,
         "source": {
           "type": "doc",
@@ -20941,6 +20955,20 @@
           "weight": 0.75
         },
         "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-24T19:10:32.162Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "30916cddeb91e8e4ac8f74281bbb143b9ac01f54196cd764397fffec59a5666b",
+        "newHash": "93ced482156fbc215eec3d25269e0a0ad28284b81b1fc2ea5daf20436b592787",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
       }
     ],
     "glm": [
@@ -22266,6 +22294,20 @@
         "toolName": "GLM",
         "previousHash": "08b1988da800d034b7ad892cdebbbba6167c860a4f274449def1b7bde0655e94",
         "newHash": "923a66fdfc839bce71acd5285730f9bd4f60645297ce3324baa5818af72b355c",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-24T19:10:32.162Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "923a66fdfc839bce71acd5285730f9bd4f60645297ce3324baa5818af72b355c",
+        "newHash": "de6c7244935d8fbd37aaa835d107f72c07f4220fde6b2a64ff19d029871bd7ed",
         "confidence": 0.834,
         "source": {
           "type": "doc",
@@ -25936,6 +25978,20 @@
         "toolName": "Doubao",
         "previousHash": "1fa0f29dddc9660f417d2d3594aba4e9f4d52103e811d3d27de61864828201aa",
         "newHash": "6c8aec3a3271f1d06615cffac1812aabd3571fcdd569850d18681639ca3ae1b1",
+        "confidence": 0.799,
+        "source": {
+          "type": "doc",
+          "url": "https://www.volcengine.com/docs/82379",
+          "weight": 0.75
+        },
+        "preview": "You need to enable JavaScript to run this app. 火山方舟-火山引擎 文档中心 登录 注册 火山方舟 文档指南 订阅 [Agent/Coding Plan] API参考 资源 AI 套件 火山方舟 火山方舟 文档指南 请输入 入门 产品简介 快速入门 模型价格 Agent 场景模型调用注意事项 迁移到方舟官方 SD…"
+      },
+      {
+        "detectedAt": "2026-11-24T19:10:32.162Z",
+        "toolId": "doubao",
+        "toolName": "Doubao",
+        "previousHash": "6c8aec3a3271f1d06615cffac1812aabd3571fcdd569850d18681639ca3ae1b1",
+        "newHash": "ae0b9338e518ec4886ee20e400563b40c2a6ec275a16a9392552250d7c2bb4ed",
         "confidence": 0.799,
         "source": {
           "type": "doc",
