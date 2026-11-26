@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:50:27.685Z",
+  "generatedAt": "2026-11-26T17:57:14.765Z",
   "tools": {
     "claude-code": [
       {
@@ -21088,6 +21088,20 @@
         "toolName": "Kimi",
         "previousHash": "6a9a0e5c7169d0f378d5bb2fea1a5637f05fb1d93e749ff9a1f3a437d2b7685e",
         "newHash": "f5df9ce5ee7e3744f38006f46763e37e44e1d7a91a73f56e9c2f18d89b3e034a",
+        "confidence": 0.845,
+        "source": {
+          "type": "doc",
+          "url": "https://platform.moonshot.ai/docs",
+          "weight": 0.75
+        },
+        "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+      },
+      {
+        "detectedAt": "2026-11-26T17:57:14.765Z",
+        "toolId": "kimi",
+        "toolName": "Kimi",
+        "previousHash": "f5df9ce5ee7e3744f38006f46763e37e44e1d7a91a73f56e9c2f18d89b3e034a",
+        "newHash": "096f2c8422e15b0d8563fa30268d6d2d1dec76f855e0301ce1b1c613753f88fa",
         "confidence": 0.845,
         "source": {
           "type": "doc",
