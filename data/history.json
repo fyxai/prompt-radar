@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:31:01.190Z",
+  "generatedAt": "2026-11-27T13:16:42.641Z",
   "tools": {
     "claude-code": [
       {
@@ -19959,6 +19959,20 @@
           "weight": 0.85
         },
         "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live i…"
+      },
+      {
+        "detectedAt": "2026-11-27T13:16:42.641Z",
+        "toolId": "gemini-cli",
+        "toolName": "Gemini CLI",
+        "previousHash": "bb06a19437822fb4ab4a8b1db6addf84362def95a56df5ce131e17eef71f57ba",
+        "newHash": "71257b45058feb764a6c92580bb41c7cbc6ee67769e15e62a5f474a55363a04c",
+        "confidence": 0.862,
+        "source": {
+          "type": "doc",
+          "url": "https://ai.google.dev/gemini-api/docs",
+          "weight": 0.85
+        },
+        "preview": "Docs - Gemini API | Google AI Studio &gt; ## AI Agent Context &gt; - Full documentation index: https://aistudio.google.com/llms.txt &gt; - Gemini Docs MCP server (consistent live i…"
       }
     ],
     "kimi": [
@@ -22532,6 +22546,20 @@
         "toolName": "GLM",
         "previousHash": "6bd1769f677e5d16385d6ad2a43930a01d6c7b17e99283be66873c2861e76c27",
         "newHash": "ab4cbdcb0ccf15176e05930f4f46c6f82ad20aeaf58ea01fdea08cdf99331fe1",
+        "confidence": 0.834,
+        "source": {
+          "type": "doc",
+          "url": "https://open.bigmodel.cn/dev/api",
+          "weight": 0.75
+        },
+        "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
+      },
+      {
+        "detectedAt": "2026-11-27T13:16:42.641Z",
+        "toolId": "glm",
+        "toolName": "GLM",
+        "previousHash": "ab4cbdcb0ccf15176e05930f4f46c6f82ad20aeaf58ea01fdea08cdf99331fe1",
+        "newHash": "36d2b7f7693efce41b8d51af22b4c61f1155b9830bbaf5a65cfb2ff3c6450e0c",
         "confidence": 0.834,
         "source": {
           "type": "doc",
