@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-11-26T17:57:14.765Z",
+  "generatedAt": "2026-11-27T02:31:01.190Z",
   "changes": [
     {
-      "detectedAt": "2026-11-26T17:57:14.765Z",
+      "detectedAt": "2026-11-27T02:31:01.190Z",
+      "toolId": "claude-code",
+      "toolName": "Claude Code",
+      "previousHash": "042efe1fce2b3a367ff1ae183219b4a6e5fb46fa3202bf558b8fc258fb0812e4",
+      "newHash": "3b2455c7bbf701dc8b72d88c36d11f27c48f11f4aeb6b93c6f8e997700109871",
+      "confidence": 0.835,
+      "source": {
+        "type": "doc",
+        "url": "https://docs.anthropic.com/en/docs/claude-code",
+        "weight": 0.7
+      },
+      "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+    },
+    {
+      "detectedAt": "2026-11-27T02:31:01.190Z",
       "toolId": "kimi",
       "toolName": "Kimi",
-      "previousHash": "f5df9ce5ee7e3744f38006f46763e37e44e1d7a91a73f56e9c2f18d89b3e034a",
-      "newHash": "096f2c8422e15b0d8563fa30268d6d2d1dec76f855e0301ce1b1c613753f88fa",
+      "previousHash": "096f2c8422e15b0d8563fa30268d6d2d1dec76f855e0301ce1b1c613753f88fa",
+      "newHash": "926b6cc012e15af1e14e81d7b1b299f1a93c68de467064712b9bb44767275bf2",
       "confidence": 0.845,
       "source": {
         "type": "doc",
@@ -14,6 +28,20 @@
         "weight": 0.75
       },
       "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
+    },
+    {
+      "detectedAt": "2026-11-27T02:31:01.190Z",
+      "toolId": "glm",
+      "toolName": "GLM",
+      "previousHash": "6bd1769f677e5d16385d6ad2a43930a01d6c7b17e99283be66873c2861e76c27",
+      "newHash": "ab4cbdcb0ccf15176e05930f4f46c6f82ad20aeaf58ea01fdea08cdf99331fe1",
+      "confidence": 0.834,
+      "source": {
+        "type": "doc",
+        "url": "https://open.bigmodel.cn/dev/api",
+        "weight": 0.75
+      },
+      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
