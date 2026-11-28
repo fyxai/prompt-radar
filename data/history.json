@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:48:17.674Z",
+  "generatedAt": "2026-11-28T05:23:49.302Z",
   "tools": {
     "claude-code": [
       {
@@ -2038,6 +2038,20 @@
         "toolName": "Claude Code",
         "previousHash": "3b2455c7bbf701dc8b72d88c36d11f27c48f11f4aeb6b93c6f8e997700109871",
         "newHash": "93f24ce4b889ad53fba12eb5d76a3a97da3e5a8bdfa9adc29ba20218271d5fae",
+        "confidence": 0.835,
+        "source": {
+          "type": "doc",
+          "url": "https://docs.anthropic.com/en/docs/claude-code",
+          "weight": 0.7
+        },
+        "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
+      },
+      {
+        "detectedAt": "2026-11-28T05:23:49.302Z",
+        "toolId": "claude-code",
+        "toolName": "Claude Code",
+        "previousHash": "93f24ce4b889ad53fba12eb5d76a3a97da3e5a8bdfa9adc29ba20218271d5fae",
+        "newHash": "2cec7335834bc07241389f3f2badccba1abe315305888bd378ec785d0d9b0640",
         "confidence": 0.835,
         "source": {
           "type": "doc",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T23:48:17.674Z",
+  "generatedAt": "2026-11-28T05:23:49.302Z",
   "changes": [
     {
-      "detectedAt": "2026-11-27T23:48:17.674Z",
+      "detectedAt": "2026-11-28T05:23:49.302Z",
       "toolId": "claude-code",
       "toolName": "Claude Code",
-      "previousHash": "3b2455c7bbf701dc8b72d88c36d11f27c48f11f4aeb6b93c6f8e997700109871",
-      "newHash": "93f24ce4b889ad53fba12eb5d76a3a97da3e5a8bdfa9adc29ba20218271d5fae",
+      "previousHash": "93f24ce4b889ad53fba12eb5d76a3a97da3e5a8bdfa9adc29ba20218271d5fae",
+      "newHash": "2cec7335834bc07241389f3f2badccba1abe315305888bd378ec785d0d9b0640",
       "confidence": 0.835,
       "source": {
         "type": "doc",
@@ -14,34 +14,6 @@
         "weight": 0.7
       },
       "preview": "Overview - Claude Code Docs Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Sk…"
-    },
-    {
-      "detectedAt": "2026-11-27T23:48:17.674Z",
-      "toolId": "kimi",
-      "toolName": "Kimi",
-      "previousHash": "926b6cc012e15af1e14e81d7b1b299f1a93c68de467064712b9bb44767275bf2",
-      "newHash": "7dbaea17dfcee6d2bf3bfdc4b26444ae6332b6e05d84b67a5f2c395bddc7786d",
-      "confidence": 0.845,
-      "source": {
-        "type": "doc",
-        "url": "https://platform.moonshot.ai/docs",
-        "weight": 0.75
-      },
-      "preview": "Quickstart - Kimi API Platform Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further.…"
-    },
-    {
-      "detectedAt": "2026-11-27T23:48:17.674Z",
-      "toolId": "glm",
-      "toolName": "GLM",
-      "previousHash": "36d2b7f7693efce41b8d51af22b4c61f1155b9830bbaf5a65cfb2ff3c6450e0c",
-      "newHash": "be8acc631b03d31e7f0d4e67fe0a5c5ba464b280c3ca1e927b1391725679ede7",
-      "confidence": 0.834,
-      "source": {
-        "type": "doc",
-        "url": "https://open.bigmodel.cn/dev/api",
-        "weight": 0.75
-      },
-      "preview": "平台介绍 - 智谱AI开放文档 Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main conten…"
     }
   ]
 }
